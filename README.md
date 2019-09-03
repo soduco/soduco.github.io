@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to the SoDUCo project
 
-You can use the [editor on GitHub](https://github.com/soduco/anr-website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+SoDuCo is a 4 years pluridisciplinary project funded by the french [National Research Agency](https://anr.fr/Projet-ANR-18-CE38-0013), it has started in march 2019 and will end in 2023.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Soduco is the short for *Social Dynamics in Urban Context*. It brings together people from the geographical sciences, from urban history, specialists of network morphogenesis and computer scientists to study the evolution of a city over time, both in terms of its morphological transformations and its social evolutions.
 
-### Markdown
+[etc.]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Follow us on ...!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Code and data
+### FOSS for the geohumanities
+*TODO*
+### Open datasets for open science
+*TODO*
 
-- Bulleted
-- List
+## More about SoDUCo
 
-1. Numbered
-2. List
+### The Team
+*TODO*
+### Project documents and deliverables
+*TODO*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/soduco/anr-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## News
+* *30/08/2019* ~ Soduco has been introduced to the FOSS4G community at the annual FOSS4G conference in Bucharest, Romania!
+* *29/03/2019* ~ The project is officially launched!
