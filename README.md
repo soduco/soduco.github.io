@@ -4,7 +4,7 @@ SoDuCo is a 4 years pluridisciplinary project funded by the french [National Res
 
 Soduco is the short for *Social Dynamics in Urban Context*. It brings together people from the geographical sciences, from urban history, specialists of network morphogenesis and computer scientists to study the evolution of a city over time, both in terms of its morphological transformations and its social evolutions.
 
-[Offre emploi juillet 2021]{https://soduco.github.io/SoDUCo2021DevelopWebFullstack.pdf}
+[Offre emploi, juillet 2021](https://soduco.github.io/SoDUCo2021DevelopWebFullstack.pdf)
 
 [etc.]
 
