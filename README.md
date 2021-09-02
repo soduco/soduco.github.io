@@ -15,6 +15,6 @@ Members:
 Contact: contact@geohistoricaldata.org
 
 ## What's new
-* *01/08/2021* ~ [Job opportunity, july 2021 : Full-stack web developer](https://soduco.github.io/static/documents/SoDUCo2021DevelopWebFullstack.pdf)
+* *01/08/2021* ~ [Job opportunity, july 2021 : Full-stack web developer](https://soduco.github.io/static/documents/SoDUCo2021DevelopWebFullstack_en.pdf)
 * *30/08/2019* ~ Soduco has been introduced to the FOSS4G community at the annual FOSS4G conference in Bucharest, Romania
 * *29/03/2019* ~ The project is officially launched
