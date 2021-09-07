@@ -73,16 +73,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 38rem;
 }
 @media (min-width: 38em) {
   .container {
-    max-width: 32rem;
+    max-width: 42rem;
   }
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 48rem;
   }
 }
 
@@ -532,6 +532,17 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
+/* SoDUCo pink */
+.theme-base-soduco .sidebar,
+.theme-base-soduco .sidebar-toggle:active,
+.theme-base-soduco #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #ff5f5f;
+}
+.theme-base-soduco .container a,
+.theme-base-soduco .sidebar-toggle,
+.theme-base-soduco .related-posts li a:hover {
+  color: #ff5f5f;
+}
 
 /*
  * Overlay sidebar

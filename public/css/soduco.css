@@ -1,0 +1,23 @@
+
+/*
+ * Rules specific to the SODUCO site
+ */
+
+.section-title {
+    margin-top: 3rem;
+}
+
+
+.image-row {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.image-row img {
+    display: block;
+    max-width: 8em;
+    text-align: center;
+    object-fit:scale-down;
+    padding: 0 1rem 0;
+}
