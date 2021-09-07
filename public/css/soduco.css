@@ -21,3 +21,22 @@
     object-fit:scale-down;
     padding: 0 1rem 0;
 }
+
+
+/* SoDUCo orange */
+.theme-base-soduco .sidebar,
+.theme-base-soduco .sidebar-toggle:active,
+.theme-base-soduco #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #f9734a;
+}
+.theme-base-soduco .container a,
+.theme-base-soduco .sidebar-toggle,
+.theme-base-soduco .related-posts li a:hover {
+  color: #f9734a;
+}
+
+
+/* Bigger title */
+.masthead-title {
+    font-size: 2em;
+}
