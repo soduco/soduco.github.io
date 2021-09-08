@@ -22,17 +22,17 @@ plugins:
 # in the templates via {{ site.myvariable }}.
 # Setup
 version:            1
-title:              SODUCO
-tagline:            ": <span style='color:#f9734a'>So</span>cial <span style='color:#f9734a'>D</span>ynamics in <span style='color:#f9734a'>U</span>rban <span style='color:#f9734a'>Co</span>ntext <br/> Open tools, models and data - Paris and its suburbs, 1789-1950"
-description:         "ANR-18-CE38-0013, 2019-2023"
-url:                 "https://soduco.github.io"
-contact:             contact@geohistoricaldata.org
-baseurl:             ''
-permalink:           pretty
-paginate: 5
+title:              Social Dynamics in Urban Context
+tagline:            "<br/>Open tools, models and data - Paris and its suburbs, 1789-1950"
+description:        "ANR-18-CE38-0013, 2019-2023"
+url:                "https://soduco.github.io"
+contact:            contact@geohistoricaldata.org
+baseurl:            ''
+permalink:          pretty
+paginate:           5
 
 github:
-    repo:            https://github.com/soduco
+    repo:           https://github.com/soduco
 
 
 
