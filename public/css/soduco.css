@@ -38,5 +38,20 @@
 
 /* Bigger title */
 .masthead-title {
-    font-size: 2em;
+    font-size: 1.6rem;
 }
+
+.title-wrapper {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	margin-bottom: 2rem;
+}
+
+.title-wrapper img {
+	max-width: 20%;
+	padding: 1rem;
+}
+
+
+

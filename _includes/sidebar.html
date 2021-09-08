@@ -4,13 +4,6 @@
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
-  <div class="sidebar-item">
-      <img alt="" src="https://soduco.github.io/assets/img/logo.png">
-  </div>
-  <div class="sidebar-item">
-    <p>{{ site.description }}</p>
-  </div>
-
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
@@ -37,6 +30,9 @@
     <!-- <p>
       &copy; {{ site.time | date: '%Y' }}. All rights reserved.
     </p> -->
-      <img alt="Funded by the French National Research Agency" src="{{ site.baseurl }}/public/images/anr_logo.png">
+      <p>{{ site.description }}</p>
+      <div style="text-align:center;">
+      <img style="display:inline-block; max-width:6rem;" alt="Funded by the French National Research Agency" src="public/images/anr_logo.png">
+      </div>
   </div>
 </div>
