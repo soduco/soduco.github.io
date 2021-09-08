@@ -1,0 +1,54 @@
+---
+layout: default
+title: Home
+---
+<div>
+<h1 class="post-title"><a>Welcome to the SODUCO project</a></h1>
+<p>
+  SODUCO is a 4 years pluridisciplinary project funded by the French National Research Agency, it has started in march 2019 and will end in 2023.
+
+  SODUCO brings together people from the geographical sciences, from urban history, specialists of network morphogenesis and computer scientists to study the evolution of Paris over time, both in terms of its morphological transformations and its social evolutions.
+</p>
+
+Project members:
+<div class="image-row">
+  <img src="/public/images/ehess_logo.png">
+  <img src="/public/images/ign_logo.png">
+  <img src="/public/images/epita_logo.png">
+  <img src="/public/images/an_logo.png">
+</div>
+
+
+<h2 class="section-title">Latest news</h2>
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | absolute_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.content }}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
