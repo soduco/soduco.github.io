@@ -33,8 +33,22 @@ Reference tagged entities were then projected on OCR predictions done by tree di
 - for PERO OCR: 8, 392 valid entries were generated, 
 - for Tesseract: 8, 700 valid entries were generated, 
 - for Kraken: 7, 990 valid entries were generated. 
+
 The resulting intersection of the sets of valid entries contains 7, 725 entries for the tree OCR systems (and the reference), or 8, 341 entries if we consider PERO OCR and Tesseract only.
 
 The dataset is described in more detail and can be dowloaded at https://zenodo.org/record/6394464
 
 ## Tools
+
+### Semi-automatic annotation tool
+
+A semi-automatic text annotation tool is developped by the project. It takes PDF documents as input and processes them automatically by applying the following three steps:
+- layout detection,
+- optical characters recognition (with PERO OCR),
+- named entities recognition (fine-tuned CamemBERT model).
+
+Users can then check and manually correct each automatically detected and processed text section. 
+
+![SODUCO text annotation tool](directory_labelling_interface.jpg)
+
+
