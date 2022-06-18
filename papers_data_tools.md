@@ -42,13 +42,17 @@ The dataset is described in more detail and can be dowloaded at https://zenodo.o
 
 ### Semi-automatic annotation tool
 
-A semi-automatic text annotation tool is developped by the project. It takes PDF documents as input and processes them automatically by applying the following three steps:
+A semi-automatic text annotation tool is developped by the project. It takes PDF documents as input and processes them automatically by applying the three following steps:
 - layout detection,
 - optical characters recognition (with PERO OCR),
 - named entities recognition (fine-tuned CamemBERT model).
 
 Users can then check and manually correct each automatically detected and processed text section. 
 
-![SODUCO text annotation tool](./public/images/AnnotationTool.png)
+| ![SODUCO text annotation tool](./public/images/AnnotationTool.png) |
+|:--:|
+| <b>SODUCO text annotation tool</b>|
+
+
 
 
