@@ -20,7 +20,7 @@ rank: 2
 * Quality assessment in old maps,
 * Co-supervision of Solenn Tual master internship.  
 
-**[Yann Meneroux](https://www.researchgate.net/profile/Yann-Meneroux)**, Researcher::
+**[Yann Meneroux](https://www.researchgate.net/profile/Yann-Meneroux)**, Researcher:
 * Quality assessment in old maps,
 * Uncertainty Uncertainty modeling and analysis.
 
