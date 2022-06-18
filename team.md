@@ -39,6 +39,10 @@ rank: 2
 **[Melvin Hersent]**, Engineer:
 *  Development of the cataloguing Web application for archival records and digital data used and produced throughout the project.
 
+**[Solenn Tual]**, Intern, Master 2 IGAST (ENSG - univ. Eiffel):
+*  Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
+*  Spatio-temporal graph creation and analysis.
+
 
 ## School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
 
