@@ -22,7 +22,7 @@ L'acquisition (et l'accumulation) de données numériques provenant des sources 
 
 ### Programme 
 
-** Matinée :** Présidence, Cristina Ion (BnF).
+**Matinée :** Présidence, Cristina Ion (BnF).
 
 9h30. Le dossier Verniquet. Introduction à l'édition critique / numérique de l'Atlas du plan général de la ville de Paris (1795).
 Ange Aniesa (BnF) et Stéphane Baciocchi (EHESS) coord.
@@ -32,7 +32,7 @@ Bertrand Duménieu (EHESS) coord., Nathalie Abadie (LASTIG, univ. Gustave Eiffel
 
 11h30-12h00. Discussion
 
-** Après-midi: ** Présidence, Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
+**Après-midi:** Présidence, Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
 
 14h00. Exercices sur l'extraction automatique de données géométriques.
 J. Chazalon (EPITA) et J. Perret (IGN) coord.
