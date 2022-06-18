@@ -25,7 +25,7 @@ An inventory of large-scale cartographic sources describing the city of Paris fr
 
 In this set, three reference atlases (Verniquet, Jacoubet an the Atlas municipal presented in Fig. 2) were selected to be the subject of an in-depth work of critical edition following the original principles of vectorization, indexing and visualization developed by the EHESS team (See: https://hal.archives-ouvertes.fr/hal-02173847 for more details). 
 
-| ![Atlas Municipal](./public/images/AtlasMunicipal.png) | 
+| ![Atlas Municipal](./public/images/AtlasMunicipal.jpg) | 
 |:--:|
 | <b>Fig. 2: Atlas Municipal - 1925 - sheet 1. Source: http://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000935524 </b>|
 
