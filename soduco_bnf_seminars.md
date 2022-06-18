@@ -13,6 +13,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
 
 **Date:** Lundi 11 avril 2022.
+
 **Lieu:** BnF, Paris, Belvédère du site François-Mitterrand (18e étage tour T2).
 
 ### Résumé
@@ -27,7 +28,7 @@ L'acquisition (et l'accumulation) de données numériques provenant des sources 
 Ange Aniesa (BnF) et Stéphane Baciocchi (EHESS) coord.
 
 10h30. Le système de référence de coordonnées de Paris, levé géométriquement par le citoyen Verniquet.
-B. Duménieu (EHESS), coord.
+Bertrand Duménieu (EHESS) coord., Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG), Yann Ménéroux (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
 
 11h30-12h00. Discussion
 
@@ -47,6 +48,7 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 ## Séance 2/4: Annuaires et Almanachs - Géocodage
 
 **Date:** Jeudi 10 novembre 2022.
+
 **Lieu:** BnF, Paris, site François-Mitterrand (Petit auditorium, salle 70).
 
 ### Résumé
