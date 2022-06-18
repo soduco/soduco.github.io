@@ -47,8 +47,11 @@ A semi-automatic text annotation tool is developped by the project. It takes PDF
 - optical characters recognition (with PERO OCR),
 - named entities recognition (fine-tuned CamemBERT model).
 
-Users can then check and manually correct each automatically detected and processed text section. 
+Users can then check and manually correct each automatically detected and processed text section.
 
+| ![SODUCO corpus of directories](./public/images/SODUCO_Corpus.png) |
+|:--:|
+| <b>The trade directories from the 19<sup>th</sup> century are a challenging dataset with very heterogeneous layouts, fonts, and contents. Source: gallica.bnf.fr / Bibliothèque nationale de France</b>|
 | ![SODUCO text annotation tool](./public/images/AnnotationTool.png) |
 |:--:|
 | <b>SODUCO text annotation tool</b>|
