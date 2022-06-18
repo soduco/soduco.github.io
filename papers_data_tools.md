@@ -49,6 +49,6 @@ A semi-automatic text annotation tool is developped by the project. It takes PDF
 
 Users can then check and manually correct each automatically detected and processed text section. 
 
-![SODUCO text annotation tool](directory_labelling_interface.jpg)
+![SODUCO text annotation tool](./public/images/AnnotationTool.png)
 
 
