@@ -1,9 +1,8 @@
 ---
 layout: page
-title:  Team
+title:  The SODUCO team members
 rank: 2
 ---
-# The SODUCO team members
 
 ## LASTIG, université Gustave Eiffel, IGN-ENSG
 
