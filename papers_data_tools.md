@@ -52,6 +52,8 @@ Users can then check and manually correct each automatically detected and proces
 | ![SODUCO corpus of directories](./public/images/SODUCO_Corpus.png) |
 |:--:|
 | <b>The trade directories from the 19<sup>th</sup> century are a challenging dataset with very heterogeneous layouts, fonts, and contents. Source: gallica.bnf.fr / Bibliothèque nationale de France</b>|
+
+
 | ![SODUCO text annotation tool](./public/images/AnnotationTool.png) |
 |:--:|
 | <b>SODUCO text annotation tool</b>|
