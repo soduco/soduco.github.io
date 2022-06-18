@@ -36,10 +36,10 @@ rank: 2
 **[Charly Bernard](https://www.umr-lastig.fr/charly-bernard/)**, Engineer:
 *  Development of a Web application to collaboratively correct and validate the data extracted in the project.
 
-**[Melvin Hersent]**, Engineer:
+**Melvin Hersent**, Engineer:
 *  Development of the cataloguing Web application for archival records and digital data used and produced throughout the project.
 
-**[Solenn Tual]**, Intern, Master 2 IGAST (ENSG - univ. Eiffel):
+**Solenn Tual**, Intern, Master 2 IGAST (ENSG - univ. Eiffel):
 *  Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 *  Spatio-temporal graph creation and analysis.
 
@@ -68,6 +68,11 @@ rank: 2
 
 **[Julie Gravier](http://cams.ehess.fr/doctorants-et-post-doctorants/)**, PostDoc Student:
 * Dynamics of co-evolution of the urban space and its social organisations modelling. 
+
+**Laureencia Morice**, Intern, Master 1 (EHESS):
+*  Manual annotation of named entities in a selection of directories,
+*  Feedback on annotation tool,
+*  Manual vectorisation of old maps.
 
 # EPITA / LRDE
 
