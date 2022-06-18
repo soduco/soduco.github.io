@@ -8,11 +8,12 @@ rank: 2
 
 **[Julien Perret](https://www.umr-lastig.fr/julien-perret/)**, Senior researcher:
 * Project coordination,
-* Semi-automatic vectorization and georeferencing of old maps.
+* Semi-automatic vectorization and georeferencing of old maps,
+* Co-supervision of Melvin Hersent and Charly Bernard works, 
 * Co-supervision of Yizi Chen PhD thesis.  
 
 **[Clément Mallet](https://www.umr-lastig.fr/clement-mallet/)**, Senior researcher:
-* Semi-automatic vectorization and georeferencing of old maps.
+* Semi-automatic vectorization and georeferencing of old maps,
 * Co-supervision of Yizi Chen PhD thesis. 
 
 **[Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/)**, Researcher:
@@ -32,6 +33,12 @@ rank: 2
 **[Yizi Chen](https://www.umr-lastig.fr/yizi-chen/)**, PhD Student:
 * Semi-automatic vectorization and georeferencing of old maps.
 
+**[Charly Bernard](https://www.umr-lastig.fr/charly-bernard/)**, Engineer:
+*  Development of a Web application to collaboratively correct and validate the data extracted in the project.
+
+**[Melvin Hersent]**, Engineer:
+*  Development of the cataloguing Web application for archival records and digital data used and produced throughout the project.
+
 
 ## School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
 
@@ -48,6 +55,7 @@ rank: 2
 * Quality assessment in old maps,
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Geohistorical geocoding,
+* Co-supervision of Melvin Hersent and Charly Bernard works,
 * Co-supervision of Solenn Tual master internship. 
 
 **[Marc Barthelemy](http://cams.ehess.fr/marc-barthelemy/)**, Senior researcher:
