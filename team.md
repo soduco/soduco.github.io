@@ -55,7 +55,7 @@ rank: 2
 * Inventory and expertise of 19<sup>th</sup> century cartographic sources and directories,
 * Program chair of the seminar "Directories and Almanacs - geocoding", co-organised with the French National Library.   
 
-**[Bertrand Duménieux](http://crh.ehess.fr/index.php?5206)**, Research engineer:
+**[Bertrand Duménieu](http://crh.ehess.fr/index.php?5206)**, Research engineer:
 * Quality assessment in old maps,
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Geohistorical geocoding,
