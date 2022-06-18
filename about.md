@@ -19,14 +19,16 @@ The project is committed to an open science approach: all publications, data, mo
 
 ### Trade directories
 
-An inventory of directories offering lists of Parisian addresses between 1797 and 1914, organised into series and collections has been carried out by the project. Of the directories listed, 113 were available in digital format and can be used in the project. The dates of publication of these directories are spread throughout the period from 1797 to 1914 so that they offer an almost continuous view of the activities of Parisians over this period.
+An inventory of directories offering lists of Parisian addresses between 1797 and 1914, organised into series and collections has been carried out by the project: see Fig. 1 and Fig. 2 for an example of directory used in the project. Of the directories listed, 113 were available in digital format and can be used in the project. 
 
-| ![Directory Harcover](./public/images/Directory_Hardcover.png) | ![Directory Open](./public/images/Open_Directory.png) |
+| ![Directory Harcover](./public/images/Directory_Hardcover.png) | ![Directory Open](./public/images/Open_directory.png) |
 |:--:|:--:|
-| <b>An example of a trade directory from the 19<sup>th</sup> century used in the SODUCO Project</b>||
+| <b>Fig. 1: An example of a trade directory from the 19<sup>th</sup> century used in the SODUCO Project</b>|<b>Fig. 1: The content of the directory shown in Fig. 1</b>|
+
+The dates of publication of these directories are spread throughout the period from 1797 to 1914 so that they offer an almost continuous view of the activities of Parisians over this period, as shown in Fig. 3.
 
 | ![Successive Didot directories](./public/images/SuccessiveDidotDirectories.png) | 
 |:--:|
-| <b>An example of successive Didot directories with entries evolving through time</b>||
+| <b>Fig. 3: An example of successive Didot directories with entries evolving through time</b>||
 
 
