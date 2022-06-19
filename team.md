@@ -9,6 +9,7 @@ rank: 2
 **[Julien Perret](https://www.umr-lastig.fr/julien-perret/)**, Senior researcher:
 * Project coordination,
 * Semi-automatic vectorization and georeferencing of old maps,
+* Member of the Verniquet Worshop,
 * Co-supervision of Melvin Hersent and Charly Bernard works, 
 * Co-supervision of Yizi Chen PhD thesis.  
 
@@ -19,11 +20,13 @@ rank: 2
 **[Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/)**, Researcher:
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Quality assessment in old maps,
+* Member of the Verniquet Worshop,
 * Co-supervision of Solenn Tual master internship.  
 
 **[Yann Meneroux](https://www.researchgate.net/profile/Yann-Meneroux)**, Researcher:
 * Quality assessment in old maps,
-* Uncertainty Uncertainty modeling and analysis.
+* Uncertainty Uncertainty modeling and analysis,
+* Member of the Verniquet Worshop.
 
 **[Juste Raimbault](https://scholar.google.fr/citations?user=zoioGw4AAAAJ&hl=fr)**, Researcher:
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
@@ -59,6 +62,7 @@ rank: 2
 * Quality assessment in old maps,
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Geohistorical geocoding,
+* Coordinator of the Verniquet Worshop,
 * Co-supervision of Melvin Hersent and Charly Bernard works,
 * Co-supervision of Solenn Tual master internship. 
 
@@ -92,6 +96,11 @@ rank: 2
 
 **[Valentine Weiss](https://www.chartes.psl.eu/fr/valentine-weiss)**, Heritage curator:
 * Scientific manager, Paris historical topography. 
+
+# Guests
+
+**Julien Chadeyron**, Assistant-engineer in cartography, University of Clermont-Auvergne:
+* Member of the Verniquet Worshop.
 
 
 
