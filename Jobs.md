@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Jobs
-rank: 6
+rank: 7
 ---
 
 # Fullstack developper, 24 months in Paris (St. Mandé), France. **Position closed**
