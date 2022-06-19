@@ -16,7 +16,7 @@ The Verniquet workshop brings together researchers from the SODUCO project and o
 
 Verniquet's map was produced from 1780 to the end of the French Revolution. It has been designed and executed with a constant focus on geometric accuracy. Edme Verniquet's aim was to represent well measured and calculated geographical objects in order to produce an accurate view of the city from above. 
 
-The survey work carried out by Edme Verniquet and the engineers working on this map was based on measurements that were claimed to be accurate to the nearest tenth of a *toise* - an old French unit of measure. Their measurements and calculations were eventually audited and validated by scientists at the Paris Observatory.
+The survey work carried out by Edme Verniquet and the engineers working on this map was reported with measurements and calculations provided with an accuracy of one tenth of a *toise* - an old French unit of measure. Their measurements and calculations were eventually audited and validated by scientists at the Paris Observatory.
 
 In line with this operation to check the quality of the map, the Verniquet workshop team is working to assess the planimetric accuracy of this historical cartographic source. The interest of this critical analysis work is twofold:
 - to understand the processes used by Edme Verniquet and his engineers to draw up the map, to check the measurements and calculations made and, if necessary, to correct their errors,
