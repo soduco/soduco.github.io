@@ -85,3 +85,11 @@ Add a description here.
 | ![SODUCO validation tool](./public/images/Example.png) |
 |:--:|
 | <b>Caption for the image</b>|
+
+### Data and historical sources catalogue
+
+Add a description here.
+
+| ![SODUCO catalogue](./public/images/Example.png) |
+|:--:|
+| <b>Caption for the image</b>|
