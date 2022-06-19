@@ -9,7 +9,7 @@ rank: 2
 **[Julien Perret](https://www.umr-lastig.fr/julien-perret/)**, Senior researcher:
 * Project coordination,
 * Semi-automatic vectorization and georeferencing of old maps,
-* Member of the Verniquet Worshop,
+* Member of the [Verniquet Workshop](/verniquet_workshop/),
 * Co-supervision of Melvin Hersent and Charly Bernard works, 
 * Co-supervision of Yizi Chen PhD thesis.  
 
@@ -20,13 +20,13 @@ rank: 2
 **[Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/)**, Researcher:
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Quality assessment in old maps,
-* Member of the Verniquet Worshop,
+* Member of the [Verniquet Workshop](/verniquet_workshop/),
 * Co-supervision of Solenn Tual master internship.  
 
 **[Yann Meneroux](https://www.researchgate.net/profile/Yann-Meneroux)**, Researcher:
 * Quality assessment in old maps,
 * Uncertainty Uncertainty modeling and analysis,
-* Member of the Verniquet Worshop.
+* Member of the [Verniquet Workshop](/verniquet_workshop/).
 
 **[Juste Raimbault](https://scholar.google.fr/citations?user=zoioGw4AAAAJ&hl=fr)**, Researcher:
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
@@ -52,17 +52,18 @@ rank: 2
 **[Stephane Baciocchi](http://ladehis.ehess.fr/index.php?604)**, Research engineer:
 * Scientific coordination of CRH activities in SODUCO poject,
 * Inventory and expertise of 19<sup>th</sup> century cartographic sources and directories,
-* Program chair of the seminar "Paris, geodesic capital", co-organised with the French National Library.  
+* Member of the [Verniquet Workshop](/verniquet_workshop/),
+* Program chair of the seminar [Paris, geodetic capital city](/soduco_bnf_seminars/), co-organised with the French National Library.  
 
 **[Pascal Cristofoli](http://crh.ehess.fr/index.php?602)**, Research engineer:
 * Inventory and expertise of 19<sup>th</sup> century cartographic sources and directories,
-* Program chair of the seminar "Directories and Almanacs - geocoding", co-organised with the French National Library.   
+* Program chair of the seminar [Directories and Almanachs - Geocoding](/soduco_bnf_seminars/), co-organised with the French National Library.   
 
 **[Bertrand Duménieu](http://crh.ehess.fr/index.php?5206)**, Research engineer:
 * Quality assessment in old maps,
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Geohistorical geocoding,
-* Coordinator of the Verniquet Worshop,
+* Coordinator of the [Verniquet Workshop](/verniquet_workshop/),
 * Co-supervision of Melvin Hersent and Charly Bernard works,
 * Co-supervision of Solenn Tual master internship. 
 
@@ -100,7 +101,7 @@ rank: 2
 # Guests
 
 **Julien Chadeyron**, Assistant-engineer in cartography, University of Clermont-Auvergne:
-* Member of the Verniquet Worshop.
+* Member of the [Verniquet Workshop](/verniquet_workshop/).
 
 
 
