@@ -19,7 +19,7 @@ Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Dumenieu, 
 
 Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence Jolivet, et al.. Engraved footprints from the past. Retrieving cartographic geohistorical data from the Cassini Carte de France, 1750-1789. *International Cartographic Conference 2019*, Jul 2019, Tokyo, Japan. [⟨hal-02173847⟩](https://hal.archives-ouvertes.fr/hal-02173847)
 
-## Datasets and benchmarks
+## Datasets, benchmarks and other resources
 
 ### Benchmark dataset for NER models used on noisy OCR predictions
 
@@ -37,6 +37,10 @@ Reference tagged entities were then projected on OCR predictions done by tree di
 The resulting intersection of the sets of valid entries contains 7, 725 entries for the tree OCR systems (and the reference), or 8, 341 entries if we consider PERO OCR and Tesseract only.
 
 The dataset is described in more detail and can be dowloaded at https://zenodo.org/record/6394464
+
+### Benchmark dataset for historical maps segmentation
+
+A benchmark dataset for historical maps segmentation has been created and used to organise a commetition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
 
 ## Tools
 
@@ -58,6 +62,26 @@ Users can then check and manually correct each automatically detected and proces
 |:--:|
 | <b>SODUCO text annotation tool</b>|
 
+### Geohistorical geocoding tool
 
+Add a description here.
 
+| ![SODUCO geohistorical geocoding tool](./public/images/Example.png) |
+|:--:|
+| <b>Caption for the image</b>|
 
+### Old maps vectorisation tool
+
+Add a description here.
+
+| ![SODUCO vectorisation tool](./public/images/Example.png) |
+|:--:|
+| <b>Caption for the image</b>|
+
+### Vector data validation and correction tool
+
+Add a description here.
+
+| ![SODUCO validation tool](./public/images/Example.png) |
+|:--:|
+| <b>Caption for the image</b>|
