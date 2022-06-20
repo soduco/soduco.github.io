@@ -4,6 +4,9 @@ title:  The Verniquet workshop
 rank: 6
 ---
 
+**Coordinator:** Bertrand Duménieu
+**Members:** Stéphane Baciocchi, Nathalie Abadie, Yann Ménéroux, Julien Chadeyron, Julien Perret.
+
 The Verniquet workshop brings together researchers from the SODUCO project and other partner institutions to work on the Verniquet Atlas. The aim is to critically analyse the Verniquet Atlas and especially its planimetric accuracy. We want to assess its potential for use as a historical cartographic reference resource.
 
 | ![Verniquet trigonometric works](./public/images/VerniquetOpTrigo.jpg) |
