@@ -29,9 +29,7 @@ rank: 2
 * Member of the [Verniquet Workshop](/verniquet_workshop/).
 
 **[Juste Raimbault](https://scholar.google.fr/citations?user=zoioGw4AAAAJ&hl=fr)**, Researcher:
-* Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
-* Quality assessment in old maps,
-* Co-supervision of Solenn Tual master internship. 
+* Dynamics of co-evolution of the urban space and its social organisations modelling. 
 
 **[Yizi Chen](https://www.umr-lastig.fr/yizi-chen/)**, PhD Student:
 * Semi-automatic vectorization and georeferencing of old maps.
