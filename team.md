@@ -25,7 +25,7 @@ rank: 2
 
 **[Yann Meneroux](https://www.researchgate.net/profile/Yann-Meneroux)**, Researcher:
 * Quality assessment in old maps,
-* Uncertainty Uncertainty modeling and analysis,
+* Uncertainty modeling and analysis,
 * Member of the [Verniquet Workshop](/verniquet_workshop/).
 
 **[Juste Raimbault](https://scholar.google.fr/citations?user=zoioGw4AAAAJ&hl=fr)**, Researcher:
