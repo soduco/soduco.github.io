@@ -88,8 +88,8 @@ Add a description here.
 
 ### Data and historical sources catalogue
 
-Add a description here.
+A metadata catalog aiming to store and reference archival records and digital data used and produced throughout the project.
 
-| ![SODUCO catalogue](./public/images/Example.png) |
+| ![SODUCO catalogue](./public/images/catalog_searchpage.png) |
 |:--:|
-| <b>Caption for the image</b>|
+| <b>SODUCO catalog</b>|
