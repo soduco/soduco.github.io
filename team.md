@@ -79,14 +79,14 @@ rank: 2
 
 # EPITA / LRDE
 
-**[Joseph Chazalon](http://crh.ehess.fr/index.php?5206)**, Lecturer:
+**[Joseph Chazalon](https://www.lrde.epita.fr/wiki/User:Chazalon)**, Lecturer:
 * Layout detection and OCR in 19<sup>th</sup> century directories,
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Co-supervision of Solenn Tual master internship.  
 * Semi-automatic vectorization and georeferencing of old maps,
 * Co-supervision of Yizi Chen PhD thesis. 
 
-**[Edwin Carlinet](http://cams.ehess.fr/marc-barthelemy/)**, Lecturer:
+**[Edwin Carlinet](https://www.lrde.epita.fr/wiki/User:Carlinet)**, Lecturer:
 * Layout detection and OCR in 19<sup>th</sup> century directories,
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Co-supervision of Solenn Tual master internship.  
