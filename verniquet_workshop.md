@@ -12,7 +12,7 @@ The Verniquet workshop brings together researchers from the SODUCO project and o
 
 | ![Verniquet trigonometric works](./public/images/VerniquetOpTrigo.jpg) |
 |:--:|
-| <b>Plan des opérations trigonométriques de la ville de Paris, sheet n°70 of the atlas, engraved and signed by A.J. Mathieu.</b>|
+| <b>Plan des opérations trigonométriques de la ville de Paris, sheet n°70 of the atlas, engraved and signed by A.J. Mathieu. Source: David Rumsey Historical Map Collection.</b>|
 
 ## Inventory of copies of the Verniquet atlas and other archival records pertaining to it
 
