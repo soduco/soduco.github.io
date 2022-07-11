@@ -12,7 +12,7 @@ The SODUCO metadata catalog aim to store and reference archival records and digi
 
 [![SODUCO catalogue](./public/images/geonetwork3-logo.png)](https://geonetwork-opensource.org/)
 
-## The stored Data
+## The stored data
 
 The catalog will store data depending on their disponibility online : By linking them to existing ressources already online or by hosting them locally otherwise.
 
@@ -22,9 +22,9 @@ The final aim is to make the production line transparent for each ressource by c
 
 To do so, the metadata are essentials.
 
-## The Metadata format
+## The metadata model
 
-The metadata format used on the SODUCO project is the ISO 19115 standard, which is natively implemented in Geonetwork.
+The metadata model used on the SODUCO project is the ISO 19115 standard, which is natively implemented in Geonetwork.
 
 As defined on its [webpage](https://www.iso.org/standard/53798.html), this standard :
 
