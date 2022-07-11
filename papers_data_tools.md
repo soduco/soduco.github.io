@@ -88,7 +88,7 @@ Add a description here.
 
 ### Data and historical sources catalogue
 
-A metadata catalog aiming to store and reference archival records and digital data used and produced throughout the project.
+A [catalog](https://soduco.github.io/catalog/) has been developped to store, reference and retrieve archival records and digital data used and produced throughout the project.
 
 | ![SODUCO catalogue](./public/images/catalog_searchpage.png) |
 |:--:|
