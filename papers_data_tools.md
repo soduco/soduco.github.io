@@ -8,7 +8,7 @@ rank: 4
 
 ### International conference papers
 
-Abadie, Nathalie, Edwin Carlinet, Joseph Chazalon, and Bertrand Dumenieu. A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19 Century French Directories. *In: Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. DAS 2022*. Lecture Notes in Computer Science, vol 13237. Springer, Cham. Proceedings of the Document Analysis Systems international workshop, held in La Rochelle, France, 22-25 may 2022. [⟨10.1007/978-3-031-06555-2_30⟩](https://doi.org/10.1007/978-3-031-06555-2_30).
+Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, and Bertrand Dumenieu. A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19 Century French Directories. *In: Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. DAS 2022*. Lecture Notes in Computer Science, vol 13237. Springer, Cham. Proceedings of the Document Analysis Systems international workshop, held in La Rochelle, France, 22-25 may 2022. [⟨10.1007/978-3-031-06555-2_30⟩](https://doi.org/10.1007/978-3-031-06555-2_30).
 [Code for the paper]( https://github.com/soduco/paper-ner-bench-das22.)
 
 Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Duménieu, et al.. Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation. *Discrete Geometry and Mathematical Morphology, First International Joint Conference, DGMM 2021, Uppsala, Sweden, May 24–27, 2021, Proceedings*, 12708, pp 79 - 92, 2021, Lecture notes in computer science, [⟨10.1007/978-3-030-76657-3_5⟩](https://dx.doi.org/10.1007/978-3-030-76657-3_5). [⟨hal-03101578⟩](https://hal.archives-ouvertes.fr/hal-03101578)
