@@ -4,7 +4,7 @@ title:  The SODUCO team members
 rank: 2
 ---
 
-## LASTIG, université Gustave Eiffel, IGN-ENSG
+# LASTIG, université Gustave Eiffel, IGN-ENSG
 
 **[Julien Perret](https://www.umr-lastig.fr/julien-perret/)**, Senior researcher:
 * Project coordination,
@@ -45,7 +45,7 @@ rank: 2
 *  Spatio-temporal graph creation and analysis.
 
 
-## School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
+# School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
 
 **[Stephane Baciocchi](http://ladehis.ehess.fr/index.php?604)**, Research engineer:
 * Scientific coordination of CRH activities in SODUCO poject,
