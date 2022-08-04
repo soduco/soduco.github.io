@@ -4,7 +4,7 @@ title:  The SODUCO team members
 rank: 2
 ---
 
-# LASTIG, université Gustave Eiffel, IGN-ENSG
+## LASTIG, université Gustave Eiffel, IGN-ENSG
 
 **[Julien Perret](https://www.umr-lastig.fr/julien-perret/)**, Senior researcher:
 * Project coordination,
@@ -45,7 +45,7 @@ rank: 2
 *  Spatio-temporal graph creation and analysis.
 
 
-# School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
+## School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
 
 **[Stephane Baciocchi](http://ladehis.ehess.fr/index.php?604)**, Research engineer:
 * Scientific coordination of CRH activities in SODUCO poject,
@@ -77,7 +77,7 @@ rank: 2
 *  Feedback on annotation tool,
 *  Manual vectorisation of old maps.
 
-# EPITA / LRDE
+## EPITA / LRDE
 
 **[Joseph Chazalon](https://www.lrde.epita.fr/wiki/User:Chazalon)**, Lecturer:
 * Layout detection and OCR in 19<sup>th</sup> century directories,
@@ -91,12 +91,12 @@ rank: 2
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 * Co-supervision of Solenn Tual master internship.  
 
-# Archives nationales
+## Archives nationales
 
 **[Valentine Weiss](https://www.chartes.psl.eu/fr/valentine-weiss)**, Heritage curator:
 * Scientific manager, Paris historical topography. 
 
-# Guests
+## Guests
 
 **Julien Chadeyron**, Assistant-engineer in cartography, University of Clermont-Auvergne:
 * Member of the [Verniquet Workshop](/verniquet_workshop/).
