@@ -80,11 +80,15 @@ Add a description here.
 
 ### Vector data validation and correction tool
 
-Add a description here.
+A collaborative tool to validate and edit geospatial data and more is developped to improve data quality by getting a human validation of any type of geospatial data. It allows users to improve this quality by creating, removing, modifying or validating any feature (geometry and attributes).
 
-| ![SODUCO validation tool](./public/images/Example.png) |
-|:--:|
-| <b>Caption for the image</b>|
+| ![SODUCO validation tool](./public/images/data-validation_general-view.png) | ![SODUCO validation tool](./public/images/data-validation_update_attrs.png) |
+|:--:|:--:|
+| <b>General view of the tool with uploaded data</b>|<b>Edit mode, creation of the geometry of a new feature</b>|
+
+| ![SODUCO validation tool](./public/images/data-validation_draw_mode.png) | ![SODUCO validation tool](./public/images/data-validation_check_feature_status.png) |
+|:--:| :--:|
+| <b>Edit mode, change of attributes of an existing feature</b>|<b>Status mode to see what features were created, removed or modified</b>|
 
 ### Data and historical sources catalogue
 
