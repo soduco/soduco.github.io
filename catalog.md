@@ -16,6 +16,10 @@ The SODUCO metadata catalog aim to store and reference archival records and digi
 
 The catalog will store data depending on their disponibility online : By linking them to existing ressources already online or by hosting them locally otherwise.
 
+| ![verniquet scans](./public/images/geonetwork_screenshot.png) |
+|:--:|
+| Scans of the Verniquet atlas, coming from the [David Rumsey Map Collection](https://www.davidrumsey.com/) |
+
 Services used to produce or using data will also be listed on the catalog.
 
 The final aim is to make the production line transparent for each ressource by connecting each step between them, with the tools used, to not only store the data but also their history and context of production, with the goal of reproducibility in mind.
