@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Solenn Tual's Master thesis defense: "
+title: "IGAST Master thesis defense of Solenn Tual: "
 tag: communication
 ---
 Done!
