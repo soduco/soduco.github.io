@@ -68,30 +68,51 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 ### Programme prévisionnel
 
 09h30. Ouverture
+
 **Partie 1** : Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF
+
 09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle. *Pascal Cristofoli, Viera Rebolledo-Dhuin*
+
 10h00. Extraction automatique d'informations dans les annuaires commerciaux parisiens. *Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, Bertrand Duménieu.*
+
 10h20. Questions et pause
+
 10h40. Localisation, adresses et numérotations parisiennes. *Stéphane Baciocchi, Bertrand Duménieu et Julien Perret*
+
 11h00. Exploitation des données Soduco : premiers éléments de l’évolution des activités parisiennes au fil du siècle. *Julie Gravier, Marc Barthelemy*
+
 11h20. La production et commercialisation des cartes et son annonce dans les annuaires du commerce au XIXe siècle. *Eve Netchine (BnF)*
+
 11h40. Questions 
+
 11h55. Pause repas
 
 **Partie 2** : L’exploitation de sources similaires par d’autres équipes
+
 14h00. Almanach 1789. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
+
 14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte. *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice UMR8094 CNRS-ENS).*
+
 14h40. Questions et pause
+
 15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions. *Aurélien Pellet et Marie Puren (laboratoire MNSHS, Epitech Paris).*
+
 15h25. Histoire du quartier Richelieu. *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
+
 15h45. Questions et pause
 
 **Partie 3** : Travail collaboratif sur des cas particuliers à partir des données Soduco
+
 16h10. Libraires-Imprimeurs. *Viera Rebolledo-Dhuin (Université Paris-Est-Créteil).*
+
 16h20. Une approche pour la création d'un graphe spatio-temporel à partir des données extraites des annuaires: application aux photographes. *Solenn Tual (LASTIG, Univ Gustave Eiffel, IGN-ENSG).*
+
 16h30. Quelques listes de *Médecins, chirurgiens et officiers de santé* en 1845. *Pascal Cristofoli (CRH-EHESS)*
+
 16h40. La fabrique collective grenobloise de gants à Paris. *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
+
 16h50. Discussion & questions
+
 17h30. Clôture de la journée 
 
 
