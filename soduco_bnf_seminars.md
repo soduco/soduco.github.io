@@ -69,7 +69,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 09h30. Ouverture
 
-**Partie 1 : Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF **
+**Partie 1: Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF**
 
 09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle. *Pascal Cristofoli, Viera Rebolledo-Dhuin*
 
@@ -87,7 +87,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 11h55. Pause repas
 
-**Partie 2 : L’exploitation de sources similaires par d’autres équipes **
+**Partie 2 : L’exploitation de sources similaires par d’autres équipes**
 
 14h00. Almanach 1789. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
 
@@ -101,7 +101,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 15h45. Questions et pause
 
-**Partie 3 : Travail collaboratif sur des cas particuliers à partir des données Soduco **
+**Partie 3 : Travail collaboratif sur des cas particuliers à partir des données Soduco**
 
 16h10. Libraires-Imprimeurs. *Viera Rebolledo-Dhuin (Université Paris-Est-Créteil).*
 
