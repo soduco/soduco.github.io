@@ -45,18 +45,54 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 
 17h00. Clôture.
 
-## Séance 2/4: Annuaires et Almanachs - Géocodage
+## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
 
-**Date:** Jeudi 10 novembre 2022.
+**Date:** Jeudi 10 novembre 2022. Accueil à partir de 9h, par l'entrée publique de la bibliothèque.
 
 **Lieu:** BnF, Paris, site François-Mitterrand (Petit auditorium, salle 70).
 
 ### Résumé
 
-| ![Séminaire Annuaires et Almanachs](./public/images/Seminaire1_Session2.png) |
-|:--:|
-| <b>Le deuxième séminaire SODUCO/BnF sera dédié aux annuaires et à leur traitement</b>|
+Les almanachs, annuaires ou autres types de publications proposant des listes d'adresses de commerçants, fabricants, industriels, etc. centrées sur un espace urbain donné est un genre en pleine expansion au XIXe siècle. Ces ouvrages collectionnent et intègrent une masse d’informations qui ne cesse d’augmenter et de se diversifier tout au long de la période. Ils connaissent une diffusion croissante et un succès public et commercial illustrés par le passage dans le langage commun du nom Bottin. 
 
-### Programme
+Ce phénomène éditorial profite de la diffusion et de la démocratisation de l’imprimé. Il est l’un des théâtres de la mise en pratique de multiples innovations techniques, éditoriales et commerciales dans un contexte alternant des phases d’expansion, de forte concurrence et de crise du livre. 
 
-TBA!
+Ces ouvrages constituent aussi et surtout de véritables objets spatiaux et sociaux qui témoignent de l’évolution de la société du XIXe. Les ensembles de référence spatiales indirectes qu’ils contiennent (les adresses et localisations en tout genre) accompagnent et décrivent le développement des villes – notamment celle de Paris – , et l'augmentation de leur population. Ils exposent de manière fine les concentrations et les évolutions du commerce, de l'artisanat et de l'industrie, tout en témoignant d’une "démocratisation" de la société dans son ensemble. 
+
+L'exploitation de ces informations de localisation en grand nombre constitue une source privilégiée pour étudier sur le long terme l'évolution des dynamiques sociales en contexte urbain, qui plus est à différentes échelles et niveaux d’observation et d’analyse. 
+
+Un tel projet ne peut toutefois être envisagé sans être accompagné d'une étude critique de l’ensemble documentaire ainsi réuni, et d'une véritable évaluation de la nature, de la qualité et de la complétude des données numériques que l’on peut extraire – de manière automatisée – de cet ensemble et, in fine, de celle des informations et des espaces urbains véritablement décrits par cette source éditoriale de première main. 
+
+L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de l’ensemble de ces questions à l’aune des premières exploitations de ce corpus.
+
+### Programme prévisionnel
+
+09h30. Ouverture
+**Partie 1** : Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF
+09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle. *Pascal Cristofoli, Viera Rebolledo-Dhuin*
+10h00. Extraction automatique d'informations dans les annuaires commerciaux parisiens. *Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, Bertrand Duménieu.*
+10h20. Questions et pause
+10h40. Localisation, adresses et numérotations parisiennes. *Stéphane Baciocchi, Bertrand Duménieu et Julien Perret*
+11h00. Exploitation des données Soduco : premiers éléments de l’évolution des activités parisiennes au fil du siècle. *Julie Gravier, Marc Barthelemy*
+11h20. La production et commercialisation des cartes et son annonce dans les annuaires du commerce au XIXe siècle. *Eve Netchine (BnF)*
+11h40. Questions 
+11h55. Pause repas
+
+**Partie 2** : L’exploitation de sources similaires par d’autres équipes
+14h00. Almanach 1789. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
+14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte. *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice UMR8094 CNRS-ENS).*
+14h40. Questions et pause
+15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions. *Aurélien Pellet et Marie Puren (laboratoire MNSHS, Epitech Paris).*
+15h25. Histoire du quartier Richelieu. *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
+15h45. Questions et pause
+
+**Partie 3** : Travail collaboratif sur des cas particuliers à partir des données Soduco
+16h10. Libraires-Imprimeurs. *Viera Rebolledo-Dhuin (Université Paris-Est-Créteil).*
+16h20. Une approche pour la création d'un graphe spatio-temporel à partir des données extraites des annuaires: application aux photographes. *Solenn Tual (LASTIG, Univ Gustave Eiffel, IGN-ENSG).*
+16h30. Quelques listes de *Médecins, chirurgiens et officiers de santé* en 1845. *Pascal Cristofoli (CRH-EHESS)*
+16h40. La fabrique collective grenobloise de gants à Paris. *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
+16h50. Discussion & questions
+17h30. Clôture de la journée 
+
+
+
