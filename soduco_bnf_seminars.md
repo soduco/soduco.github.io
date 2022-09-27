@@ -47,9 +47,9 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
 
-**Date:** Jeudi 10 novembre 2022. Accueil à partir de 9h, par l'entrée publique de la bibliothèque.
+**Date:** Jeudi 10 novembre 2022. Accueil à partir de 9h.
 
-**Lieu:** BnF, Paris, site François-Mitterrand (Petit auditorium, salle 70).
+**Lieu:** BnF, Paris, site François-Mitterrand (Petit auditorium, salle 70, accès par l'entrée publique de la bibliothèque).
 
 ### Résumé
 
