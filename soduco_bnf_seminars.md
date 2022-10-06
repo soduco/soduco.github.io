@@ -50,7 +50,8 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 **Date:** Jeudi 10 novembre 2022. 9h30-17h30. Accueil à partir de 9h.
 
 **Lieu:** BnF, Paris, site François-Mitterrand (salle 70, à coté du petit auditorium, accès Hall-F par l'entrée publique de la bibliothèque).
-Inscription obligatoire via le lien suivant : [Evento pour l'inscription à la journée BnF-SoDUCo](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
+
+**Inscription obligatoire** via le lien suivant : [Evento pour l'inscription à la journée BnF-SoDUCo](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
 
 ### Résumé
 
@@ -102,7 +103,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 15h45. Questions et pause
 
-**Partie 3 : Travail collaboratif sur des cas particuliers à partir des données Soduco**
+**Partie 3 : Études de cas. Exploiter et évaluer les informations proposées par les annuaires du commerce.**
 
 16h10. Le recensement des libraires-éditeurs à l’aune des annuaires. *Viera Rebolledo-Dhuin (CRHEC, Université Paris-Est-Créteil).*
 
