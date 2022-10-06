@@ -47,13 +47,14 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
 
-**Date:** Jeudi 10 novembre 2022. Accueil à partir de 9h.
+**Date:** Jeudi 10 novembre 2022. 9h30-17h30. Accueil à partir de 9h.
 
-**Lieu:** BnF, Paris, site François-Mitterrand (Petit auditorium, salle 70, accès par l'entrée publique de la bibliothèque).
+**Lieu:** BnF, Paris, site François-Mitterrand (salle 70, à coté du petit auditorium, accès Hall-F par l'entrée publique de la bibliothèque).
+Inscription obligatoire via le lien suivant : [Evento pour l'inscription à la journée BnF-SoDUCo](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
 
 ### Résumé
 
-Les almanachs, annuaires ou autres types de publications proposant des listes d'adresses de commerçants, fabricants, industriels, etc. centrées sur un espace urbain donné est un genre en pleine expansion au XIXe siècle. Ces ouvrages collectionnent et intègrent une masse d’informations qui ne cesse d’augmenter et de se diversifier tout au long de la période. Ils connaissent une diffusion croissante et un succès public et commercial illustrés par le passage dans le langage commun du nom Bottin. 
+Les almanachs, annuaires ou autres types de publications proposant des listes d'adresses de commerçants, fabricants, industriels, etc. centrées sur un espace urbain donné est un genre en pleine expansion au XIXe siècle. Ces ouvrages collectionnent et intègrent une masse d’informations qui ne cesse d’augmenter et de se diversifier tout au long de la période. Ils connaissent une diffusion croissante et un succès public et commercial illustrés par le passage dans le langage commun du nom *Bottin*. 
 
 Ce phénomène éditorial profite de la diffusion et de la démocratisation de l’imprimé. Il est l’un des théâtres de la mise en pratique de multiples innovations techniques, éditoriales et commerciales dans un contexte alternant des phases d’expansion, de forte concurrence et de crise du livre. 
 
@@ -83,31 +84,31 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 11h20. La production et commercialisation des cartes et son annonce dans les annuaires du commerce au XIXe siècle. *Eve Netchine (BnF)*
 
-11h40. Questions 
+11h40. Questions
 
 11h55. Pause repas
 
-**Partie 2 : L’exploitation de sources similaires par d’autres équipes**
+**Partie 2 : L’exploitation de sources similaires par d’autres équipes de recherche**
 
-14h00. Almanach 1789. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
+14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
 
-14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte. *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice UMR8094 CNRS-ENS).*
+14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte. *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice CNRS-ENS).*
 
 14h40. Questions et pause
 
-15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions. *Aurélien Pellet et Marie Puren (laboratoire MNSHS, Epitech Paris).*
+15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions. *Aurélien Pellet et Marie Puren (Laboratoire LRE, EPITA).*
 
-15h25. Histoire du quartier Richelieu. *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
+15h25. Les almanachs, un outil de localisation, d'attribution et de datation des activités commerciales représentées dans le corpus iconographique retraçant l’histoire du quartier Richelieu. *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
 
 15h45. Questions et pause
 
 **Partie 3 : Travail collaboratif sur des cas particuliers à partir des données Soduco**
 
-16h10. Libraires-Imprimeurs. *Viera Rebolledo-Dhuin (Université Paris-Est-Créteil).*
+16h10. Le recensement des libraires-éditeurs à l’aune des annuaires. *Viera Rebolledo-Dhuin (CRHEC, Université Paris-Est-Créteil).*
 
 16h20. Une approche pour la création d'un graphe spatio-temporel à partir des données extraites des annuaires: application aux photographes. *Solenn Tual (LASTIG, Univ Gustave Eiffel, IGN-ENSG).*
 
-16h30. Quelques listes de *Médecins, chirurgiens et officiers de santé* en 1845. *Pascal Cristofoli (CRH-EHESS)*
+16h30. A propos de quelques listes quelques listes de *Médecins, chirurgiens et officiers de santé* publiées en 1845. *Pascal Cristofoli (CRH-EHESS)*
 
 16h40. La fabrique collective grenobloise de gants à Paris. *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
 
