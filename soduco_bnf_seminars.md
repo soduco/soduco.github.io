@@ -11,39 +11,7 @@ Invited talks are included to give a more comprehensive overview of the state of
 During the SODUCO/BnF seminars, the presentations and discussions are mainly in French. That is why the programmes below are presented in French.
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
-
-**Date:** Lundi 11 avril 2022.
-
-**Lieu:** BnF, Paris, Belvédère du site François-Mitterrand (18e étage tour T2).
-
-### Résumé
-
-L'acquisition (et l'accumulation) de données numériques provenant des sources cartographiques anciennes est au coeur de nombreux travaux de recherche contemporains parmi lesquels notre séminaire entend se situer et prendre place comme un lieu ouvert de rencontre, de discussions et de collaborations entre chercheurs et professionnels en charge des divers dépôts et collections de sources. Pour cette première séance, nous nous proposons de présenter quelques contours de notre terrain d'enquête privilégié - la cartographie de Paris à l'époque moderne et contemporaine, ainsi que les voies et moyens par lesquels nous comptons l'arpenter.
-
-### Programme 
-
-**Matinée :** Présidence, Cristina Ion (BnF).
-
-9h30. Le dossier Verniquet. Introduction à l'édition critique / numérique de l'Atlas du plan général de la ville de Paris (1795).
-Ange Aniesa (BnF) et Stéphane Baciocchi (EHESS) coord.
-
-10h30. Le système de référence de coordonnées de Paris, levé géométriquement par le citoyen Verniquet.
-Bertrand Duménieu (EHESS) coord., Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG), Yann Ménéroux (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
-
-11h30-12h00. Discussion
-
-**Après-midi:** Présidence, Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
-
-14h00. Exercices sur l'extraction automatique de données géométriques.
-J. Chazalon (EPITA) et J. Perret (IGN) coord.
-
-- Yizi Chen (LASTIG, univ. Gustave Eiffel, IGN-ENSG): "Facilitating the vectorization of historical maps: a study"
-
-- Rémi Petitpierre (EPFL): "Recartographier le passé: une infrastructure pour la Time Machine"
-
-16h00. Discussion générale
-
-17h00. Clôture.
+ Voir ci-dessous.
 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
 
@@ -55,7 +23,7 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 
 [Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf)
 
-![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco2.png)
+![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco2.png =300x)
 
 ### Résumé
 
@@ -121,5 +89,38 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 17h30. Clôture de la journée 
 
+## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
 
+**Date:** Lundi 11 avril 2022.
+
+**Lieu:** BnF, Paris, Belvédère du site François-Mitterrand (18e étage tour T2).
+
+### Résumé
+
+L'acquisition (et l'accumulation) de données numériques provenant des sources cartographiques anciennes est au coeur de nombreux travaux de recherche contemporains parmi lesquels notre séminaire entend se situer et prendre place comme un lieu ouvert de rencontre, de discussions et de collaborations entre chercheurs et professionnels en charge des divers dépôts et collections de sources. Pour cette première séance, nous nous proposons de présenter quelques contours de notre terrain d'enquête privilégié - la cartographie de Paris à l'époque moderne et contemporaine, ainsi que les voies et moyens par lesquels nous comptons l'arpenter.
+
+### Programme 
+
+**Matinée :** Présidence, Cristina Ion (BnF).
+
+9h30. Le dossier Verniquet. Introduction à l'édition critique / numérique de l'Atlas du plan général de la ville de Paris (1795).
+Ange Aniesa (BnF) et Stéphane Baciocchi (EHESS) coord.
+
+10h30. Le système de référence de coordonnées de Paris, levé géométriquement par le citoyen Verniquet.
+Bertrand Duménieu (EHESS) coord., Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG), Yann Ménéroux (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
+
+11h30-12h00. Discussion
+
+**Après-midi:** Présidence, Nathalie Abadie (LASTIG, univ. Gustave Eiffel, IGN-ENSG).
+
+14h00. Exercices sur l'extraction automatique de données géométriques.
+J. Chazalon (EPITA) et J. Perret (IGN) coord.
+
+- Yizi Chen (LASTIG, univ. Gustave Eiffel, IGN-ENSG): "Facilitating the vectorization of historical maps: a study"
+
+- Rémi Petitpierre (EPFL): "Recartographier le passé: une infrastructure pour la Time Machine"
+
+16h00. Discussion générale
+
+17h00. Clôture.
 
