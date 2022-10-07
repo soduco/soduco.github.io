@@ -23,7 +23,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 [Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf)
 
-![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco2.png =300x)
+![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco2.png)
 
 ### Résumé
 
