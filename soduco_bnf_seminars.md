@@ -53,6 +53,7 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 
 **Inscription obligatoire** via le lien suivant : [Evento pour l'inscription à la journée BnF-SoDUCo](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
 
+[Affiche et programme de la journée](https://github.com/soduco/soduco.github.io/blob/master/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf)
 ### Résumé
 
 Les almanachs, annuaires ou autres types de publications proposant des listes d'adresses de commerçants, fabricants, industriels, etc. centrées sur un espace urbain donné est un genre en pleine expansion au XIXe siècle. Ces ouvrages collectionnent et intègrent une masse d’informations qui ne cesse d’augmenter et de se diversifier tout au long de la période. Ils connaissent une diffusion croissante et un succès public et commercial illustrés par le passage dans le langage commun du nom *Bottin*. 
