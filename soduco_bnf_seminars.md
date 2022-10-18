@@ -81,7 +81,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 16h20. Une approche pour la création d'un graphe spatio-temporel à partir des données extraites des annuaires: application aux photographes. *Solenn Tual (LASTIG, Univ Gustave Eiffel, IGN-ENSG).*
 
-16h30. A propos de quelques listes quelques listes de *Médecins, chirurgiens et officiers de santé* publiées en 1845. *Pascal Cristofoli (CRH-EHESS)*
+16h30. A propos de quelques listes de *Médecins, chirurgiens et officiers de santé* publiées en 1845. *Pascal Cristofoli (CRH-EHESS)*
 
 16h40. La fabrique collective grenobloise de gants à Paris. *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
 
