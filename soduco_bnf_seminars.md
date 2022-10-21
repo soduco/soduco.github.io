@@ -41,6 +41,8 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 ### Programme prévisionnel
 
+09h15. Acceuil du public
+
 09h30. Ouverture
 
 **Partie 1: Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF**
@@ -57,11 +59,13 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 11h20. La production et commercialisation des cartes et son annonce dans les annuaires du commerce au XIXe siècle. *Eve Netchine (BnF)*
 
-11h40. Questions
+11h40. Questions & discussion
 
-11h55. Pause repas
+11h55. Pause-déjeuner libre pour le public
 
 **Partie 2 : L’exploitation de sources similaires par d’autres équipes de recherche**
+
+13h30. Acceuil du public
 
 14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
 
@@ -85,7 +89,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 16h40. La fabrique collective grenobloise de gants à Paris. *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
 
-16h50. Discussion & questions
+16h50. Questions & discussion
 
 17h30. Clôture de la journée 
 
