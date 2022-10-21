@@ -19,7 +19,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 **Lieu:** BnF, Paris, site François-Mitterrand (salle 70, à coté du petit auditorium, accès Hall-F par l'entrée publique de la bibliothèque).
 
-**Inscription obligatoire** via le lien suivant : [Evento pour l'inscription à la journée BnF-SoDUCo](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
+**Inscription obligatoire** via le lien Evento suivant : [(https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
 
 [Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_soduco2_HR.png)
 
