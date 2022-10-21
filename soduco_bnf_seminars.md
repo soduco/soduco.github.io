@@ -21,7 +21,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 **Inscription obligatoire** via le lien suivant : [Evento pour l'inscription à la journée BnF-SoDUCo](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
 
-[Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf)
+[Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_soduco2_HR.png)
 
 ![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco2.png)
 
@@ -98,6 +98,11 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 **Date:** Lundi 11 avril 2022.
 
 **Lieu:** BnF, Paris, Belvédère du site François-Mitterrand (18e étage tour T2).
+
+[Affiche et programme de la journée (haute résolution)](https://soduco.github.io/public/images/affiche_soduco1_HR.png) 
+
+![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco1.png)
+
 
 ### Résumé
 
