@@ -61,7 +61,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 11h40. Questions & discussion
 
-11h55. Pause-déjeuner libre pour le public
+12h00. Pause-déjeuner libre pour le public
 
 **Partie 2 : L’exploitation de sources similaires par d’autres équipes de recherche**
 
