@@ -41,7 +41,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 ### Programme prévisionnel
 
-09h15. Acceuil du public
+09h15. Accueil du public
 
 09h30. Ouverture
 
@@ -65,7 +65,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 **Partie 2 : L’exploitation de sources similaires par d’autres équipes de recherche**
 
-13h30. Acceuil du public
+13h30. Accueil du public
 
 14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
 
