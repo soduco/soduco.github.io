@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The second SODUCO-BNF seminar will take place on 10 November 2022"
+title: "The second SODUCO-BNF seminar will be held on 10 November 2022"
 tag: communication
 ---
 The SODUCO project and the Bibliothèque Nationale de France are jointly organising a series of seminars on the historical sources processed by the project and on the approaches developed - in the SODUCO project, but also in other research projects - to extract useful information from these sources and analyse them. 
