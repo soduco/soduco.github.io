@@ -39,15 +39,15 @@ Un tel projet ne peut toutefois être envisagé sans être accompagné d'une ét
 
 L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de l’ensemble de ces questions à l’aune des premières exploitations de ce corpus.
 
-### Programme prévisionnel
+### Programme
 
-09h15. Accueil du public
+09h15. Accueil du public - *Présidence : Cristina Ion (BnF)* 
 
 09h30. Ouverture
 
 **Partie 1: Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF**
 
-09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle. *Pascal Cristofoli, Viera Rebolledo-Dhuin*
+09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle. *Pascal Cristofoli*
 
 10h00. Extraction automatique d'informations dans les annuaires commerciaux parisiens. *Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, Bertrand Duménieu.*
 
@@ -65,7 +65,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 **Partie 2 : L’exploitation de sources similaires par d’autres équipes de recherche**
 
-13h30. Accueil du public
+13h30. Accueil du public – *Présidence : Ange Aniesa (BnF)*
 
 14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
 
@@ -91,7 +91,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 16h50. Questions & discussion
 
-17h30. Clôture de la journée 
+17h30. Clôture de la journée et pot amical. 
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
 
