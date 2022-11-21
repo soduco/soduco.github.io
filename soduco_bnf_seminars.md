@@ -47,7 +47,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 **Partie 1: Les collections d'annuaires commerciaux parisiens. Corpus, extraction, exploitation par l'équipe SoDUCo-BnF**
 
-09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle. *Pascal Cristofoli*
+09h40. [Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_01_Inventaire_annuaires_Cristofoli.pdf). *Pascal Cristofoli*
 
 10h00. Extraction automatique d'informations dans les annuaires commerciaux parisiens. *Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, Bertrand Duménieu.*
 
