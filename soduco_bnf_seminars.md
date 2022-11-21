@@ -67,7 +67,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 13h30. Accueil du public – *Présidence : Ange Aniesa (BnF)*
 
-14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
+14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_06_Adresses1790_Vitu_Marraud_Mermet.pdf)). *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet (CRH/PSIG EHESS).*
 
 14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_07_PTM_Brando_Melanie.pdf)). *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice CNRS-ENS).*
 
