@@ -75,7 +75,7 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_08_Debats_parlement_Puren_Pellet.pdf)). *Aurélien Pellet et Marie Puren (Laboratoire LRE, EPITA).*
 
-15h25. Les almanachs, un outil de localisation, d'attribution et de datation des activités commerciales représentées dans le corpus iconographique retraçant l’histoire du quartier Richelieu. *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
+15h25. Les almanachs, un outil de localisation, d'attribution et de datation des activités commerciales représentées dans le corpus iconographique retraçant l’histoire du quartier Richelieu ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_09_ProjetRichelieu_Duvette_Gain_BR.pdf)). *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
 
 15h45. Questions et pause
 
