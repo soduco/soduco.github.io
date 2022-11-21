@@ -49,15 +49,15 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 09h40. Inventaire critique du corpus des collections d’ouvrages proposant des listes d’adresses parisiennes au XIXe siècle ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_01_Inventaire_annuaires_Cristofoli.pdf)). *Pascal Cristofoli*
 
-10h00. Extraction automatique d'informations dans les annuaires commerciaux parisiens. *Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, Bertrand Duménieu.*
+10h00. Extraction automatique d'informations dans les annuaires commerciaux parisiens ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_02_Extraction_Chazalon_Carlinet_Dumenieu_Abadie.pdf)). *Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, Bertrand Duménieu.*
 
 10h20. Questions et pause
 
-10h40. Localisation, adresses et numérotations parisiennes. *Stéphane Baciocchi, Bertrand Duménieu et Julien Perret*
+10h40. Localisation, adresses et numérotations parisiennes ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_03_Localisation_adresses_Baciocchi_Dumenieu_Perret.pdf)). *Stéphane Baciocchi, Bertrand Duménieu et Julien Perret*
 
-11h00. Exploitation des données Soduco : premiers éléments de l’évolution des activités parisiennes au fil du siècle. *Julie Gravier, Marc Barthelemy*
+11h00. Exploitation des données Soduco : premiers éléments de l’évolution des activités parisiennes au fil du siècle ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_04_Eploitation_donnees_SoDUCo_Gravier_Barthelemy.pdf)). *Julie Gravier, Marc Barthelemy*
 
-11h20. La production et commercialisation des cartes et son annonce dans les annuaires du commerce au XIXe siècle. *Eve Netchine (BnF)*
+11h20. La production et commercialisation des cartes et son annonce dans les annuaires du commerce au XIXe siècle ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_05_Prod_commercialisation_cartes_Netchine.pdf)). *Eve Netchine (BnF)*
 
 11h40. Questions & discussion
 
@@ -69,11 +69,11 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 14h00. Spatialités sociales à Paris à la veille de la Révolution. Les apports d’un système d’information géographique. *Mathieu Marraud (CRH-EHESS), Anne Varet-Vitu (CRH-EHESS) et Eric Mermet  (CRH/PSIG EHESS).*
 
-14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte. *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice CNRS-ENS).*
+14h20. Annuaire des propriétaires et des propriétés de Paris (1898, 1903, 1913, 1923) : du papier à la carte ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_07_PTM_Brando_Melanie.pdf)). *Carmen Brando (CRH/PSIG EHESS), Frédérique Mélanie (Lattice CNRS-ENS).*
 
 14h40. Questions et pause
 
-15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions. *Aurélien Pellet et Marie Puren (Laboratoire LRE, EPITA).*
+15h05. Traitement et analyse des débats parlementaires à la Chambre des députés (1881-1899) : problèmes, défis et solutions ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_08_Debats_parlement_Puren_Pellet.pdf)). *Aurélien Pellet et Marie Puren (Laboratoire LRE, EPITA).*
 
 15h25. Les almanachs, un outil de localisation, d'attribution et de datation des activités commerciales représentées dans le corpus iconographique retraçant l’histoire du quartier Richelieu. *Charlotte Duvette & Justine Gain (Département des études et de la recherche - INHA).*
 
@@ -81,13 +81,13 @@ L’objet de la journée-atelier du 10 novembre est de faire un premier bilan de
 
 **Partie 3 : Études de cas. Exploiter et évaluer les informations proposées par les annuaires du commerce.**
 
-16h10. Le recensement des libraires-éditeurs à l’aune des annuaires. *Viera Rebolledo-Dhuin (CRHEC, Université Paris-Est-Créteil).*
+16h10. Le recensement des libraires-éditeurs à l’aune des annuaires ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_10_Libraires_Editeurs_Rebolledo-Dhuin.pdf)). *Viera Rebolledo-Dhuin (CRHEC, Université Paris-Est-Créteil).*
 
-16h20. Une approche pour la création d'un graphe spatio-temporel à partir des données extraites des annuaires: application aux photographes. *Solenn Tual (LASTIG, Univ Gustave Eiffel, IGN-ENSG).*
+16h20. Une approche pour la création d'un graphe spatio-temporel à partir des données extraites des annuaires: application aux photographes ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_11_graphe_SpatioTemporel_Photographes_Tual.pdf)). *Solenn Tual (LASTIG, Univ Gustave Eiffel, IGN-ENSG).*
 
-16h30. A propos de quelques listes de *Médecins, chirurgiens et officiers de santé* publiées en 1845. *Pascal Cristofoli (CRH-EHESS)*
+16h30. A propos de quelques listes de *Médecins, chirurgiens et officiers de santé* publiées en 1845 ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_12_EtudeCasMedecins_Cristofoli.pdf)). *Pascal Cristofoli (CRH-EHESS)*
 
-16h40. La fabrique collective grenobloise de gants à Paris. *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
+16h40. La fabrique collective grenobloise de gants à Paris ([pdf](https://soduco.github.io/public/images/seminaire2/2eJourneeSoDUCoBNF_13_Fabrique_collective_gantiers_Bacicchi.pdf)). *S. Baciocchi (CRH-EHESS) et Audrey Colonel-Coquet (Université Grenoble Alpes)*
 
 16h50. Questions & discussion
 
