@@ -37,10 +37,10 @@ rank: 2
 **[Charly Bernard](https://www.umr-lastig.fr/charly-bernard/)**, Engineer:
 *  Development of a Web application to collaboratively correct and validate the data extracted in the project.
 
-**Melvin Hersent**, Engineer:
+**[Melvin Hersent](https://www.umr-lastig.fr/melvin-hersent/)**, Engineer:
 *  Development of the cataloguing Web application for archival records and digital data used and produced throughout the project.
 
-**Solenn Tual**, Intern, Master 2 IGAST (ENSG - univ. Eiffel):
+**[Solenn Tual](https://www.umr-lastig.fr/solenn-tual/)**, Intern, Master 2 IGAST (ENSG - univ. Eiffel):
 *  Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
 *  Spatio-temporal graph creation and analysis.
 
