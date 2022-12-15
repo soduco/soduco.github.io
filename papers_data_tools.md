@@ -66,9 +66,9 @@ Users can then check and manually correct each automatically detected and proces
 
 Add a description here.
 
-| ![SODUCO geohistorical geocoding tool](./public/images/Example.png) |
+| ![SODUCO geohistorical geocoding tool](./public/images/GeocoderHistorique.png) |
 |:--:|
-| <b>Caption for the image</b>|
+| <b>The historical geocoder takes both addresses and dates into account</b>|
 
 ### Old maps vectorisation tool
 
