@@ -64,8 +64,6 @@ Users can then check and manually correct each automatically detected and proces
 
 ### Geohistorical geocoding tool
 
-Add a description here.
-
 | ![SODUCO geohistorical geocoding tool](./public/images/GeocoderHistorique.png) |
 |:--:|
 | <b>The historical geocoder takes both addresses and dates into account</b>|
