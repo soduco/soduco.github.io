@@ -4,6 +4,8 @@ title:  The SODUCO/BnF seminars
 rank: 5
 ---
 
+![Séminaire SoDUCo-Bnf](./public/images/affichebnfsoduco_extrait_visuelseminaire.png)
+
 The SODUCO project and the Franch National Library (Biblothèque nationale de France) are organising a series of seminars around the historical sources used by the project and the approaches developed to process them. 
 
 Invited talks are included to give a more comprehensive overview of the state of the art of current projects and existing works in the field of digital humanities, dealing with the same issues. 
