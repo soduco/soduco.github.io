@@ -25,7 +25,6 @@ Matinée : Les chaînes de traitement des documents cartographiques des 18e et 1
 
 ## Séance 4/4: Octobre 2023.
 
-
 ***
 ***
 
