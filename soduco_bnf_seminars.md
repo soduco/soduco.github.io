@@ -69,7 +69,7 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 16h00. Discussion générale
 
 17h00. Clôture.
-
+   
 ***
  
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
