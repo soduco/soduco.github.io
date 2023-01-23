@@ -12,7 +12,21 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
  Voir ci-dessous.
+ 
+## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
+ Voir ci-dessous.
+ 
+## Séance 3/4: Analyses spatiales formalisées de données géo-historiques.
 
+**Date: Mardi 23 mai 2023. 9h30-17h30**.
+Matinée : Les chaînes de traitement des documents cartographiques des 18e et 19e siècles. Après-midi : Analyses spatiales formalisées de données géo-historiques
+
+**Lieu:** BnF, Paris, site Richelieu, 5 Rue Vivienne 75002 Paris.
+
+## Séance 4/4: Octobre 2023.
+
+***
+ 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
 
 **Date:** Jeudi 10 novembre 2022. 9h30-17h30. Accueil à partir de 9h.
