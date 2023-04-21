@@ -18,12 +18,73 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
  Voir ci-dessous.
  
-## Séance 3/4: Analyses spatiales formalisées de données géo-historiques.
+## Séance 3/4: Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF - Analyses spatiales formalisées de données géo-historiques
 
 **Date: Mardi 23 mai 2023. 9h30-17h30**.
-Matinée : Les chaînes de traitement des documents cartographiques des 18e et 19e siècles. Après-midi : Analyses spatiales formalisées de données géo-historiques
 
-**Lieu:** BnF, Paris, site Richelieu, 5 Rue Vivienne 75002 Paris.
+**Lieu:** BnF, Paris, site Richelieu (salle des conférences), 5 Rue Vivienne 75002 Paris.
+
+La journée est ouverte au public. **Inscription obligatoire** aux deux demi-journées via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52](https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52)
+
+[Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023.png)
+
+![Séminaire SoDUCo-Bnf Journée 3](./public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023.png)
+
+### Programme Matinée (9h30-12h00): Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF
+
+09h15. Acceuil du public.
+
+09h30. Ouverture de la Journée et introduction générale
+
+Le département *Cartes & Plans* de la Bibliothèque nationale de France et l’équipe SoDUCo proposent une matinée de dialogue avec les professionnels portant sur le circuit de traitements des documents cartographiques des 18e et 19e siècles. Elle s’organisera en trois ateliers et nécessitera la répartition des auditeurs en trois groupes qui participeront successivement à des échanges introduits par ces trois présentations:
+-	histoire des collections et traitement de conservation : présentation de documents et visite des magasins du département des *Cartes & Plans* 
+-	traitement bibliographique : catalogage, entités lieux et les services associés (dont Data BnF)
+- numérisation et diffusion : politique de numérisation, politique et modes de diffusion dans *Gallica* via IIIF
+
+12h00. Pause-déjeuner libre pour le public.
+
+### Programme Après-Midi (13h30-17h30): Analyses spatiales formalisées de données géo-historiques. Co-évolution spatiale et sociale de la ville de Paris 1799-1914.
+
+Organisation : Julie Gravier (SoDUCo - EHESS) et Juste Raimbault (SoDUCo - IGN)
+
+Présidence de la séance : Claire Lagesse, Maîtresse de conférences, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
+
+#### Résumé:
+
+Faisant suite à la deuxième journée de l’Atelier SoDUCo-BnF consacrée aux Almanachs et Annuaires commerciaux de la ville de Paris du XIXe siècle, la demi-journée porte sur les analyses formalisées applicables aux données extraites de ces ouvrages.
+
+Les données rassemblées précisent la localisation des personnes et de leurs activités à l'échelle de l'adresse à un rythme annuel. S'étoffant au fil du temps et des publications, le corpus actuellement réuni représente environ 10 Mo d'entrées d’annuaires sur le siècle (1). Ces données *fines et en masse* permettent de questionner la dynamique urbaine à des échelles de temps et d'espace diverses, et ce, au moment même où les transformations de la ville sont particulièrement importantes (croissance de la population, densification urbaine, réorganisation viaire, industrialisation, etc.). En cela, elles sont un véritable laboratoire dans lequel il est possible de tester empiriquement de multiples hypothèses et deviennent dès lors un lieu de rencontre scientifique autorisant la confrontation collective des points de vue et des démarches d'analyse.
+
+Partant d'un même corpus de données ouvertes, à savoir celles relatives aux listes d’adresses présentées par ordre alphabétique des noms d’individus disponibles entre 1789 et 1914, la demi-journée a pour objectif de mener un double dialogue. D'un côté, il s'agit de présenter et discuter différentes approches de la co-évolution spatiale et sociale infra-urbaines dans le cadre des sciences urbaines quantitatives ; de l'autre, de les confronter aux données géo-historiques parisiennes désormais disponibles sur un long XIXe siècle. Ce dialogue sera globalement conduit sous la forme d'interventions alternant *keynotes* et cas d'applications. Elles permettront notamment de prendre la mesure de la complémentarité des approches dans la compréhension des dynamiques urbaines au fil du temps, tout en discutant les intérêts et les enjeux méthodologiques liés à de tels corpus de données pour tester et enrichir nos connaissances sur les processus de co-évolution étudiés
+
+(1) ANNUAIRES HISTORIQUES PARISIENS, 1798-1914. Extraction structurée et géolocalisée à l’adresse des listes nominatives (par ordre alphabétique et par activité) dans les volumes numérisés, SoDUCo Team, mars 2023, Paris. 
+
+#### Programme prévisionnel:
+
+13h30. **Introduction à la demi-journée. Julie Gravier, Juste Raimbault et Claire Lagesse.**
+
+13h35. *Keynote*: Denise Pumain, Professeur émérite, Géographie-Cités, Université Paris I Panthéon-Sorbonne.
+
+14h05. Cas d’application: Juste Raimbault, Chargé de recherche, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN).
+
+14h20. *Keynote*: Michael Batty, Professeur émérite, Centre for Advanced Spatial Analysis (CASA), University College London.
+
+14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Planning, University College London.
+
+15h10. **Pause**
+
+15h25. *Keynote*: Marc Barthelemy, Directeur de recherche, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA).
+
+15h55. Cas d’application: Julie Gravier, Post-doctorante, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales.
+
+16h10. *Keynote*: Pierre-Philippe Combes, Directeur de recherche au CNRS, Département d’économie, Sciences-Po.
+
+16h40. Cas d’application: Antonin Bergeaud, Professeur Assistant, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris
+
+16h55. Discussion générale animée par Claire Lagesse, Maîtresse de conférences, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
+
+17h30. **Clôture de la journée.**
+
 
 ## Séance 4/4: Octobre 2023.
 
