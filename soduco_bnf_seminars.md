@@ -9,8 +9,11 @@ rank: 5
 The SODUCO project and the Franch National Library (Biblothèque nationale de France) are organising a series of seminars around the historical sources used by the project and the approaches developed to process them. 
 
 Invited talks are included to give a more comprehensive overview of the state of the art of current projects and existing works in the field of digital humanities, dealing with the same issues. 
-
 During the SODUCO/BnF seminars, the presentations and discussions are mainly in French. That is why the programmes below are presented in French.
+
+En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l’atelier SoDUCo-BnF**. Il a pour perspective de diffuser et mettre en question le travail réalisé dans le cadre de SoDUCo et de faire dialoguer chercheurs et spécialistes de la conservation des documents sur des objets et projets communs allant de l’exploitation des fonds (cartes et plans, annuaires du commerce) à la production et diffusion de données libres (géocodage historique, analyse spatiale, science ouverte).
+**Equipe organisatrice** : *P. Chevallier, J.-D. Mellot, E. Netchine, C Ion, A. Agniesa (BnF), J. Perret, N. Abadie, S. Tual, J. Raimbault (IGN), E. Carlinet, J. Chazalon (EPITA), M. Barthelemy, J. Gravier, P. Cristofoli, S. Baciocchi, B. Dumenieu (EHESS) avec la collaboration de V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), M. Fernandez (EHESS), C. Bernard (IGN). Conception affiches : H. Cheize (EHESS).*
+
 ***
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
