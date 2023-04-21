@@ -11,13 +11,16 @@ The SODUCO project and the Franch National Library (Biblothèque nationale de Fr
 Invited talks are included to give a more comprehensive overview of the state of the art of current projects and existing works in the field of digital humanities, dealing with the same issues. 
 
 During the SODUCO/BnF seminars, the presentations and discussions are mainly in French. That is why the programmes below are presented in French.
+***
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
  Voir ci-dessous.
  
+*** 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
  Voir ci-dessous.
  
+*** 
 ## Séance 3/4: Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF - Analyses spatiales formalisées de données géo-historiques
 
 **Date: Mardi 23 mai 2023. 9h30-17h30**.
@@ -32,9 +35,9 @@ La journée est ouverte au public. **Inscription obligatoire** aux deux demi-jou
 
 ### Programme Matinée (9h30-12h00): Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF
 
-09h15. Acceuil du public.
+09h15. Accueil du public.
 
-09h30. Ouverture de la Journée et introduction générale
+09h30. Ouverture de la journée et introduction générale
 
 Le département *Cartes & Plans* de la Bibliothèque nationale de France et l’équipe SoDUCo proposent une matinée de dialogue avec les professionnels portant sur le circuit de traitements des documents cartographiques des 18e et 19e siècles. Elle s’organisera en trois ateliers et nécessitera la répartition des auditeurs en trois groupes qui participeront successivement à des échanges introduits par ces trois présentations:
 -	histoire des collections et traitement de conservation : présentation de documents et visite des magasins du département des *Cartes & Plans* 
@@ -85,10 +88,11 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 17h30. **Clôture de la journée.**
 
-
+***
 ## Séance 4/4: Octobre 2023.
 
 ***
+**SEANCES PRECEDANTES**
 ***
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
