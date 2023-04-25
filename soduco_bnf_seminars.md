@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  The SODUCO/BnF seminars
-rank: 5
+rank: 7
 ---
 
 ![Séminaire SoDUCo-Bnf](./public/images/affichebnfsoduco_extrait_visuelseminaire.png)
