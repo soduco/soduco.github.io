@@ -23,5 +23,5 @@ The dataset is described in more detail and can be dowloaded at https://zenodo.o
 
 ## Benchmark dataset for historical maps segmentation
 
-A benchmark dataset for historical maps segmentation has been created and used to organise a commetition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
+A benchmark dataset for historical maps segmentation has been created and used to organise a competition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
 
