@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers, data & tools
+title: Publications
 rank: 4
 ---
 
@@ -19,79 +19,4 @@ Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Dumenieu, 
 
 Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence Jolivet, et al.. Engraved footprints from the past. Retrieving cartographic geohistorical data from the Cassini Carte de France, 1750-1789. *International Cartographic Conference 2019*, Jul 2019, Tokyo, Japan. [⟨hal-02173847⟩](https://hal.archives-ouvertes.fr/hal-02173847)
 
-## Datasets, benchmarks and other resources
 
-### Benchmark dataset for NER models used on noisy OCR predictions
-
- A benchmark dataset for NER models and noisy OCR predictions has been created based on our corpus of directories and is freely available:
-- suitable for OCR evaluation,
-- suitable for NER fine-tuning self-supervised and supervised,
-- suitable for NER evaluation.
-
-8, 765 reference entries from a selection of directories were manually corrected and annotated with 34, 242 entities. Entries contain 3.9 entities on average.
-Reference tagged entities were then projected on OCR predictions done by tree different OCR systems. This resulted in a variable loss of entries:
-- for PERO OCR: 8, 392 valid entries were generated, 
-- for Tesseract: 8, 700 valid entries were generated, 
-- for Kraken: 7, 990 valid entries were generated. 
-
-The resulting intersection of the sets of valid entries contains 7, 725 entries for the tree OCR systems (and the reference), or 8, 341 entries if we consider PERO OCR and Tesseract only.
-
-The dataset is described in more detail and can be dowloaded at https://zenodo.org/record/6394464
-
-### Benchmark dataset for historical maps segmentation
-
-A benchmark dataset for historical maps segmentation has been created and used to organise a commetition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
-
-## Tools
-
-### Semi-automatic annotation tool
-
-A semi-automatic text annotation tool is developped by the project. It takes PDF documents as input and processes them automatically by applying the three following steps:
-- layout detection,
-- optical characters recognition (with PERO OCR),
-- named entities recognition (fine-tuned CamemBERT model).
-
-Users can then check and manually correct each automatically detected and processed text section.
-
-| ![SODUCO corpus of directories](./public/images/SODUCO_Corpus.png) |
-|:--:|
-| <b>The trade directories from the 19<sup>th</sup> century are a challenging dataset with very heterogeneous layouts, fonts, and contents. Source: gallica.bnf.fr / Bibliothèque nationale de France</b>|
-
-
-| ![SODUCO text annotation tool](./public/images/AnnotationTool.png) |
-|:--:|
-| <b>SODUCO text annotation tool</b>|
-
-### Geohistorical geocoding tool
-
-| ![SODUCO geohistorical geocoding tool](./public/images/GeocoderHistorique.png) |
-|:--:|
-| <b>The historical geocoder takes both addresses and dates into account</b>|
-
-### Old maps vectorisation tool
-
-Add a description here.
-
-| ![SODUCO vectorisation tool](./public/images/Example.png) |
-|:--:|
-| <b>Caption for the image</b>|
-
-### Vector data validation and correction tool
-
-A collaborative tool to validate and edit geospatial data and more is developped to improve data quality by getting a human validation of any type of geospatial data. It allows users to improve this quality by creating, removing, modifying or validating any feature (geometry and attributes).
-
-| ![SODUCO validation tool](./public/images/data-validation_general-view.png) | ![SODUCO validation tool](./public/images/data-validation_update_attrs.png) |
-|:--:|:--:|
-| <b>General view of the tool with uploaded data</b>|<b>Edit mode, creation of the geometry of a new feature</b>|
-
-| ![SODUCO validation tool](./public/images/data-validation_draw_mode.png) | ![SODUCO validation tool](./public/images/data-validation_check_feature_status.png) |
-|:--:| :--:|
-| <b>Edit mode, change of attributes of an existing feature</b>|<b>Status mode to see what features were created, removed or modified</b>|
-
-### Data and historical sources catalogue
-
-A [catalog](https://soduco.github.io/catalog/) has been developped to store, reference and retrieve archival records and digital data used and produced throughout the project.
-
-| ![SODUCO catalogue](./public/images/catalog_searchpage.png) |
-|:--:|
-| <b>SODUCO catalog</b>|
