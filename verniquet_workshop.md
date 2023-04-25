@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  The Verniquet workshop
-rank: 6
+rank: 8
 ---
 
 **Coordinator:** Bertrand Duménieu
