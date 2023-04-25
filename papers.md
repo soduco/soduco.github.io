@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Publications and talks
 rank: 4
 ---
 
-# Publications and talks
-
-## International conference papers
+# International conference papers
 
 Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, and Bertrand Dumenieu. A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19 Century French Directories. *In: Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. DAS 2022*. Lecture Notes in Computer Science, vol 13237. Springer, Cham. Proceedings of the Document Analysis Systems international workshop, held in La Rochelle, France, 22-25 may 2022. [⟨10.1007/978-3-031-06555-2_30⟩](https://doi.org/10.1007/978-3-031-06555-2_30).
 [Code for the paper]( https://github.com/soduco/paper-ner-bench-das22.)
@@ -19,11 +17,11 @@ Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Dumenieu, 
 
 Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUCo) : Open tools, models, and data – Paris and its suburbs, 1789-1950. Free and Open Source Software for Geospatial Conference (FOSS4G 2019), held in Bucharest, Romania, 30 August 2019. 
 
-## International conference posters
+# International conference posters
 
 Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence Jolivet, et al.. Engraved footprints from the past. Retrieving cartographic geohistorical data from the Cassini Carte de France, 1750-1789. *International Cartographic Conference 2019*, Jul 2019, Tokyo, Japan. [⟨hal-02173847⟩](https://hal.archives-ouvertes.fr/hal-02173847)
 
-## Invited talks
+# Invited talks
 
 Nathalie Abadie, Stéphane Baciocchi, Charly Bernard, Edwin Carlinet, Paul Chapron, Joseph Chazalon, Yizi Chen, Pascal Cristofoli, Bertrand Duménieu, Mathieu Fernandez, Julie Gravier, Melvin Hersent, Clément Mallet, Julien Perret, Juste Raimbault and Solenn Tual. SoDUCo: Croisement de sources géo-historiques pour l'étude de l'évolution de Paris de 1789 à 1950. Séminaire IXXI *Extraction, traitement et visualisation de données complexes en géographie (XVIIIe s. - XIXe s.)*. Lyon, France, 20 February 2023. Talk by Julien Perret et Joseph Chazalon. [Video and slides are available here](https://gitlab.liris.cnrs.fr/geode/seminaires-ixxi/-/tree/master/s%C3%A9minaires/session11_fev23).
 
