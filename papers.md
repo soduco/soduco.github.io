@@ -15,7 +15,7 @@ Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Duménieu,
 Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Dumenieu, et al.. Vectorization of historical maps using deep edge filtering and closed shape extraction. *16th International Conference on Document Analysis and Recognition (ICDAR'21)*, Sep 2021, Lausanne, Switzerland. pp.510-525, [⟨10.1007/978-3-030-86337-1_34⟩](https://dx.doi.org/10.1007/978-3-030-86337-1_34). [⟨hal-03256073⟩](https://hal.archives-ouvertes.fr/hal-03256073)
 [Code for the paper](https://github.com/soduco/ICDAR-2021-Vectorization)
 
-Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUCo) : Open tools, models, and data – Paris and its suburbs, 1789-1950. Free and Open Source Software for Geospatial Conference (FOSS4G 2019), held in Bucharest, Romania, 30 August 2019. 
+Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUCo) : Open tools, models, and data – Paris and its suburbs, 1789-1950. *Free and Open Source Software for Geospatial Conference (FOSS4G 2019)*, held in Bucharest, Romania, 30 August 2019. 
 
 # International conference posters
 
