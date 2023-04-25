@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  The metadata catalog
-rank: 7
+rank: 9
 ---
 
 **Coordinators:** Julien Perret, Bertrand Duménieu
