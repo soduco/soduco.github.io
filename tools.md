@@ -5,7 +5,7 @@ rank: 6
 ---
 
 
-# Semi-automatic annotation tool
+## Semi-automatic annotation tool
 
 A semi-automatic text annotation tool is developped by the project. It takes PDF documents as input and processes them automatically by applying the three following steps:
 - layout detection,
@@ -23,13 +23,13 @@ Users can then check and manually correct each automatically detected and proces
 |:--:|
 | <b>SODUCO text annotation tool</b>|
 
-# Geohistorical geocoding tool
+## Geohistorical geocoding tool
 
 | ![SODUCO geohistorical geocoding tool](./public/images/GeocoderHistorique.png) |
 |:--:|
 | <b>The historical geocoder takes both addresses and dates into account</b>|
 
-# Old maps vectorisation tool
+## Old maps vectorisation tool
 
 Add a description here.
 
@@ -37,7 +37,7 @@ Add a description here.
 |:--:|
 | <b>Caption for the image</b>|
 
-# Vector data validation and correction tool
+## Vector data validation and correction tool
 
 A collaborative tool to validate and edit geospatial data and more is developped to improve data quality by getting a human validation of any type of geospatial data. It allows users to improve this quality by creating, removing, modifying or validating any feature (geometry and attributes).
 
@@ -49,7 +49,7 @@ A collaborative tool to validate and edit geospatial data and more is developped
 |:--:| :--:|
 | <b>Edit mode, change of attributes of an existing feature</b>|<b>Status mode to see what features were created, removed or modified</b>|
 
-# Data and historical sources catalogue
+## Data and historical sources catalogue
 
 A [catalog](https://soduco.github.io/catalog/) has been developped to store, reference and retrieve archival records and digital data used and produced throughout the project.
 
