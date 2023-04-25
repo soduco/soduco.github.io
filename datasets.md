@@ -1,12 +1,10 @@
 ---
 layout: page
-title:  Datasets
+title:  Open datasets, benchmarks and other resources
 rank: 5
 ---
 
-# Open datasets, benchmarks and other resources
-
-### Benchmark dataset for NER models used on noisy OCR predictions
+# Benchmark dataset for NER models used on noisy OCR predictions
 
  A benchmark dataset for NER models and noisy OCR predictions has been created based on our corpus of directories and is freely available:
 - suitable for OCR evaluation,
@@ -23,7 +21,7 @@ The resulting intersection of the sets of valid entries contains 7, 725 entries 
 
 The dataset is described in more detail and can be dowloaded at https://zenodo.org/record/6394464
 
-### Benchmark dataset for historical maps segmentation
+# Benchmark dataset for historical maps segmentation
 
 A benchmark dataset for historical maps segmentation has been created and used to organise a commetition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
 
