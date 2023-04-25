@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Open datasets, benchmarks and other resources
+title:  Open datasets
 rank: 5
 ---
 
