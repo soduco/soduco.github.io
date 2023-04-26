@@ -64,7 +64,7 @@ Le département *Cartes & Plans* de la Bibliothèque nationale de France et l’
 
 ### Programme Après-Midi (13h30-17h30): Analyses spatiales formalisées de données géo-historiques. Co-évolution spatiale et sociale de la ville de Paris 1799-1914.
 
-*(Les communications de cette demmi-journée seront données en anglais)*
+*(Les communications de cette demi-journée seront données en anglais)*
 
 Organisation : Julie Gravier (SoDUCo - EHESS) et Juste Raimbault (SoDUCo - IGN)
 
