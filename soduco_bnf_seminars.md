@@ -13,7 +13,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l’atelier SoDUCo-BnF**. Il a pour perspective de diffuser et mettre en question le travail réalisé dans le cadre de SoDUCo et de faire dialoguer chercheurs et spécialistes de la conservation des documents sur des objets et projets communs allant de l’exploitation des fonds (cartes et plans, annuaires du commerce) à la production et diffusion de données libres (géocodage historique, analyse spatiale, science ouverte).
 
-**Equipe organisatrice** : *P. Chevallier, J.-D. Mellot, E. Netchine, C Ion, A. Agniesa (BnF), J. Perret, N. Abadie, S. Tual, J. Raimbault (IGN), E. Carlinet, J. Chazalon (EPITA), M. Barthelemy, J. Gravier, P. Cristofoli, S. Baciocchi, B. Dumenieu (EHESS) avec la collaboration de V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), M. Fernandez (EHESS), C. Bernard (IGN). Conception affiches : H. Cheize (EHESS).*
+**Equipe organisatrice** : *A. Agniesa, P. Chevallier, C. Ion, E. Netchine (BnF), N. Abadie, J. Perret, J. Raimbault, S. Tual (IGN), E. Carlinet, J. Chazalon (EPITA), S. Baciocchi, M. Barthelemy, P. Cristofoli, B. Dumenieu, J. Gravier (EHESS) avec la collaboration de J. Garel-Grislin, O. Loiseaux, J.-D. Mellot et J.-P. Moreux (BNF), V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), H. Cheize et M. Fernandez (EHESS), C. Bernard et M. Hersent (IGN).*
 
 ***
 
