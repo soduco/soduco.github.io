@@ -10,8 +10,10 @@ rank: 7
 <div id="ed" markdown="0" style="margin:2em; border:1px solid; padding: 1rem;">
 <h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la troisième séance, mardi 23 mai 2023</h3>
 La journée est ouverte au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant <a href="https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52">https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52</a>
-
+<br/>
 Lieu: BnF, Paris, site Richelieu (salle des conférences), 5 Rue Vivienne 75002 Paris. 9h30-17h30.
+<br/>
+<a href="#séance-34-le-circuit-de-traitements-des-documents-cartographiques-des-xviiie-et-xixe-siècles-à-la-bnf---analyses-spatiales-formalisées-de-données-géo-historiques"> Plus d'informations.</a>
 </div>
 
 The SODUCO project and the French National Library (Biblothèque nationale de France) are organising a joint seminar, the SoDUCo-BnF seminar, around the historical sources used by the project and the approaches developed to process them. It aims at diffusing and questioning the research done within the project, and at animating dialogues between researchers and professionals in document conservation on common objects and projects ranging from the exploitation of documents (maps, commerce directories) to the production and diffusion of open data (historical geocoding, spatial analysis, open science).
