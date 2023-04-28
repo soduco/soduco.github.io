@@ -8,7 +8,7 @@ rank: 4
 
 Solenn Tual, Nathalie Abadie, Joseph Chazalon, Bertrand Duménieu, and Edwin Carlinet. A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents. *17th International Conference on Document Analysis and Recognition (ICDAR’23)*, to be held in San José, California, USA, 21-26 August 2023. Article accepted.
 
-Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, and Bertrand Dumenieu. A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19 Century French Directories. *In: Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. DAS 2022*. Lecture Notes in Computer Science, vol 13237. Springer, Cham. Proceedings of the Document Analysis Systems international workshop, held in La Rochelle, France, 22-25 may 2022. [⟨10.1007/978-3-031-06555-2_30⟩](https://doi.org/10.1007/978-3-031-06555-2_30).
+Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, and Bertrand Dumenieu. A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19 Century French Directories. *In: Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. DAS 2022*. Lecture Notes in Computer Science, vol 13237. Springer, Cham. Proceedings of the Document Analysis Systems international workshop, held in La Rochelle, France, 22-25 may 2022. [⟨10.1007/978-3-031-06555-2_30⟩](https://doi.org/10.1007/978-3-031-06555-2_30). [⟨hal-03698609⟩](https://hal.science/hal-03698609).
 [Code for the paper]( https://github.com/soduco/paper-ner-bench-das22.)
 
 Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Duménieu, et al.. Combining Deep Learning and Mathematical Morphology for Historical Map Segmentation. *Discrete Geometry and Mathematical Morphology, First International Joint Conference, DGMM 2021, Uppsala, Sweden, May 24–27, 2021, Proceedings*, 12708, pp 79 - 92, 2021, Lecture notes in computer science, [⟨10.1007/978-3-030-76657-3_5⟩](https://dx.doi.org/10.1007/978-3-030-76657-3_5). [⟨hal-03101578⟩](https://hal.archives-ouvertes.fr/hal-03101578)
@@ -21,7 +21,9 @@ Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUC
 
 ## National or French-speaking conference papers
 
-Melvin Hersent, Nathalie Abadie, Bertrand Duménieu, Julien Perret. Modèles et outils pour la publication de métadonnées d'archives géographiques et de leurs données dérivées. *Colloque annuel de l'Association francophone des humanités numériques: Humanistica 2023*, held in Geneva, Switzerland, 26-28 June 2023. Article accepted.
+Solenn Tual, Nathalie Abadie, Bertrand Duménieu, Joseph Chazalon and Edwin Carlinet. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du 19ème siècle: application aux métiers de la photographie. *IC 2023, 34èmes journées francophones d'Ingénierie des connaissances*, to be held in Strasbourg, France, 3-7 July 2023. Article accepted.
+
+Melvin Hersent, Nathalie Abadie, Bertrand Duménieu, Julien Perret. Modèles et outils pour la publication de métadonnées d'archives géographiques et de leurs données dérivées. *Colloque annuel de l'Association francophone des humanités numériques: Humanistica 2023*, to be held in Geneva, Switzerland, 26-28 June 2023. Article accepted.
 
 ## International conference posters
 
