@@ -19,6 +19,10 @@ Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Dumenieu, 
 
 Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUCo) : Open tools, models, and data – Paris and its suburbs, 1789-1950. *Free and Open Source Software for Geospatial Conference (FOSS4G 2019)*, held in Bucharest, Romania, 30 August 2019. 
 
+## National or French-speaking conference papers
+
+Melvin Hersent, Nathalie Abadie, Bertrand Duménieu, Julien Perret. Modèles et outils pour la publication de métadonnées d'archives géographiques et de leurs données dérivées. *Colloque annuel de l'Association francophone des humanités numériques: Humanistica 2023*, held in Geneva, Switzerland, 26-28 June 2023. Article accepted.
+
 ## International conference posters
 
 Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence Jolivet, et al.. Engraved footprints from the past. Retrieving cartographic geohistorical data from the Cassini Carte de France, 1750-1789. *International Cartographic Conference 2019*, Jul 2019, Tokyo, Japan. [⟨hal-02173847⟩](https://hal.archives-ouvertes.fr/hal-02173847)
