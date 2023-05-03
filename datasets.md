@@ -25,3 +25,12 @@ The dataset is described in more detail and can be dowloaded at https://zenodo.o
 
 A benchmark dataset for historical maps segmentation has been created and used to organise a competition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
 
+## Dataset "Annuaires historiques parisiens, 1798-1914"
+
+Réf. Annuaires historiques parisiens, 1798-1914. Extraction structurée et géolocalisée à l’adresse des listes nominatives [par ordre alphabétique et par activité] dans les volumes numérisés*, SoDUCo Team, V.01 - mai 2023, Paris.
+
+Comming soon...
+
+For more information, see the 2th Session of the SoDUCo-BnF seminar : *Relocating addresses from commerce directories, Paris, XIXth century. A corpus of urban locations at a large scale*, 10 novembre 2022, Paris, Bibliothèque nationale de France.
+cf. https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf 
+
