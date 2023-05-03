@@ -25,7 +25,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l’atelier SoDUCo-BnF**. Il a pour perspective de diffuser et mettre en question le travail réalisé dans le cadre de SoDUCo et de faire dialoguer chercheurs et spécialistes de la conservation des documents sur des objets et projets communs allant de l’exploitation des fonds (cartes et plans, annuaires du commerce) à la production et diffusion de données libres (géocodage historique, analyse spatiale, science ouverte).
 
-**Equipe organisatrice** : *A. Agniesa, P. Chevallier, C. Ion, E. Netchine (BnF), N. Abadie, J. Perret, J. Raimbault, S. Tual (IGN), E. Carlinet, J. Chazalon (EPITA), S. Baciocchi, M. Barthelemy, P. Cristofoli, B. Dumenieu, J. Gravier (EHESS) avec la collaboration de J. Garel-Grislin, O. Loiseaux, J.-D. Mellot et J.-P. Moreux (BNF), V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), H. Cheize et M. Fernandez (EHESS), C. Bernard et M. Hersent (IGN).*
+**Equipe organisatrice** : *A. Aniesa, P. Chevallier, C. Ion, E. Netchine (BnF), N. Abadie, J. Perret, J. Raimbault, S. Tual (IGN), E. Carlinet, J. Chazalon (EPITA), S. Baciocchi, M. Barthelemy, P. Cristofoli, B. Dumenieu, J. Gravier (EHESS) avec la collaboration de J. Garel-Grislin, O. Loiseaux, J.-D. Mellot et J.-P. Moreux (BNF), V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), H. Cheize et M. Fernandez (EHESS), C. Bernard et M. Hersent (IGN).*
 
 ***
 
@@ -88,7 +88,7 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 14h05. Cas d’application: Juste Raimbault, Chargé de recherche, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN).
 
-14h20. *Keynote*: Michael Batty, Professeur émérite, Centre for Advanced Spatial Analysis (CASA), University College London.
+14h20. *Keynote*: Michael Batty, Professeur émérite, Centre for Advanced Spatial Analysis (CASA), University College London (à confirmer).
 
 14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Planning, University College London.
 
