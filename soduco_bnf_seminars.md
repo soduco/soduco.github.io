@@ -90,7 +90,7 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 14h20. *Keynote*: Michael Batty, Professeur émérite, Centre for Advanced Spatial Analysis (CASA), University College London (à confirmer).
 
-14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Planning, University College London.
+14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Architecture, University College London.
 
 15h10. **Pause**
 
