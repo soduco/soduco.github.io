@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "SuDUCo au Festival Printemps des Cartes"
+title: "SuDUCo at the 'Printemps des Cartes' festival!"
 tag: communication
 ---
-Les travaux de l'équipe SoDUCo sont présentés lors de la journée d'étude "Pour un traitement automatisé des cartes anciennes" organisé dans le cadre du Festival "Printemps des Cartes", 11-12 mai 2023, à Montmorillon (France).
+The work of the SoDUCo team will be presented during the workshop on the "Automated processing of old maps" organised as part of the "Printemps des Cartes" Festival, 11-12 May 2023, in Montmorillon (France).
 [Click here for more information (in French)](https://www.printempsdescartes.fr/wp-content/uploads/sites/414/2023/04/FESTIVAL-PRINTEMPS-DES-CARTES-PROGRAMME-2023.pdf)
