@@ -45,7 +45,7 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 
 La journée est ouverte au public. **Inscription obligatoire** aux deux demi-journées via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52](https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52)
 
-[Affiche et programme de la journée (français)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023.pdf) / [Affiche et programme de la journée (anglais)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023_EN.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023_HR.png)
+[Affiche et programme de la journée (français)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023.pdf) / [Affiche et programme de la journée (anglais)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023_EN.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023_HR.png) / [Carnet recherche BnF](https://bnf.hypotheses.org/31160)
 
 ![Séminaire SoDUCo-Bnf Journée 3](./public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023.png)
 
@@ -167,7 +167,7 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 
 **Inscription obligatoire** via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
 
-[Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_soduco2_HR.png)
+[Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_soduco2_HR.png) / [Carnet de Recherche BnF](https://bnf.hypotheses.org/17899)
 
 ![Séminaire SoDUCo-Bnf Journée 2](./public/images/affiche_soduco2.png)
 
