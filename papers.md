@@ -31,5 +31,7 @@ Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence 
 
 ## Invited talks
 
+Bertrand Duménieu. Localiser les adresses anciennes ? Plans historiques & annuaires parisiens au XIXe. *Journée d'études scientifiques « Pour un traitement scientifique automatisé des cartes anciennes ». Festival Printemps des Cartes*. Montmorillon, France, 11-12 May 2023.
+
 Nathalie Abadie, Stéphane Baciocchi, Charly Bernard, Edwin Carlinet, Paul Chapron, Joseph Chazalon, Yizi Chen, Pascal Cristofoli, Bertrand Duménieu, Mathieu Fernandez, Julie Gravier, Melvin Hersent, Clément Mallet, Julien Perret, Juste Raimbault and Solenn Tual. SoDUCo: Croisement de sources géo-historiques pour l'étude de l'évolution de Paris de 1789 à 1950. Séminaire IXXI *Extraction, traitement et visualisation de données complexes en géographie (XVIIIe s. - XIXe s.)*. Lyon, France, 20 February 2023. Talk by Julien Perret et Joseph Chazalon. [Video and slides are available here](https://gitlab.liris.cnrs.fr/geode/seminaires-ixxi/-/tree/master/s%C3%A9minaires/session11_fev23).
 
