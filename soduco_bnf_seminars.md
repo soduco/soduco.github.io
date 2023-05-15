@@ -84,9 +84,9 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 13h30. **Introduction à la demi-journée. Julie Gravier, Juste Raimbault et Claire Lagesse.**
 
-13h35. *Keynote*: Denise Pumain, Professeur émérite, Géographie-Cités, Université Paris I Panthéon-Sorbonne.
+13h35. *Keynote*: Denise Pumain, Emeritus Professor, Géographie-Cités, Université Paris I Panthéon-Sorbonne.
 
-14h05. Cas d’application: Juste Raimbault, Chargé de recherche, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN).
+14h05. Cas d’application: Juste Raimbault, Research fellow, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN).
 
 14h20. *Keynote*: Michael Batty, Professeur émérite, Centre for Advanced Spatial Analysis (CASA), University College London (à confirmer).
 
@@ -94,15 +94,15 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 15h10. **Pause**
 
-15h25. *Keynote*: Marc Barthelemy, Directeur de recherche, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA).
+15h25. *Keynote*: Marc Barthelemy, Research Director, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA) : *Evolution of urban structures*.
 
-15h55. Cas d’application: Julie Gravier, Post-doctorante, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales.
+15h55. Cas d’application: Julie Gravier, Postdoc, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales.
 
-16h10. *Keynote*: Pierre-Philippe Combes, Directeur de recherche au CNRS, Département d’économie, Sciences-Po.
+16h10. *Keynote*: Pierre-Philippe Combes, Research Director at CNRS, Département d’économie, Sciences-Po.
 
-16h40. Cas d’application: Antonin Bergeaud, Professeur Assistant, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris
+16h40. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : Concentration of Economic Activities in 19th-Century Paris.
 
-16h55. Discussion générale animée par Claire Lagesse, Maîtresse de conférences, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
+16h55. Discussion générale animée par Claire Lagesse, Lecturer, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
 
 17h30. **Clôture de la journée.**
 
