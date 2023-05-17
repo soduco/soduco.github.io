@@ -51,14 +51,14 @@ La journée est ouverte au public. **Inscription obligatoire** aux deux demi-jou
 
 ### Programme Matinée (9h30-12h00): Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF
 
-09h15. Accueil du public.
+09h15. Accueil du public en salle des conférences.
 
 09h30. Ouverture de la journée et introduction générale
 
-Le département *Cartes & Plans* de la Bibliothèque nationale de France et l’équipe SoDUCo proposent une matinée de dialogue avec les professionnels portant sur le circuit de traitements des documents cartographiques des 18e et 19e siècles. Elle s’organisera en trois ateliers et nécessitera la répartition des auditeurs en trois groupes qui participeront successivement à des échanges introduits par ces trois présentations:
--	histoire des collections et traitement de conservation : présentation de documents et visite des magasins du département des *Cartes & Plans* 
--	traitement bibliographique : catalogage, entités lieux et les services associés (dont Data BnF)
-- numérisation et diffusion : politique de numérisation, politique et modes de diffusion dans *Gallica* via IIIF
+Le département *Cartes & Plans* de la Bibliothèque nationale de France et l’équipe SoDUCo proposent une matinée de dialogue avec les professionnels portant sur le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles. Elle s’organisera en trois « ateliers », chacun introduit par une présentation. Le premier nécessitera la répartition des auditeurs en deux ou trois groupes qui se retrouveront ensuite en session plénière en salle des conférences pour aborder successivement les deux autres ateliers et échanger autour des thématiques retenues :
+-	09h40. Histoire des collections et traitement de conservation: présentation de documents et visite des magasins du département des *Cartes & Plans* (Répartition des auditeurs en 2 ou 3 groupes) 
+-	10h30. Traitement bibliographique: catalogage, entités lieux et les services associés (dont *Data BnF*).
+- 11h15. Numérisation et diffusion : politique de numérisation, politique et modes de diffusion dans *Gallica* via IIIF.
 
 12h00. Pause-déjeuner libre pour le public.
 
@@ -82,6 +82,8 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 #### Programme prévisionnel:
 
+13h15. Accueil du public en salle des conférences.
+
 13h30. **Introduction à la demi-journée. Julie Gravier, Juste Raimbault et Claire Lagesse.**
 
 13h35. *Keynote*: Denise Pumain, Emeritus Professor, Géographie-Cités, Université Paris I Panthéon-Sorbonne.
@@ -90,7 +92,7 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 14h20. *Keynote*: Michael Batty, Professeur émérite, Centre for Advanced Spatial Analysis (CASA), University College London (à confirmer).
 
-14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Architecture, University College London.
+14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Architecture, University College London : *A tale of one street: the spatio-functional character of Rue de Rivoli before and after Haussmann*.
 
 15h10. **Pause**
 
@@ -100,7 +102,7 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 16h10. *Keynote*: Pierre-Philippe Combes, Research Director at CNRS, Département d’économie, Sciences-Po.
 
-16h40. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : Concentration of Economic Activities in 19th-Century Paris.
+16h40. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : *Concentration of Economic Activities in 19th-Century Paris*.
 
 16h55. Discussion générale animée par Claire Lagesse, Lecturer, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
 
