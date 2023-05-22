@@ -90,19 +90,21 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 14h05. Cas d’application: Juste Raimbault, Research fellow, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN) : *Quantifying co-evolution of socio-economic activities with geo-historical data*.
 
-14h50. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Architecture, University College London : *A tale of one street: the spatio-functional character of Rue de Rivoli before and after Haussmann*.
+14h20. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Architecture, University College London : *A tale of one street: the spatio-functional character of Rue de Rivoli before and after Haussmann*.
 
-15h10. **Pause**
+14h35. **Pause**
 
-15h25. *Keynote*: Marc Barthelemy, Research Director, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA) : *Evolution of urban structures*.
+14h50. *Keynote*: Marc Barthelemy, Research Director, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA) : *Evolution of urban structures*.
 
-15h55. Cas d’application: Julie Gravier, Postdoc, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales : *Evolution of the urban structure of Paris during the 19th century. Building a temporal typology of urban activity categories*.
+15h20. Cas d’application: Julie Gravier, Postdoc, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales : *Evolution of the urban structure of Paris during the 19th century. Building a temporal typology of urban activity categories*.
 
-16h10. *Keynote*: Pierre-Philippe Combes, Research Director at CNRS, Département d’économie, Sciences-Po : *(Machine) Learning from Historical Maps: Land Use and Urbanisation, France c. 1760-2020* Co-authors: Gilles Duranton (Wharton, University of Pennsylvania), Laurent Gobillon (Paris School of Economics), and Clément Gorin (University of Toronto).
+15h35. *Keynote*: Pierre-Philippe Combes, Research Director at CNRS, Département d’économie, Sciences-Po : *(Machine) Learning from Historical Maps: Land Use and Urbanisation, France c. 1760-2020* Co-authors: Gilles Duranton (Wharton, University of Pennsylvania), Laurent Gobillon (Paris School of Economics), and Clément Gorin (University of Toronto).
 
-16h40. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : *Concentration of Economic Activities in 19th-Century Paris*.
+16h05. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : *Concentration of Economic Activities in 19th-Century Paris*.
 
-16h55. Discussion générale animée par Claire Lagesse, Lecturer, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
+16h20. **Pause**
+
+16h35. Discussion générale animée par Claire Lagesse, Lecturer, Théoriser & Modéliser pour Aménager (ThéMA), Université Bourgogne Franche-Comté.
 
 17h30. **Clôture de la journée.**
 
