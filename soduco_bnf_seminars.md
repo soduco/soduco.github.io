@@ -7,7 +7,9 @@ rank: 7
 ![Séminaire SoDUCo-Bnf](./public/images/affichebnfsoduco_extrait_visuelseminaire.png)
 
 
+<!---
 <div id="ed" markdown="0" style="margin:2em; border:1px solid; padding: 1rem;">
+
 <h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la troisième séance, mardi 23 mai 2023</h3>
 La journée est ouverte au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant <a href="https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52">https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52</a>
 <br/>
@@ -15,6 +17,7 @@ Lieu: BnF, Paris, site Richelieu (salle des conférences), 5 Rue Vivienne 75002 
 <br/>
 <a href="#séance-34-le-circuit-de-traitements-des-documents-cartographiques-des-xviiie-et-xixe-siècles-à-la-bnf---analyses-spatiales-formalisées-de-données-géo-historiques"> Cf. informations sur le programme de la journée.</a>
 </div>
+-->
 
 The SODUCO project and the French National Library (Biblothèque nationale de France) are organising a joint seminar, the SoDUCo-BnF seminar, around the historical sources used by the project and the approaches developed to process them. It aims at diffusing and questioning the research done within the project, and at animating dialogues between researchers and professionals in document conservation on common objects and projects ranging from the exploitation of documents (maps, commerce directories) to the production and diffusion of open data (historical geocoding, spatial analysis, open science).
 
@@ -30,20 +33,21 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 ***
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
- Voir ci-dessous.
+ Voir [ci-dessous](#seance1).
  
 *** 
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
- Voir ci-dessous.
+ Voir [ci-dessous](#seance2).
  
 *** 
 ## Séance 3/4: Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF - Analyses spatiales formalisées de données géo-historiques
+{: #seance3 }
 
 **Date: Mardi 23 mai 2023. 9h30-17h30**.
 
 **Lieu:** BnF, Paris, site Richelieu (salle des conférences), 5 Rue Vivienne 75002 Paris.
 
-La journée est ouverte au public. **Inscription obligatoire** aux deux demi-journées via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52](https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52)
+<!--La journée est ouverte au public. **Inscription obligatoire** aux deux demi-journées via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52](https://evento.renater.fr/survey/inscriptions-a-la-3eme-journee-soduco-bnf-23-mai-2023-m3qnah52)-->
 
 [Affiche et programme de la journée (français)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023.pdf) / [Affiche et programme de la journée (anglais)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023_EN.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023_HR.png) / [Carnet recherche BnF](https://bnf.hypotheses.org/31160)
 
@@ -56,9 +60,9 @@ La journée est ouverte au public. **Inscription obligatoire** aux deux demi-jou
 09h30. Ouverture de la journée et introduction générale
 
 Le département *Cartes & Plans* de la Bibliothèque nationale de France et l’équipe SoDUCo proposent une matinée de dialogue avec les professionnels portant sur le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles. Elle s’organisera en trois « ateliers », chacun introduit par une présentation. Le premier nécessitera la répartition des auditeurs en deux ou trois groupes qui se retrouveront ensuite en session plénière en salle des conférences pour aborder successivement les deux autres ateliers et échanger autour des thématiques retenues :
--	09h40. Histoire des collections et traitement de conservation: présentation de documents et visite des magasins du département des *Cartes & Plans* (Répartition des auditeurs en 2 ou 3 groupes) 
--	10h30. Traitement bibliographique: catalogage, entités lieux et les services associés (dont *Data BnF*).
-- 11h15. Numérisation et diffusion : politique de numérisation, politique et modes de diffusion dans *Gallica* via IIIF.
+- 09h40. Histoire des collections et traitement de conservation: présentation de documents et visite des magasins du département des *Cartes & Plans* (Répartition des auditeurs en 2 ou 3 groupes) 
+- 10h30. [Traitement bibliographique: catalogage, entités lieux et les services associés (dont *Data BnF*)](/public/images/seminaire3/3eJourneeSoDUCoBNF_01_AtelierSignalement_Abadie_Hersent_Loiseaux.pdf).
+- 11h15. [Numérisation et diffusion : politique de numérisation, politique et modes de diffusion dans *Gallica* via IIIF](/public/images/seminaire3/3eJourneeSoDUCoBNF_02_Numerisation_diffusion_Gallica_IIIF_Aniesa_Dumenieu_Moreux_Perret.pdf).
 
 12h00. Pause-déjeuner libre pour le public.
 
@@ -86,21 +90,21 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 
 13h30. **Introduction à la demi-journée. Julie Gravier, Juste Raimbault et Claire Lagesse.**
 
-13h35. *Keynote*: Denise Pumain, Emeritus Professor, Géographie-Cités, Université Paris I Panthéon-Sorbonne : *A geo-historical theory of systems of cities: co-evolution of urban trajectories*.
+13h35. *Keynote*: Denise Pumain, Emeritus Professor, Géographie-Cités, Université Paris I Panthéon-Sorbonne : [*A geo-historical theory of systems of cities: co-evolution of urban trajectories*](/public/images/seminaire3/3eJourneeSoDUCoBNF_03_A_geohistorical_theory_of_systems_of_cities_Pumain.pdf).
 
-14h05. Cas d’application: Juste Raimbault, Research fellow, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN) : *Quantifying co-evolution of socio-economic activities with geo-historical data*.
+14h05. Cas d’application: Juste Raimbault, Research fellow, Laboratoire des Sciences et Technologies de l'Information Géographique (LaSTIG) de l'Institut national de l’information géographique et forestière (IGN) : [*Quantifying co-evolution of socio-economic activities with geo-historical data*](/public/images/seminaire3/3eJourneeSoDUCoBNF_04_Quantifying_co-evolution_Raimbault.pdf).
 
 14h20. Cas d’application: Farbod Afshar Bakeshloo, PhD candidate, The Bartlett School of Architecture, University College London : *A tale of one street: the spatio-functional character of Rue de Rivoli before and after Haussmann*.
 
 14h35. **Pause**
 
-14h50. *Keynote*: Marc Barthelemy, Research Director, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA) : *Evolution of urban structures*.
+14h50. *Keynote*: Marc Barthelemy, Research Director, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA) : [*Evolution of urban structures*](/public/images/seminaire3/3eJourneeSoDUCoBNF_06_Evolution_Urban_Structures_Barthelemy.pdf).
 
-15h20. Cas d’application: Julie Gravier, Postdoc, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales : *Evolution of the urban structure of Paris during the 19th century. Building a temporal typology of urban activity categories*.
+15h20. Cas d’application: Julie Gravier, Postdoc, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales : [*Evolution of the urban structure of Paris during the 19th century. Building a temporal typology of urban activity categories*](/public/images/seminaire3/3eJourneeSoDUCoBNF_07_Building_a_temporal_typology_of_urban_activity_categories_Gravier.pdf).
 
-15h35. *Keynote*: Pierre-Philippe Combes, Research Director at CNRS, Département d’économie, Sciences-Po : *(Machine) Learning from Historical Maps: Land Use and Urbanisation, France c. 1760-2020* Co-authors: Gilles Duranton (Wharton, University of Pennsylvania), Laurent Gobillon (Paris School of Economics), and Clément Gorin (University of Toronto).
+15h35. *Keynote*: Pierre-Philippe Combes, Research Director at CNRS, Département d’économie, Sciences-Po : [*(Machine) Learning from Historical Maps: Land Use and Urbanisation, France c. 1760-2020*](/public/images/seminaire3/3eJourneeSoDUCoBNF_08_Measuring_land_use_changes_Combes.pdf) Co-authors: Gilles Duranton (Wharton, University of Pennsylvania), Laurent Gobillon (Paris School of Economics), and Clément Gorin (University of Toronto).
 
-16h05. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : *Concentration of Economic Activities in 19th-Century Paris*.
+16h05. Cas d’application: Antonin Bergeaud, Assistant Professor, Département d’économie, École des hautes études commerciales de Paris (HEC) Paris : [*Concentration of Economic Activities in 19th-Century Paris*](/public/images/seminaire3/3eJourneeSoDUCoBNF_09_Concentration_of_economic_activities_Bergeaud.pdf).
 
 16h20. **Pause**
 
@@ -109,7 +113,8 @@ Partant d'un même corpus de données ouvertes, à savoir celles relatives aux l
 17h30. **Clôture de la journée.**
 
 ***
-## Séance 4/4: Octobre 2023.
+## Séance 4/4: Octobre/Novembre 2023.
+{: #seance4 }
 Automne 2023. Programme à venir
 
 
@@ -120,6 +125,7 @@ Automne 2023. Programme à venir
 ***
 
 ## Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950
+{: #seance1 }
 
 **Date:** Lundi 11 avril 2022.
 
@@ -162,12 +168,13 @@ J. Chazalon (EPITA) et J. Perret (IGN) coord.
 ***
  
 ## Séance 2/4: Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle.
+{: #seance2 }
 
 **Date:** Jeudi 10 novembre 2022. 9h30-17h30. Accueil à partir de 9h.
 
 **Lieu:** BnF, Paris, site François-Mitterrand (salle 70, à coté du petit auditorium, accès Hall-F par l'entrée publique de la bibliothèque).
 
-**Inscription obligatoire** via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)
+<!-- **Inscription obligatoire** via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4](https://evento.renater.fr/survey/inscriptions-a-la-2eme-journee-soduco-bnf-10-novembre-2022-nuorelx4)-->
 
 [Affiche et programme de la journée](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_soduco2_HR.png) / [Carnet de Recherche BnF](https://bnf.hypotheses.org/17899)
 
