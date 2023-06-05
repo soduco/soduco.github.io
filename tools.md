@@ -33,9 +33,9 @@ Users can then check and manually correct each automatically detected and proces
 
 Add a description here.
 
-| ![SODUCO vectorisation tool](./public/images/Example.png) |
+| ![SODUCO vectorisation tool](./public/images/gdal_polygonize-out.png) |
 |:--:|
-| <b>Caption for the image</b>|
+| <b>A sample vectorisation output</b>|
 
 ## Vector data validation and correction tool
 
