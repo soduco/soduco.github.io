@@ -30,5 +30,11 @@ rank: 10
 |:--:|
 | <b>[See it on the Allmaps viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoduco%2Fallmaps_annotations%2Fmain%2Foutput%2Fbhdv_atlas_municipal_1888%2Fannotation_bhdv_atlas_municipal_1888.json)</b>|
 
+## The Atlas municipal [...] 1900 from BHdV (Ville de Paris) [link](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000935510)
+
+| ![Atlas municipal 1900w](./public/images/Atlas_municipal_1900.png) |
+|:--:|
+| <b>[See it on the Allmaps viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoduco%2Fallmaps_annotations%2Fmain%2Foutput%2Fbhdv_atlas_municipal_1900%2Fannotation_bhdv_atlas_municipal_1900.json)</b>|
+
 # A repository to convert QGIS GCPs to Allmaps annotations
 [For more information, please go look at the GitHub repository!](https://github.com/soduco/allmaps_annotations)
