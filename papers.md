@@ -21,7 +21,7 @@ Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUC
 
 ## National or French-speaking conference papers
 
-Solenn Tual, Nathalie Abadie, Bertrand Duménieu, Joseph Chazalon and Edwin Carlinet. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du 19ème siècle: application aux métiers de la photographie. *IC 2023, 34èmes journées francophones d'Ingénierie des connaissances*, Strasbourg, France, 3-7 July 2023. [(hal-04121643](https://hal.science/hal-04121643/). **Best paper jury's special award**.
+Solenn Tual, Nathalie Abadie, Bertrand Duménieu, Joseph Chazalon and Edwin Carlinet. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du 19ème siècle: application aux métiers de la photographie. *IC 2023, 34èmes journées francophones d'Ingénierie des connaissances*, Strasbourg, France, 3-7 July 2023. [(hal-04121643)](https://hal.science/hal-04121643/). **Best paper jury's special award**.
 [Code for the paper](https://github.com/soduco/ic_2023_photographes_parisiens)
 [Demo](https://soduco.github.io/ic_2023_photographes_parisiens/)
 
