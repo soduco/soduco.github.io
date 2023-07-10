@@ -50,5 +50,7 @@ It can also be downloaded from the [Github repository](https://github.com/soduco
 
 This knowledge graph was created automatically: it necessarily contains errors resulting from the various processes used to produce it (directory entries segmentation, OCR, NER, geocoding, linking, etc.).
 
+We plan to publish more data about other activities and business types by the end of the project.
+
 
 
