@@ -34,3 +34,21 @@ Comming soon...
 For more information, see the 2th Session of the SoDUCo-BnF seminar : *Relocating addresses from commerce directories, Paris, XIXth century. A corpus of urban locations at a large scale*, 10 novembre 2022, Paris, Bibliothèque nationale de France.
 cf. https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf 
 
+## The geohistorical knowledge graph of directory entries
+
+An approach was proposed to create a geohistorical knowledge graph that would enable the evolution of shops and activities in Paris to be tracked over time, based on named entities extracted from trade directories and addresses extracted from old maps processed as part of the project. 
+A first knowledge graph about the activities related to photography has been constructed and published on the Web of Data. 
+Among other things, it can be used to answer the following questions:
+- What was the address of business X in 1861?
+- How many shops or businesses of this type were located in the rue de Rivoli in 1856?
+- Which shops or businesses were located in an area defined by a bounding box or polygon in 1875?
+- Which shops or businesses moved during their existence?
+- Which shops or businesses were taken over by another owner carrying on the same activity?
+
+This geohistorical knowledge graph can be queried either though a [cartographic interface](https://soduco.github.io/ic_2023_photographes_parisiens/) or through a [SPARQL endpoint](https://dir.geohistoricaldata.org/). 
+It can also be downloaded from the [Github repository](https://github.com/soduco/ic_2023_photographes_parisiens) related to the [article describing the geohistorical knowledge graph creation process](https://hal.science/hal-04121643/).
+
+This knowledge graph was created automatically: it necessarily contains errors resulting from the various processes used to produce it (directory entries segmentation, OCR, NER, geocoding, linking, etc.).
+
+
+
