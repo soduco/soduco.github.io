@@ -21,9 +21,11 @@ Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUC
 
 ## National or French-speaking conference papers
 
-Solenn Tual, Nathalie Abadie, Bertrand Duménieu, Joseph Chazalon and Edwin Carlinet. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du 19ème siècle: application aux métiers de la photographie. *IC 2023, 34èmes journées francophones d'Ingénierie des connaissances*, to be held in Strasbourg, France, 3-7 July 2023. Article accepted.
+Solenn Tual, Nathalie Abadie, Bertrand Duménieu, Joseph Chazalon and Edwin Carlinet. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du 19ème siècle: application aux métiers de la photographie. *IC 2023, 34èmes journées francophones d'Ingénierie des connaissances*, Strasbourg, France, 3-7 July 2023. [(hal-04121643](https://hal.science/hal-04121643/). **Best paper jury's special award**.
+[Code for the paper](https://github.com/soduco/ic_2023_photographes_parisiens)
+[Demo](https://soduco.github.io/ic_2023_photographes_parisiens/)
 
-Melvin Hersent, Nathalie Abadie, Bertrand Duménieu, Julien Perret. Modèles et outils pour la publication de métadonnées d'archives géographiques et de leurs données dérivées. *Colloque annuel de l'Association francophone des humanités numériques: Humanistica 2023*, to be held in Geneva, Switzerland, 26-28 June 2023. Article accepted.
+Melvin Hersent, Nathalie Abadie, Bertrand Duménieu, Julien Perret. Modèles et outils pour la publication de métadonnées d'archives géographiques et de leurs données dérivées. *Colloque annuel de l'Association francophone des humanités numériques: Humanistica 2023*, Geneva, Switzerland, 26-28 June 2023. [hal-04110787](https://hal.science/hal-04110787/)
 
 ## International conference posters
 
