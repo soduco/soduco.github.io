@@ -34,9 +34,9 @@ Comming soon...
 For more information, see the 2th Session of the SoDUCo-BnF seminar : *Relocating addresses from commerce directories, Paris, XIXth century. A corpus of urban locations at a large scale*, 10 novembre 2022, Paris, Bibliothèque nationale de France.
 cf. https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf 
 
-## The geohistorical knowledge graph of directory entries
+## The geohistorical knowledge graph of shops and businesses
 
-An approach was proposed to create a geohistorical knowledge graph that would enable the evolution of shops and activities in Paris to be tracked over time, based on named entities extracted from trade directories and addresses extracted from old maps processed as part of the project. 
+An approach was proposed to create a geohistorical knowledge graph that would enable the evolution of shops and businesses in Paris to be tracked over time, based on named entities extracted from trade directories and addresses extracted from old maps processed as part of the project. 
 A first knowledge graph about the activities related to photography has been constructed and published on the Web of Data. 
 Among other things, it can be used to answer the following questions:
 - What was the address of business X in 1861?
