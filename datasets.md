@@ -46,7 +46,7 @@ Among other things, it can be used to answer the following questions:
 - Which shops or businesses were taken over by another owner carrying on the same activity?
 
 This geohistorical knowledge graph can be queried either though a [cartographic interface](https://soduco.github.io/ic_2023_photographes_parisiens/) or through a [SPARQL endpoint](https://dir.geohistoricaldata.org/). 
-It can also be downloaded from the [Github repository](https://github.com/soduco/ic_2023_photographes_parisiens) related to the [article describing the geohistorical knowledge graph creation process](https://hal.science/hal-04121643/).
+It can also be downloaded from the [Github repository](https://github.com/soduco/ic_2023_photographes_parisiens) related to the [article](https://hal.science/hal-04121643/) describing the geohistorical knowledge graph creation process.
 
 This knowledge graph was created automatically: it necessarily contains errors resulting from the various processes used to produce it (directory entries segmentation, OCR, NER, geocoding, linking, etc.).
 
