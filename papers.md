@@ -6,7 +6,7 @@ rank: 4
 
 ## International conference papers
 
-Solenn Tual, Nathalie Abadie, Joseph Chazalon, Bertrand Duménieu, and Edwin Carlinet. A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents. *17th International Conference on Document Analysis and Recognition (ICDAR’23)*, San José, California, USA, 21-26 August 2023. [(10.1007/978-3-031-41682-8_8)](https://doi.org/10.1007/978-3-031-41682-8_8). [(hal-03994759)](https://hal.science/hal-03994759). [Code for the paper](https://doi.org/10.5281/zenodo.7997437).
+Solenn Tual, Nathalie Abadie, Joseph Chazalon, Bertrand Duménieu, and Edwin Carlinet. A Benchmark of Nested Named Entity Recognition Approaches in Historical Structured Documents. *17th International Conference on Document Analysis and Recognition (ICDAR’23)*, San José, California, USA, 21-26 August 2023. [⟨10.1007/978-3-031-41682-8_8⟩](https://doi.org/10.1007/978-3-031-41682-8_8). [⟨hal-03994759⟩](https://hal.science/hal-03994759). [Code for the paper](https://doi.org/10.5281/zenodo.7997437).
 
 Nathalie Abadie, Edwin Carlinet, Joseph Chazalon, and Bertrand Dumenieu. A Benchmark of Named Entity Recognition Approaches in Historical Documents Application to 19 Century French Directories. *In: Uchida, S., Barney, E., Eglin, V. (eds) Document Analysis Systems. DAS 2022*. Lecture Notes in Computer Science, vol 13237. Springer, Cham. Proceedings of the Document Analysis Systems international workshop, held in La Rochelle, France, 22-25 may 2022. [⟨10.1007/978-3-031-06555-2_30⟩](https://doi.org/10.1007/978-3-031-06555-2_30). [⟨hal-03698609⟩](https://hal.science/hal-03698609).
 [Code for the paper]( https://github.com/soduco/paper-ner-bench-das22.).
