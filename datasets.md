@@ -19,7 +19,8 @@ Reference tagged entities were then projected on OCR predictions done by tree di
 
 The resulting intersection of the sets of valid entries contains 7, 725 entries for the tree OCR systems (and the reference), or 8, 341 entries if we consider PERO OCR and Tesseract only.
 
-The dataset is described in more detail and can be dowloaded at https://zenodo.org/record/6394464
+This dataset has been used in the work described in [this article](https://hal.science/hal-03698609).
+The dataset is described in more detail and can be downloaded on [this Zenodo repository](https://zenodo.org/record/6394464).
 
 ## Benchmark dataset for historical maps segmentation
 
