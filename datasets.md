@@ -53,5 +53,14 @@ This knowledge graph was created automatically: it necessarily contains errors r
 
 We plan to publish more data about other activities and business types by the end of the project.
 
+## Benchmark dataset for Nested NER models used on noisy OCR predictions
 
+A benchmark dataset for Nested Named Entity Recognition has been created using the initial dataset for NER models (see <i>Benchmark dataset for NER models used on noisy OCR predictions</i> at the top this page):
+- Suitable for evaluating nested named entity recognition approaches (fine-tuning);
+- Includes for each entry :
+    - the manually corrected OCR text;
+    - Per OCR output;
+    - Tesseract output.
 
+This dataset was used in the [following work presented at ICDAR 2023](https://link.springer.com/chapter/10.1007/978-3-031-41682-8_8).
+The dataset is fully described and can be downloaded from [Zenodo](https://zenodo.org/record/8167628).
