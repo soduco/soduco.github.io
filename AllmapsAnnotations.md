@@ -61,4 +61,4 @@ rank: 10
 | <b>[See it on the Allmaps viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoduco%2Fallmaps_annotations%2Fmain%2Foutput%2Fbhdv_atlas_municipal_1937%2Fannotation_bhdv_atlas_municipal_1937.json)</b>|
 
 # A repository to convert QGIS GCPs to Allmaps annotations
-[For more information, please go look at the GitHub repository!](https://github.com/soduco/allmaps_annotations)
+[For more information, please check out the GitHub repository!](https://github.com/soduco/allmaps_annotations)
