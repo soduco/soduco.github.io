@@ -53,11 +53,15 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 
 **Lieu:** BnF, Paris, [Site François Mitterrand](https://www.bnf.fr/fr/francois-mitterrand) (salle 70), Quai François Mauriac, 75706 Paris.
 
-Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoire** aux trois demi-journées via le lien Evento suivant : [https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl))
+Cette 4ème séance de l'Atelier est ouverte au public.
 
-<!-- [Affiche et programme de la journée (français)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023.pdf) / [Affiche et programme de la journée (anglais)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_23Mai2023_EN.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023_HR.png) / [Carnet recherche BnF]()-->
+**Inscription obligatoire** aux trois demi-journées via le lien Evento suivant :
 
-<!-- ![Séminaire SoDUCo-Bnf Journée 3](./public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023.png)-->
+[https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl))
+
+[Affiche et programme de la journée (français)](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.png)
+
+![Séminaire SoDUCo-Bnf Journée 3](./public/images/affiche_Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.png)
 
 ### Introduction à la 4ème séance de l'Atelier SoDUCo-BnF:
 
@@ -137,6 +141,8 @@ Cette matinée invite plus particulièrement à réfléchir à ces questions dan
 
 En complément de la 4ème séance de l'Atelier SoDUCo-BnF, les membres du consortium SoDUCo organisent 3 ateliers-formation le mardi 7 novembre après-midi avec l'aide du BnF-DataLab.
 Ces ateliers-formations, accessibles sur invitation ou inscription, sont organisés en parallèle. Ils ont été imaginés pour permettre à différents publics de s’approprier et de réutiliser quelques-unes des ressources produites dans le cadre du programme de recherche SoDUCo. Chaque atelier proposera un scénario général d’utilisation et s’attachera ensuite à sa mise en pratique avec les stagiaires.
+
+[Affiche et programme des Ateliers-Formation BnF DataLab](https://soduco.github.io/public/images/Atelier_Soduco_BnF_Programme_seance4_ateliers7Nov2023.pdf)
 
 ### Programme prévisionnel de l'aprés-midi du Mardi 7 Novembre (13h30-17h30) - (accès sur invitation ou sur inscription)
 
