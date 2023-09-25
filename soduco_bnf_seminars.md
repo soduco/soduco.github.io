@@ -59,9 +59,11 @@ Cette 4ème séance de l'Atelier est ouverte au public.
 
 [https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl))
 
-[Affiche et programme de la 4ème séance](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png)
+[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/affiche_Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png)
 
-![Séminaire SoDUCo-Bnf Journée 3](./public/images/affiche_Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_BR.png)
+
+![Séminaire SoDUCo-Bnf Séance 4](./public/images/affiche_Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_BR.png)
+
 
 ### Introduction à la 4ème séance de l'Atelier SoDUCo-BnF:
 
@@ -137,7 +139,7 @@ Cette matinée invite plus particulièrement à réfléchir à ces questions dan
 **12h15. Pause-déjeuner.**
 
 ## Séance 4/4 suite : LES ATELIERS-FORMATION SODUCO – BNF DATALAB (accès limité)
-{: #seance4_ateliers }
+{: #ateliers_seance4 }
 
 En complément de la 4ème séance de l'Atelier SoDUCo-BnF, les membres du consortium SoDUCo organisent 3 ateliers-formation le mardi 7 novembre après-midi avec l'aide du BnF-DataLab.
 Ces ateliers-formations, accessibles sur invitation ou inscription, sont organisés en parallèle. Ils ont été imaginés pour permettre à différents publics de s’approprier et de réutiliser quelques-unes des ressources produites dans le cadre du programme de recherche SoDUCo. Chaque atelier proposera un scénario général d’utilisation et s’attachera ensuite à sa mise en pratique avec les stagiaires.
