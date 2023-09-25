@@ -51,11 +51,9 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 
 **Date: Lundi 6 (9h30-17h30) et Mardi 7 (9h30-12h30) Novembre 2023.**.
 
-**Lieu:** BnF, Paris, [Site François Mitterrand](https://www.bnf.fr/fr/francois-mitterrand) (salle 70), Quai François Mauriac, 75706 Paris.
+**Lieu: BnF, Paris, [Site François Mitterrand](https://www.bnf.fr/fr/francois-mitterrand) (salle 70), Quai François Mauriac, 75706 Paris.**
 
-Cette 4ème séance de l'Atelier est ouverte au public.
-
-**Inscription obligatoire** aux trois demi-journées via le lien Evento suivant :
+Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoire** aux trois demi-journées via le lien Evento suivant :
 
 [https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl))
 
@@ -148,11 +146,11 @@ Ces ateliers-formations, accessibles sur invitation ou inscription, sont organis
 
 ### Programme prévisionnel de l'aprés-midi du Mardi 7 Novembre (13h30-17h30) - (accès sur invitation ou sur inscription)
 
-BnF-DataLab, Bibliothèque nationale de France, Site François Mitterrand, Paris.
+**BnF-DataLab, Bibliothèque nationale de France, Site François Mitterrand, Paris.**
 
-13h30. *** Accueil à partir de 13h15 au BnF-DataLab ***
+13h15. Accueil des stagiaires à partir de 13h15 dans le hall est de la BnF.
 
-13h30. Début des ateliers  : 
+**13h30**. Début des ateliers au DataLab : 
 
 **ATELIER N°1 – Exploration des données et cartographie grand public (Accès sur inscription et sélection par l'équipe SoDUCo)**
 
@@ -176,7 +174,6 @@ Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 8
 16h45. Bilan collectif et discussion des ateliers
 
 17h30. Clôture de la journée.
-
 
 ***
 ***
