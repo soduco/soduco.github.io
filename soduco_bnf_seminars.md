@@ -45,7 +45,6 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 
 ***
 ## Séance 4/4: Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle - Partager l’expérience et les ressources du programme ANR SoDUCo
-
 {: #seance4 }
 
 **Séminaire de clôture du programme ANR SoDUCo**
@@ -60,7 +59,7 @@ Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoir
 
 <!-- ![Séminaire SoDUCo-Bnf Journée 3](./public/images/Atelier_Soduco_Bnf_affiche_Journee_23Mai2023.png)-->
 
-### Présentation de la séance:
+### Introduction à la 4ème séance de l'Atelier SoDUCo-BnF:
 
 La 4ème séance de l’Atelier SoDUCo-BnF propose de poursuivre les discussions engagées entre chercheurs et spécialistes de la conservation patrimoniale des documents. Pour rappel, les 3 précédentes séances concernaient : les procédures de conservation, de signalement et de diffusion des documents cartographiques (_Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF_, 23 mai 2023), les moyens de reconstituer l’histoire des atlas et plans de la ville et d’en proposer une édition critique numérique (_Paris, capitale géodésique. Atlas et plans à grande échelle: 1780–1950_, 10 avril 2022), la définition et l’exploitation du corpus des listes d’adresses des Annuaires commerciaux du XIXe siècle (_Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle_, 10 novembre 2022), et enfin un aperçu des analyses qui peuvent être mises en œuvre sur les données qui en sont extraites (_Analyses spatiales formalisées de données géo-historiques_, 23 mai 2023).
 Cette dernière séance de l’Atelier est organisée sur deux jours, les 6 et 7 novembre 2023. Elle fait office de séminaire de clôture du programme de recherche SoDUCo (_Dynamiques Sociales en contexte urbain: outils, modèles et données libres – Paris et ses banlieues, 1789-1950_). Elle s’attache à présenter un bref bilan de l'ensemble des réalisations, ainsi que les outils et données mis à la disposition du public.
@@ -80,9 +79,9 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 - 10h00. **SoDUCo team**, _Catalogage et diffusion des données dans le programme SoDUCo_. 
 - 10h30. Questions.
-- 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert ([Allmaps](https://allmaps.org/))**, Présentation du consortium [Allmaps](https://allmaps.org/).
-- 11h05. **M. Denel et al. (Wikimedia France)**, _Science participative, science ouverte. L'expérience de Wikimedia France_**
-- 11h25. **Adeline Joffres (Huma-num)**, Sous réserve.
+- 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), Présentation du consortium [Allmaps](https://allmaps.org/).
+- 11h05. **M. Denel et al.** (Wikimedia France), _Science participative, science ouverte. L'expérience de Wikimedia France_**
+- 11h25. **Adeline Joffres** (Huma-num), Sous réserve.
 - 11h45. Questions.
 - 12h00. Discussion - Table ronde.
 
@@ -94,15 +93,14 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 **14h00 - 16h30 - Session Extraction et structuration des données**
 
-14h00. **SoDUCo team**, _Extraction et structuration de données dans le programme SoDUCo_.
-
 Cette demi-journée revient sur les questions d’analyse automatique de documents anciens semi-structurés, de la détection de leur mise en page à la structuration spatio-temporelle des informations qu’ils contiennent. Nous y présenterons les travaux réalisés dans le projet SoDUCo sur les annuaires du commerce parisien du XIXe siècle pour permettre le suivi spatio-temporel de chaque commerce recensé dans ces annuaires. Sur la base de ces expériences, il nous semble utile d’élargir les discussions sur deux aspects ouvrant encore de nombreuses perspectives de recherche : l’analyse automatique de documents anciens et la représentation de connaissances géohistoriques.
 
-- 14h30. **C. Duvette et P. Kervegan (Département des études et de la recherche - INHA)**, _Chapeliers, architectes, nouveautés : géo-analyse des activités visibles et invisibles d'un quartier_
+- 14h00. **SoDUCo team**, _Extraction et structuration de données dans le programme SoDUCo_.
+- 14h30. **C. Duvette et P. Kervegan** (Département des études et de la recherche - Institut national d'histoire de l'art, INHA), _Chapeliers, architectes, nouveautés : géo-analyse des activités visibles et invisibles d'un quartier_
 - 14h50. Questions.
 - 15h05. Pause café.
-- 15h20. **N. Hernandez, W. Charles (Université de Toulouse Jean Jaurès, IRIT) et S. Poublanc (Université de Toulouse Jean Jaurès, Framespa)**, _Représenter les territoires de la France moderne dans des graphes de connaissances : le projet OBARDI_.
-- 15h40. **C. Kermorvant ((TEKLIA)[https://teklia.com/fr/])**, _Nouvelles approches pour l’extraction d’informations dans des documents numérisés_.
+- 15h20. **N. Hernandez, W. Charles** (_Institut de Recherche en Informatique de Toulouse_ - IRIT, Université de Toulouse Jean Jaurès) et **S. Poublanc** (_France, Amérique, Espagne, Sociétés, Pouvoirs, Acteurs_- Framespa, Université de Toulouse Jean Jaurès, Framespa), _Représenter les territoires de la France moderne dans des graphes de connaissances : le projet OBARDI_.
+- 15h40. **C. Kermorvant** ([TEKLIA](https://teklia.com/fr/)), _Nouvelles approches pour l’extraction d’informations dans des documents numérisés_.
 - 16h00. Questions.
 - 16h15. Discussion - Table ronde.
 
@@ -110,7 +108,7 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 
 **16h45 - 17h30 - Keynote**
 
-- 16h45. *Keynote*: Marc Barthelemy, Research Director, Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives (CEA) et Julie Gravier, Postdoc, Centre de recherches historiques (CRH) et Centre d'analyse et de mathématique sociales (CAMS), Ecole des hautes études en sciences sociales :
+- 16h45. *Keynote*: **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) :
 
 **17h30. Clôture de la journée.**
 
@@ -134,12 +132,11 @@ Cette matinée invite plus particulièrement à réfléchir à ces questions dan
 
 **12h15. Pause-déjeuner.**
 
-## Séance 4/4: LES ATELIERS-FORMATION SODUCO – BNF DATALAB
-
+## Séance 4/4 suite : LES ATELIERS-FORMATION SODUCO – BNF DATALAB (accès limité)
 {: #seance4_ateliers }
 
 En complément de la 4ème séance de l'Atelier SoDUCo-BnF, les membres du consortium SoDUCo organisent 3 ateliers-formation le mardi 7 novembre après-midi avec l'aide du BnF-DataLab.
-Ces ateliers-formations "SoDUCo – BnF DataLab" sont organisés en parallèle. L'accès à ces atelier est limité. Ils ont été imaginés pour permettre à différents publics de s’approprier et de réutiliser quelques-unes des ressources produites dans le cadre du programme de recherche SoDUCo. Chaque atelier proposera un scénario général d’utilisation et s’attachera ensuite à sa mise en pratique avec les stagiaires.
+Ces ateliers-formations, accessibles sur invitation ou inscription, sont organisés en parallèle. Ils ont été imaginés pour permettre à différents publics de s’approprier et de réutiliser quelques-unes des ressources produites dans le cadre du programme de recherche SoDUCo. Chaque atelier proposera un scénario général d’utilisation et s’attachera ensuite à sa mise en pratique avec les stagiaires.
 
 ### Programme prévisionnel de l'aprés-midi du Mardi 7 Novembre (13h30-17h30) - (accès sur invitation ou sur inscription)
 
@@ -147,18 +144,19 @@ BnF-DataLab, Bibliothèque nationale de France, Site François Mitterrand, Paris
 
 13h30. *** Accueil à partir de 13h15 au BnF-DataLab ***
 
-13h30. Début des ateliers.  : 
+13h30. Début des ateliers  : 
 
-**ATELIER N°1 – Exploration des données et cartographie grand public (fermé au public - accès sur inscription)**
+**ATELIER N°1 – Exploration des données et cartographie grand public (Accès sur inscription et sélection par l'équipe SoDUCo)**
 Comment accéder aux données et travailler avec les ressources SoDUCo.
-Org. Pierre-André Le Ny & Melvin Hersent & Mathieu Fernandez & Julien Perret & Pascal Critsofoli, Salle 15.
+Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 15 pers.
+[Cf. lien vers le formulaire de demande d’inscription (à venir)]
 
 **ATELIER N°2 – Utiliser la chaîne SoDUCo d’extraction et d’enrichissement de documents textuels numériques (fermé au public - accès sur invitation)**
-Org. : Edwin Carlinet & Joseph Chazalon & Bertrand Dumenieu, [& Nathalie Abadie] Salle 8-1
+Org. : E. Carlinet & J. Chazalon & B. [& Nathalie Abadie] Salle 8 pers. (1)
 
 **ATELIER N°3 – Graphes de Connaissance Géohistoriques Professionnels (fermé au public - accès sur invitation)**
 Construire des exploitations spécialisées du corpus des Annuaires Parisiens (alignement de données, travail sur des sous-populations, … )
-Org. Nathalie Abadie & Solenn Tual & Julie Gravier & Charly Bernard [& Pascal Critsofoli] Salle 8.2
+Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 8 pers. (2)
 
 16h30. Pause
 
