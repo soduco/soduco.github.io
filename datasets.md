@@ -28,12 +28,9 @@ A benchmark dataset for historical maps segmentation has been created and used t
 
 ## Dataset "Annuaires historiques parisiens, 1798-1914"
 
-Réf. Annuaires historiques parisiens, 1798-1914. Extraction structurée et géolocalisée à l’adresse des listes nominatives [par ordre alphabétique et par activité] dans les volumes numérisés*, SoDUCo Team, V.01 - mai 2023, Paris.
+Réf. Annuaires historiques parisiens, 1798-1914. _Extraction structurée et géolocalisée à l’adresse des listes nominatives [par ordre alphabétique et par activité] dans les volumes numérisés_, SoDUCo Team, V.01 - mai 2023, Paris DataSet Nakala,  [https://nakala.fr/10.34847/nkl.98eem49t](https://nakala.fr/10.34847/nkl.98eem49t) 
 
-Comming soon...
-
-For more information, see the 2th Session of the SoDUCo-BnF seminar : *Relocating addresses from commerce directories, Paris, XIXth century. A corpus of urban locations at a large scale*, 10 novembre 2022, Paris, Bibliothèque nationale de France.
-cf. https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf 
+For more information about this dataset, see the 2th Session of the SoDUCo-BnF seminar : _Relocating addresses from commerce directories, Paris, XIXth century. A corpus of urban locations at a large scale_, 10 novembre 2022, Paris, Bibliothèque nationale de France. cf. [Session Program](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) and [related presentations](https://soduco.github.io/soduco_bnf_seminars/#seance2)
 
 ## The geohistorical knowledge graph of shops and businesses
 
