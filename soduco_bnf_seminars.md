@@ -8,8 +8,8 @@ rank: 7
 
 
 <div id="ed" markdown="0" style="margin:2em; border:1px solid; padding: 1rem;">
-<h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la quatrième séance, les lundi 6 novembre et mardi 7 novembre 2023</h3>
-Les trois demi-journées sont ouvertes au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant <a href="https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl">https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl</a>
+<h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la quatrième séance,<br> Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle - Partager l’expérience et les ressources du programme ANR SoDUCo<br> les lundi 6 novembre et mardi 7 novembre 2023</h3>
+Les trois demi-journées sont ouvertes au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant:<br> <a href="https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl">https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl</a>
 <br/>
 Lieu: BnF, Paris, Site François Mitterrand, salle 70.
 <br/>
@@ -26,7 +26,7 @@ During the SODUCO/BnF seminars, the presentations and discussions are mainly in 
 
 En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l’atelier SoDUCo-BnF**. Il a pour perspective de diffuser et mettre en question le travail réalisé dans le cadre de SoDUCo et de faire dialoguer chercheurs et spécialistes de la conservation des documents sur des objets et projets communs allant de l’exploitation des fonds (cartes et plans, annuaires du commerce) à la production et diffusion de données libres (géocodage historique, analyse spatiale, science ouverte).
 
-**Equipe organisatrice** : *A. Aniesa, P. Chevallier, C. Ion, E. Netchine (BnF), N. Abadie, J. Perret, J. Raimbault, S. Tual (IGN), E. Carlinet, J. Chazalon (EPITA), S. Baciocchi, M. Barthelemy, P. Cristofoli, B. Dumenieu, J. Gravier (EHESS) avec la collaboration de J. Garel-Grislin, O. Loiseaux, J.-D. Mellot et J.-P. Moreux (BNF), V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), H. Cheize et M. Fernandez (EHESS), C. Bernard et M. Hersent (IGN).*
+**Equipe organisatrice** : *A. Aniesa, P. Chevallier, C. Ion, E. Netchine, et J.-P. Moreux (BnF), N. Abadie, J. Perret, J. Raimbault, S. Tual (IGN), E. Carlinet, J. Chazalon (EPITA), S. Baciocchi, M. Barthelemy, P. Cristofoli, B. Dumenieu, J. Gravier (EHESS) avec la collaboration de L.-A. Charles, J. Garel-Grislin, O. Loiseaux et J.-D. Mellot (BNF), V. Rebolledo-Dhuin (UPEC), M. Puren (EPITA), P.-A. Le Ny (LeNy Conseil), H. Cheize et M. Fernandez (EHESS), C. Bernard et M. Hersent (IGN).*
 
 ***
 
