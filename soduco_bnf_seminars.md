@@ -8,15 +8,14 @@ rank: 7
 
 
 <div id="ed" markdown="0" style="margin:2em; border:1px solid; padding: 1rem;">
-
 <h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la quatrième séance, les lundi 6 novembre et mardi 7 novembre 2023</h3>
 Les trois demi-journées sont ouvertes au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant <a href="https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl">https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl</a>
 <br/>
 Lieu: BnF, Paris, Site François Mitterrand, salle 70.
 <br/>
 <a href="#s%C3%A9ance-44-restituer-les-annuaires-commerciaux-et-les-%C3%A9volutions-de-lespace-parisien-du-xixe-si%C3%A8cle---partager-lexp%C3%A9rience-et-les-ressources-du-programme-anr-soduco"> Cf. informations sur le programme de la journée.</a>
-[ci-dessous](#seance4)
 </div>
+
 
 The SODUCO project and the French National Library (Biblothèque nationale de France) are organising a joint seminar, the SoDUCo-BnF seminar, around the historical sources used by the project and the approaches developed to process them. It aims at diffusing and questioning the research done within the project, and at animating dialogues between researchers and professionals in document conservation on common objects and projects ranging from the exploitation of documents (maps, commerce directories) to the production and diffusion of open data (historical geocoding, spatial analysis, open science).
 
