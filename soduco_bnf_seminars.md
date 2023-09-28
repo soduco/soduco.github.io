@@ -13,15 +13,15 @@ Les trois demi-journées sont ouvertes au public. L'inscription est <span style=
 <br/>
 Lieu: BnF, Paris, Site François Mitterrand, salle 70.
 <br/>
-<a href="#seance4">Consulter le programme de la 4ème séance.</a>
+<a href="#s%C3%A9ance-44-restituer-les-annuaires-commerciaux-et-les-%C3%A9volutions-de-lespace-parisien-du-xixe-si%C3%A8cle---partager-lexp%C3%A9rience-et-les-ressources-du-programme-anr-soduco">Consulter le programme de la 4ème séance.</a>
 </div>
-
-Voir [ci-dessous](#seance4)
 
 The SODUCO project and the French National Library (Biblothèque nationale de France) are organising a joint seminar, the SoDUCo-BnF seminar, around the historical sources used by the project and the approaches developed to process them. It aims at diffusing and questioning the research done within the project, and at animating dialogues between researchers and professionals in document conservation on common objects and projects ranging from the exploitation of documents (maps, commerce directories) to the production and diffusion of open data (historical geocoding, spatial analysis, open science).
 
 Invited talks are included to give a more comprehensive overview of the state of the art of current projects and existing works in the field of digital humanities, dealing with the same issues. 
 During the SODUCO/BnF seminars, the presentations and discussions are mainly in French. That is why the programmes below are presented in French.
+
+Voir [ci-dessous](#seance4)
 
 ***
 
