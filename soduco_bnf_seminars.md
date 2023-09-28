@@ -96,7 +96,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 **14h00 - 14h45 - Keynote**
 
-- 14h00. **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) :
+- 14h00. **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) : _« Lois d'échelle » et dynamiques des activités urbaines dans une ville en croissance._
 - 14h35. Questions.
 
 **14h45. Pause café**
