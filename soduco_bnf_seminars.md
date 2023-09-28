@@ -8,12 +8,12 @@ rank: 7
 
 
 <div id="ed" markdown="0" style="margin:2em; border:1px solid; padding: 1rem;">
-<h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la quatrième séance,<br> Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle - Partager l’expérience et les ressources du programme ANR SoDUCo<br> les lundi 6 novembre et mardi 7 novembre 2023</h3>
-Les trois demi-journées sont ouvertes au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant:<br> <a href="https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl">https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl</a>
+<h3 style="text-align:center; font-weight:bold;">INSCRIPTION à la quatrième séance,<br>Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle<br>Partager l’expérience et les ressources du programme ANR SoDUCo<br> les lundi 6 et mardi 7 novembre 2023</h3>
+Les trois demi-journées sont ouvertes au public. L'inscription est <span style="text-decoration: underline;">obligatoire</span> via le lien suivant: <a href="https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl">https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl</a>
 <br/>
 Lieu: BnF, Paris, Site François Mitterrand, salle 70.
 <br/>
-<a href="#s%C3%A9ance-44-restituer-les-annuaires-commerciaux-et-les-%C3%A9volutions-de-lespace-parisien-du-xixe-si%C3%A8cle---partager-lexp%C3%A9rience-et-les-ressources-du-programme-anr-soduco"> Cf. informations sur le programme de la journée.</a>
+<a href="#s%C3%A9ance-44-restituer-les-annuaires-commerciaux-et-les-%C3%A9volutions-de-lespace-parisien-du-xixe-si%C3%A8cle---partager-lexp%C3%A9rience-et-les-ressources-du-programme-anr-soduco">Consulter le programme de la 4ème séance.</a>
 </div>
 
 
