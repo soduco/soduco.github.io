@@ -13,7 +13,7 @@ Les trois demi-journées sont ouvertes au public. L'inscription est <span style=
 <br/>
 Lieu: BnF, Paris, Site François Mitterrand, salle 70.
 <br/>
-<a href="#s%C3%A9ance-44-restituer-les-annuaires-commerciaux-et-les-%C3%A9volutions-de-lespace-parisien-du-xixe-si%C3%A8cle---partager-lexp%C3%A9rience-et-les-ressources-du-programme-anr-soduco">Consulter le programme de la 4ème séance.</a>
+<a href="#séance-44-restituer-les-annuaires-commerciaux-et-les-évolutions-de-lespace-parisien-du-xixe-siècle---partager-lexpérience-et-les-ressources-du-programme-anr-soduco">Consulter le programme de la 4ème séance.</a>
 </div>
 
 
