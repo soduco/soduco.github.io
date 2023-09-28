@@ -14,7 +14,8 @@ Les trois demi-journées sont ouvertes au public. L'inscription est <span style=
 <br/>
 Lieu: BnF, Paris, Site François Mitterrand, salle 70.
 <br/>
-<a href="#Séance 4/4: Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle - Partager l’expérience et les ressources du programme ANR SoDUCo"> Cf. informations sur le programme de la journée.</a>
+<a href="#s%C3%A9ance-44-restituer-les-annuaires-commerciaux-et-les-%C3%A9volutions-de-lespace-parisien-du-xixe-si%C3%A8cle---partager-lexp%C3%A9rience-et-les-ressources-du-programme-anr-soduco"> Cf. informations sur le programme de la journée.</a>
+[ci-dessous](#seance4)
 </div>
 
 The SODUCO project and the French National Library (Biblothèque nationale de France) are organising a joint seminar, the SoDUCo-BnF seminar, around the historical sources used by the project and the approaches developed to process them. It aims at diffusing and questioning the research done within the project, and at animating dialogues between researchers and professionals in document conservation on common objects and projects ranging from the exploitation of documents (maps, commerce directories) to the production and diffusion of open data (historical geocoding, spatial analysis, open science).
@@ -42,7 +43,8 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
  Voir [ci-dessous](#seance3).
 
 ***
-## Séance 4/4: Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle - Partager l’expérience et les ressources du programme ANR SoDUCo {: #seance4 }
+## Séance 4/4: Res(t)ituer les annuaires commerciaux et les évolutions de l’espace Parisien du XIXe siècle - Partager l’expérience et les ressources du programme ANR SoDUCo
+{: #seance4 }
 
 **Séminaire de clôture du programme ANR SoDUCo**
 
