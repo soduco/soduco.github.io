@@ -54,7 +54,7 @@ Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoir
 
 [https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl)
 
-[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png) / [English programme](https://soduco.github.io/soduco_bnf_final_seminar)
+[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png) / [English programme](https://soduco.github.io/soduco_bnf_final_seminar) / [Annonce sur le carnet de recherche de la BnF](https://bnf.hypotheses.org/36249)
 
 ![Séminaire SoDUCo-Bnf Séance 4](./public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_BR.png)
 
