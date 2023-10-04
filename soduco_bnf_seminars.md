@@ -152,7 +152,7 @@ Ces ateliers-formations, accessibles sur invitation ou inscription, sont organis
 
 Comment accéder aux données et travailler avec les ressources SoDUCo. **Cet atelier est ouvert au public, mais le nombre de places étant très limité, il est nécessaire de s'inscrire pour poser sa candidature. La sélection des candidatures aura lieu durant la semaine du 23/10)**
 
-Lien vers le formulaire de candidature pour participer à l'atelier 1: https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka
+Lien vers le formulaire de candidature pour participer à l'atelier 1: [https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka](https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka)
 
 Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 12 pers.
 
