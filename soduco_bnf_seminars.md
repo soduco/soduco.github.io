@@ -54,8 +54,7 @@ Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoir
 
 [https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl)
 
-[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png)
-
+[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png) / [English programme](https://soduco.github.io/soduco_bnf_final_seminar)
 
 ![Séminaire SoDUCo-Bnf Séance 4](./public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_BR.png)
 
@@ -151,20 +150,22 @@ Ces ateliers-formations, accessibles sur invitation ou inscription, sont organis
 
 **ATELIER N°1 – Exploration des données et cartographie grand public (Accès sur inscription et sélection par l'équipe SoDUCo)**
 
-Comment accéder aux données et travailler avec les ressources SoDUCo.
+Comment accéder aux données et travailler avec les ressources SoDUCo. **Cet atelier est ouvert au public, mais le nombre de places étant très limité, il est nécessaire de s'inscrire pour poser sa candidature. La sélection des candidatures aura lieu durant la semaine du 23/10)**
 
-Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 15 pers.
-[Cf. lien vers le formulaire de demande d’inscription (à venir)]
+Lien vers le formulaire de candidature pour participer à l'atelier 1: https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka
+
+Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 12 pers.
+
 
 **ATELIER N°2 – Utiliser la chaîne SoDUCo d’extraction et d’enrichissement de documents textuels numériques (fermé au public - accès sur invitation)**
 
-Org. : E. Carlinet & J. Chazalon & B. [& Nathalie Abadie] Salle 8 pers. (1)
+Org. : E. Carlinet & J. Chazalon & B. [& Nathalie Abadie] Salle 6 pers. (1)
 
 **ATELIER N°3 – Graphes de Connaissance Géohistoriques Professionnels (fermé au public - accès sur invitation)**
 
 Construire des exploitations spécialisées du corpus des Annuaires Parisiens (alignement de données, travail sur des sous-populations, … )
 
-Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 8 pers. (2)
+Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 6 pers. (2)
 
 16h30. Pause
 
