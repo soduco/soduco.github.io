@@ -101,18 +101,18 @@ These workshops are open by invitation or registration, and are organized in par
 
 How to access data and work with SoDUCo resources.
 
-Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 15 pers.
+Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 12 pers.
 [Cf. link to registration form (coming soon)]
 
 **ATELIER N°2 – Using the SoDUCo chain for extracting and enriching digital text documents (closed to the public - access by invitation only)**
 
-Org. : E. Carlinet & J. Chazalon & B. [& Nathalie Abadie] Salle 8 pers. (1)
+Org. : E. Carlinet & J. Chazalon & B. [& Nathalie Abadie] Salle 6 pers. (1)
 
 **ATELIER N°3 – Professional Geohistorical Knowledge Graphs (closed to the public - access by invitation only)**
 
 Build specialized uses of the Parisian directories corpus (data alignment, work on sub-populations, etc.).
 
-Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 8 pers. (2)
+Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 6 pers. (2)
 
 16h30. Break
 
