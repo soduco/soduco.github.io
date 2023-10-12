@@ -1,0 +1,558 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://soduco.geohistoricaldata.org/iiif/ark:/12148/bpt6k62929887/p465-annotation.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2000",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Duplessier, quai de la Tournelle, n.\u00b0 119,\u2014du Jardin-des-\nPlantes.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M397.4684750942072,361.3720278542423v97.48257371800901h1377.6560491008688v-97.48257371800901z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M397.4684750942072,361.3720278542423v51.540903102716754h241.6940437019068v-51.540903102716754z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M687.5013275364954,361.3720278542423v51.540903102716754h483.3880874038136v-51.540903102716754z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1315.905841161453,361.3720278542423v51.540903102716754h72.50821311057211v-51.540903102716754z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1436.7528630124066,361.3720278542423v51.540903102716754h217.5246393317159v-51.540903102716754z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1678.4469067143132,361.3720278542423v51.540903102716754h72.50821311057211v-51.540903102716754z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M440.81964879704105,410.4931098892844v48.36149168296686h181.10021944017024v-48.36149168296686z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2002",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Duprez, rue Froidmanteau, n.\u00b0 12,\u2014des Gardes-Fran\u00e7aises.\nDuval, rue des Boucheries, n. 79,\u2014du Luxembourg.\nEdon, rue des Foss\u00e9s-Germain, n. 288, \u2014de l'Unit\u00e9.\n\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M398.9221771820986,455.5752931854429v148.31809284277927h1359.377440353991v-148.31809284277927z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M398.9221771820986,455.5752931854429v54.42119869254748h145.64758289507046v-54.42119869254748z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M593.1189543755258,455.5752931854429v54.42119869254748h388.3935543868546v-54.42119869254748z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1127.160091657451,455.5752931854429v54.42119869254748h48.549194298356724v-54.42119869254748z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1224.2584802541646,455.5752931854429v54.42119869254748h509.76654013274674v-54.42119869254748z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M399.884442103586,501.1221655670708v54.17064093414848h128.00008192134908v-54.17064093414848z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M579.0845567934748,501.1221655670708v54.17064093414848h460.8002949168568v-54.17064093414848z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1167.8849336316805,501.1221655670708v54.17064093414848h51.200032768539586v-54.17064093414848z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1270.28499916876,501.1221655670708v54.17064093414848h332.80021299550765v-54.17064093414848z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M400.6951192636029,549.7576432538456v53.96760139239609h97.33360498033521v-53.96760139239609z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M546.6955267341057,549.7576432538456v53.96760139239609h535.3348273918436v-53.96760139239609z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1203.6973603513684,549.7576432538456v53.96760139239609h73.00020373525138v-53.96760139239609z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1349.6977678218711,549.7576432538456v53.96760139239609h243.33401245083792v-53.96760139239609z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2003",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fenet, rue Honor\u00e9, n.\u00b0 1469,\u2014de la Butte-des-Moulins.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M401.4542325416249,595.2996157132662v53.70859875199358h1293.1737536259277v-53.70859875199358z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M401.4542325416249,595.2996157132662v53.70859875199358h121.99752392697432v-53.70859875199358z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M572.250766039389,595.2996157132662v53.70859875199358h243.9950478539486v-53.70859875199358z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M962.6428426057068,595.2996157132662v53.70859875199358h97.59801914157936v-53.70859875199358z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1109.039871318076,595.2996157132662v53.70859875199358h561.1886100640819v-53.70859875199358z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2004",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Fessard, rue de Bourgogne, n.\u00b0 532, \u2014de l'Ouest.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M402.26647411367486,644.0289481800689v53.715373564048605h1165.4130977206462v-53.715373564048605z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M402.26647411367486,644.0289481800689v53.715373564048605h169.9560767509276v-53.715373564048605z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M620.781429936296,644.0289481800689v53.715373564048605h388.4710325735487v-53.715373564048605z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1154.9290997249257,644.0289481800689v53.715373564048605h72.83831860754037v-53.715373564048605z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1300.6057369400064,644.0289481800689v53.715373564048605h242.7943953584678v-53.715373564048605z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2005",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Filard, campague, n. 1627, \u2014du Luxembourg.\nFourbert, rue des Trois-Couronnes, n.\u00b0 9, \u2014du Temple.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M403.0710777203783,692.3000512659197v99.61812839846641h1263.183580629378v-99.61812839846641z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M403.0710777203783,692.3000512659197v50.898721819093225h152.62498739231754v-50.898721819093225z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M606.571060910135,692.3000512659197v50.898721819093225h203.4999831897567v-50.898721819093225z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M937.2585335934897,692.3000512659197v50.898721819093225h101.74999159487834v-50.898721819093225z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1115.321018884527,692.3000512659197v50.898721819093225h330.6874726833547v-50.898721819093225z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M403.83534854211644,738.151443571734v53.76673609265208h190.55385808417205v-53.76673609265208z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M642.0276711473315,738.151443571734v53.76673609265208h547.8423419919947v-53.76673609265208z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1332.785406702455,738.151443571734v53.76673609265208h23.81923226052163v-53.76673609265208z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1428.0623357445413,738.151443571734v53.76673609265208h214.37309034469354v-53.76673609265208z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2006",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Gagn\u00e9, rue Martin, n.\u00b0 346, \u2014des Amis-de-la-Patrie.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M404.6418865888124,786.5386007636257v50.718574839936196h1250.6874278345722v-50.718574839936196z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M404.6418865888124,786.5386007636257v50.718574839936196h122.61641449358551v-50.718574839936196z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M576.3048668798322,786.5386007636257v50.718574839936196h245.232828987171v-50.718574839936196z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M968.6773932593057,786.5386007636257v50.718574839936196h73.56984869615133v-50.718574839936196z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1115.8170906516084,786.5386007636257v50.718574839936196h514.9889408730592v-50.718574839936196z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2007",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Germain, rue de Marivaux, n.\u00b0 514, \u2014de Pelletier.\nGhyselen, rue de Rohan, n.\u00b0 451, \u2014des Thuileries.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M405.3930601540602,831.6042409140683v99.0370070779112h1165.8798521376311v-99.0370070779112z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M405.3930601540602,831.6042409140683v50.833179451304886h162.9745091662373v-50.833179451304886z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M614.9317147963653,831.6042409140683v50.833179451304886h349.23109107050846v-50.833179451304886z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1103.8552422950772,831.6042409140683v50.833179451304886h69.84621821410167v-50.833179451304886z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1243.5476787232806,831.6042409140683v50.833179451304886h279.3848728564067v-50.833179451304886z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M406.2017364318747,880.1196783844536v50.521569607525976h142.6617766358959v-50.521569607525976z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M548.8635130677706,880.1196783844536v50.521569607525976h47.553925545298625v-50.521569607525976z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M643.9713641583678,880.1196783844536v50.521569607525976h285.3235532717918v-50.521569607525976z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1071.9566940660557,880.1196783844536v50.521569607525976h47.553925545298625v-50.521569607525976z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1214.6184707019515,880.1196783844536v50.521569607525976h332.8774788170905v-50.521569607525976z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2008",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Goison, rue de Valois, n.\u00b0 401,\u2014des Thuileries.\nHaneaux, rue de l'Universit\u00e9, n.\u00b0 392,\u2014de la Fontaine-de-\nGrenelle.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M406.9587353769643,925.5348043046758v145.3141726883207h1369.0663133074368v-145.3141726883207z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M406.9587353769643,925.5348043046758v50.829303628594516h138.28295862845832v-50.829303628594516z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M591.336013548242,925.5348043046758v50.829303628594516h299.61307702832636v-50.829303628594516z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1029.2320492050267,925.5348043046758v50.829303628594516h46.09431954281945v-50.829303628594516z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1144.4678480620753,925.5348043046758v50.829303628594516h322.66023679973614v-50.829303628594516z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M407.09720143962187,974.521674161832v53.215549988154066h168.1139461528676v-53.215549988154066z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M623.243703636166,974.521674161832v53.215549988154066h456.3092824149264v-53.215549988154066z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1223.6506541821218,974.521674161832v53.215549988154066h48.032556043676436v-53.215549988154066z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1343.732044291313,974.521674161832v53.215549988154066h336.2278923057353v-53.215549988154066z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M719.3088157235188,974.521674161832v53.215549988154066h48.03255604367649v-53.215549988154066z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M447.94615096471426,1019.9294895871857v50.919487405810855h208.2674865658439v-50.919487405810855z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2009",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Haudebourg, rue des Champs-Elis\u00e9es, \u2014des Champs-Elis\u00e9es.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M408.59159572661486,1064.8748531905858v57.12496316221336h1369.0046625804193v-57.12496316221336z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M408.59159572661486,1064.8748531905858v57.12496316221336h244.46511831793202v-57.12496316221336z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M701.9497377081333,1064.8748531905858v57.12496316221336h537.8232602994503v-57.12496316221336z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M799.7357850353061,1064.8748531905858v57.12496316221336h440.03721297227753v-57.12496316221336z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2010",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Inner, rue de Rohan, n.\u00b0 467, \u2014des Thuileries.\nKolliker, palais National, \u2014du Mus\u00e9um.\nLabbaye, cour des Religieux, n.\u00b0 906 ,\u2014de l'Unit\u00e9.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M409.22846539216414,1113.295348759939v145.11615911179047h1176.6033681178274v-145.11615911179047z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M409.22846539216414,1113.295348759939v51.22110834065279h119.4828433377574v-51.22110834065279z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M576.5044460650245,1113.295348759939v51.22110834065279h286.7588240106178v-51.22110834065279z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1006.6426820809512,1113.295348759939v51.22110834065279h71.68970600265448v-51.22110834065279z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1150.02209408626,1113.295348759939v51.22110834065279h334.55196134572077v-51.22110834065279z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M410.9070035607886,1162.405803793281v50.35185268785813h194.21486414052043v-50.35185268785813z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M653.6755837364392,1162.405803793281v50.35185268785813h364.15287026347585v-50.35185268785813z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1090.6590280526102,1162.405803793281v50.35185268785813h218.4917221580855v-50.35185268785813z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M410.87863615816804,1207.804544121556v50.60696375017346h164.4934476292553v-50.60696375017346z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M622.3702116814962,1207.804544121556v50.60696375017346h422.9831510466564v-50.60696375017346z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1186.3477464103714,1207.804544121556v50.60696375017346h70.49719184110927v-50.60696375017346z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1327.3421300925902,1207.804544121556v50.60696375017346h234.9906394703645v-50.60696375017346z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2011",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Labb\u00e9, rue du Four, n. 273, \u2014du Luxembourg.\nLacaille (rotisseur), rue de Seine, n.\u00b0 1382 , \u2014de l'Unit\u00e9.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M412.4735427950388,1256.388202373798v101.88516957661113h1265.9782584119368v-101.88516957661113z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M412.4735427950388,1256.388202373798v50.29759116991045h126.30691644223239v-50.29759116991045z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M589.3032258141642,1256.388202373798v50.29759116991045h277.8752161729112v-50.29759116991045z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M993.4853584293078,1256.388202373798v50.29759116991045h101.04553315378598v-50.29759116991045z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1145.0536581599868,1256.388202373798v50.29759116991045h328.3979827498042v-50.29759116991045z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M413.228810566027,1301.6994688496789v56.57390310073038h407.4446919013224v-56.57390310073038z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M885.0068748728214,1301.6994688496789v56.57390310073038h257.33348962188785v-56.57390310073038z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1271.007109305653,1301.6994688496789v56.57390310073038h85.77782987396267v-56.57390310073038z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1442.5627690535784,1301.6994688496789v56.57390310073038h214.44457468490668v-56.57390310073038z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2012",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ladaute, boulevard du Temple, n.\u00b0 55, \u2014du Temple.\nLagesse, rue du faubourg Denis, n.\u00b0 36, \u2014Poissonni\u00e8re.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M413.9825677615554,1346.9201103977905v102.66216174244164h1256.8957047731842v-102.66216174244164z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M413.9825677615554,1346.9201103977905v60.041598528799796h169.60448582498v-60.041598528799796z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M632.0454781079583,1346.9201103977905v60.041598528799796h460.35503295351714v-60.041598528799796z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1237.775784625744,1346.9201103977905v60.041598528799796h48.4584245214229v-60.041598528799796z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M874.3376007150725,1346.9201103977905v60.041598528799796h218.06291034640287v-60.041598528799796z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M414.7968687794948,1395.7729965300248v53.80927561020735h162.82536715345765v-53.80927561020735z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M624.1437694053689,1395.7729965300248v53.80927561020735h488.476101460373v-53.80927561020735z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1252.1844712829914,1395.7729965300248v53.80927561020735h46.521533472416536v-53.80927561020735z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1368.4883049640325,1395.7729965300248v53.80927561020735h279.1292008344989v-53.80927561020735z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2013",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Larsonnier (logeur en garni), rue des Deux-Ecus, n.\u00b0 467,\u2014du\nContrat-Social.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M415.59920914918274,1443.9083197779908v96.93262441059574h1377.3569031164125v-96.93262441059574z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M415.59920914918274,1443.9083197779908v53.91263088248911h619.8106064023856v-53.91263088248911z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1104.277660707389,1443.9083197779908v53.91263088248911h390.2511225496503v-53.91263088248911z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1632.2644735686804,1443.9083197779908v53.91263088248911h68.86784515582076v-53.91263088248911z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M643.9967734593947,1488.8369826819062v52.0039615066803h143.44988592678305v-52.0039615066803z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2014",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Latour, rue des Blancs - Manteaux, n.\u00b0 33, \u2014de l'Homme-\nArm\u00e9.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M416.6208059864563,1536.67396211342v98.07205326599455h1377.9424008498381v-98.07205326599455z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M416.6208059864563,1536.67396211342v52.73299430531188h150.3209891836187v-52.73299430531188z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M617.0487915646145,1536.67396211342v52.73299430531188h626.3374549317446v-52.73299430531188z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1393.7072356799779,1536.67396211342v52.73299430531188h50.10699639453958v-52.73299430531188z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1518.9747266663267,1536.67396211342v52.73299430531188h250.53498197269778v-52.73299430531188z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M460.41766362733205,1586.2494528505222v48.496562528892355h136.47341555025446v-48.496562528892355z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2015",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lebaigne, rue Roch, n\u00b0. 113,\u2014 de la Butte-des-Moulins.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M418.7198542580569,1631.127194376387v57.68837543916402h1290.2265345580713v-57.68837543916402z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M418.7198542580569,1631.127194376387v57.68837543916402h191.1446717863809v-57.68837543916402z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M657.650693991033,1631.127194376387v57.68837543916402h191.1446717863809v-57.68837543916402z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M992.1538696171997,1631.127194376387v57.68837543916402h71.67925191989286v-57.68837543916402z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1135.5123734569854,1631.127194376387v57.68837543916402h549.5409313858453v-57.68837543916402z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2016",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Leb\u0153\u00f9f, all\u00e9e de Neuilly, n.\u00b0 24, \u2014des Champs-Elis\u00e9es.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M419.5334094424939,1679.935335238304v51.3622765174282h1274.231625876793v-51.3622765174282z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M419.5334094424939,1679.935335238304v51.3622765174282h141.58129176408812v-51.3622765174282z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M608.3084651279447,1679.935335238304v51.3622765174282h377.5501113709017v-51.3622765174282z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1127.4398682629344,1679.935335238304v51.3622765174282h47.19376392136269v-51.3622765174282z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1245.4242780663412,1679.935335238304v51.3622765174282h424.7438752922644v-51.3622765174282z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2017",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lebrun, rue des Quatre-Fils, n.\u00b0 5,\u2014de l'Homme-Arm\u00e9.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M420.350821951749,1728.9748910757212v50.721347786265596h1307.8264064025375v-50.721347786265596z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M420.350821951749,1728.9748910757212v50.721347786265596h150.90304689260049v-50.721347786265596z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M621.5548844752163,1728.9748910757212v50.721347786265596h477.8596484932349v-50.721347786265596z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1250.3175798610516,1728.9748910757212v50.721347786265596h25.150507815433457v-50.721347786265596z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1325.769103307352,1728.9748910757212v50.721347786265596h377.2576172315012v-50.721347786265596z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2018",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ledoyen, cour de l'Orangerie, n.\u00b0 7,\u2014des Thuileries.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M421.06746290060005,1771.968793699727v56.29988558616901h1216.981865953344v-56.29988558616901z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M421.06746290060005,1771.968793699727v56.29988558616901h163.82448195525782v-56.29988558616901z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M631.6989397002172,1771.968793699727v56.29988558616901h444.6664510214141v-56.29988558616901z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1216.7863752547096,1771.968793699727v56.29988558616901h23.403497422179726v-56.29988558616901z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1286.9968675212485,1771.968793699727v56.29988558616901h327.6489639105156v-56.29988558616901z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2019",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Ledoyen, rue des Champs - Elis\u00e9es, n.\u00b0 31, \u2014des Champs-\nElis\u00e9es.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M421.8733433532502,1820.316499427931v96.33316383136116h1377.5984985306695v-96.33316383136116z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M421.8733433532502,1820.316499427931v53.5076546753653h175.33071799481246v-53.5076546753653z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M647.2985522037234,1820.316499427931v53.5076546753653h601.1338902679286v-53.5076546753653z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1398.7159150386342,1820.316499427931v53.5076546753653h50.09449085566064v-53.5076546753653z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2020",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Legacques, cour du Man\u00e8ge ,\u2014des Thuileries.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M423.4751542093464,1916.414971165403v51.37979649651015h1101.416694869179v-51.37979649651015z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M423.4751542093464,1916.414971165403v51.37979649651015h230.5290756702933v-51.37979649651015z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M705.2329133619271,1916.414971165403v51.37979649651015h358.60078437601186v-51.37979649651015z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1140.67672296137,1916.414971165403v51.37979649651015h358.6007843760117v-51.37979649651015z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2021",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lamaire, rue Anne, n.\u00b0 11,\u2014du Pont-Neuf.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M424.2419319770754,1962.4167642988396v50.74050632454282h1046.8328205288776v-50.74050632454282z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M424.2419319770754,1962.4167642988396v50.74050632454282h183.19574359255358v-50.74050632454282z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M659.7793165960729,1962.4167642988396v50.74050632454282h209.36656410577552v-50.74050632454282z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1026.17080378118,1962.4167642988396v50.74050632454282h52.341641026443995v-50.74050632454282z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1130.854085834068,1962.4167642988396v50.74050632454282h314.0498461586632v-50.74050632454282z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2022",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lem\u00e2le, rue du faubourg Honor\u00e9, n.\u00b0 447, \u2014 du Roule.\nLeudot, rue Bourtibourg, n.\u00b0 6, \u2014des Droits-de-l'Homme.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M425.00220943816646,2008.028580343935v99.14707414074087h1344.7605797411643v-99.14707414074087z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M425.00220943816646,2008.028580343935v56.54314860507634h143.27391792942436v-56.54314860507634z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M616.0341000107323,2008.028580343935v56.54314860507634h525.337699074556v-56.54314860507634z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1284.6457170147125,2008.028580343935v56.54314860507634h71.63695896471222v-56.54314860507634z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1451.7986212657074,2008.028580343935v56.54314860507634h191.03189057256577v-56.54314860507634z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M425.64885357636985,2053.7346765642337v53.44097792044204h146.63061115668663v-53.44097792044204z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M621.1563351186187,2053.7346765642337v53.44097792044204h366.5765278917165v-53.44097792044204z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1134.3634741670219,2053.7346765642337v53.44097792044204h24.43843519278107v-53.44097792044204z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1232.1172149381462,2053.7346765642337v53.44097792044204h513.2071390484033v-53.44097792044204z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2023",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Levastre, rue du Bacq, n.\u00b0 638, \u2014de l'Ouest.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M426.4990290123667,2102.426353680312v52.93831837671041h1034.8186950440913v-52.93831837671041z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M426.4990290123667,2102.426353680312v52.93831837671041h188.14885364438024v-52.93831837671041z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M661.685096067842,2102.426353680312v52.93831837671041h258.7046737610229v-52.93831837671041z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1061.5014100621502,2102.426353680312v52.93831837671041h70.55582011664251v-52.93831837671041z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1202.6130502954352,2102.426353680312v52.93831837671041h235.1860670554753v-52.93831837671041z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2024",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Lexcellent, maison Egalit\u00e9, n.\u00b0 26, \u2014de la Butte-des-Moulins.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M427.33711231382944,2150.4254244290864v50.72714576495491h1376.7561332207313v-50.72714576495491z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M427.33711231382944,2150.4254244290864v50.72714576495491h225.69772675749692v-50.72714576495491z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M698.1743844228258,2150.4254244290864v50.72714576495491h315.9768174604957v-50.72714576495491z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1149.5698379378196,2150.4254244290864v50.72714576495491h45.13954535149935v-50.72714576495491z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1262.418701316568,2150.4254244290864v50.72714576495491h519.104771542243v-50.72714576495491z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2025",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Li\u00e9det, rue de la Vieille-Draperie, n.\u00b0 15, \u2014de la Cit\u00e9.\nMairez, rue du Paon, n.\u00b0 3, \u2014du Th\u00e9\u00e2tre-Fran\u00e7ais.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M428.1295979612574,2195.8132620365664v102.30130059056046h1246.937710228676v-102.30130059056046z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M428.1295979612574,2195.8132620365664v50.75701795950454h133.6004689530724v-50.75701795950454z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M606.263556565354,2195.8132620365664v50.75701795950454h578.9353654633137v-50.75701795950454z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1318.7993909817403,2195.8132620365664v50.75701795950454h44.53348965102407v-50.75701795950454z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1430.1331151093007,2195.8132620365664v50.75701795950454h222.66744825512058v-50.75701795950454z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M428.9207453172255,2241.1248436199844v56.98971900714241h146.01213598080324v-56.98971900714241z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M623.6035932916299,2241.1248436199844v56.98971900714241h267.6889159648059v-56.98971900714241z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1037.3046452372391,2241.1248436199844v56.98971900714241h24.33535599680056v-56.98971900714241z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1134.6460692244414,2241.1248436199844v56.98971900714241h462.37176393921015v-56.98971900714241z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2026",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Maneille, maison Egalit\u00e9, n.\u00b0 98, \u2014de la Butte-des-Moulins.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M429.7694221944484,2289.730307313818v53.89889219385623h1376.948752473022v-53.89889219385623z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M429.7694221944484,2289.730307313818v53.89889219385623h186.70491558956232v-53.89889219385623z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M663.1505666814013,2289.730307313818v53.89889219385623h326.7336022817341v-53.89889219385623z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1129.912855655307,2289.730307313818v53.89889219385623h46.676228897390615v-53.89889219385623z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1246.6034278987836,2289.730307313818v53.89889219385623h536.7766323199917v-53.89889219385623z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2027",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marchant, rue de Vaugirard, n.\u00b0 1221, \u2014du Luxembourg.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M430.61804928374784,2338.3335022333813v51.029144828841254h1292.307034252076v-51.029144828841254z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M430.61804928374784,2338.3335022333813v51.029144828841254h195.0652127172945v-51.029144828841254z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M674.449565180366,2338.3335022333813v51.029144828841254h390.1304254345889v-51.029144828841254z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1210.8789001529258,2338.3335022333813v51.029144828841254h97.53260635864717v-51.029144828841254z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1381.5609612805583,2338.3335022333813v51.029144828841254h316.98097066560365v-51.029144828841254z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2028",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marechalle, rue Froidmanteau, n.\u00b0 174, \u2014des Thuileries.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M431.4080781037827,2383.5805497931306v54.25143450674932h1295.3567482512376v-54.25143450674932z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M431.4080781037827,2383.5805497931306v54.25143450674932h235.5194087729523v-54.25143450674932z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M714.0313686313254,2383.5805497931306v54.25143450674932h376.8310540367236v-54.25143450674932z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1232.1740679318204,2383.5805497931306v54.25143450674932h47.103881754590475v-54.25143450674932z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1373.4857131955919,2383.5805497931306v54.25143450674932h329.7271722821332v-54.25143450674932z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    },
+    {
+      "id": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465-tag-2029",
+      "type": "Annotation",
+      "motivation": "tagging",
+      "body": {
+        "type": "TextualBody",
+        "value": "Marnet, rue des Boucheries, n.\u00b0 238, \u2014de l'Uuit\u00e9.\nMarseille, rue des Bons-Enfans, n.\" 1334, \u2014de la Butte-des-\nMoulins.\n2e\n6\nM\u00e9ot, rue des Bons-Enfans, n.\u00b0 1335, \u2014de la Butte-des-\nMoulins.\n",
+        "format": "text/plain",
+        "language": "fr"
+      },
+      "target": {
+        "type": "SpecificResource",
+        "source": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k62929887/p465",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg xmlns=\"http://www.w3.org/2000/svg\"><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M397.4684750942072,361.3720278542423v2218.289859049419h1412.7287298945835v-2218.289859049419z\" fill=\"none\" stroke=\"#ff0000\" stroke-opacity=\"0.2\" stroke-width=\"4\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M432.2530331790913,2431.9735049637106v54.555954430936254h138.66397274062004v-54.555954430936254z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M617.1383301665846,2431.9735049637106v54.555954430936254h415.99191822186015v-54.555954430936254z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1171.7942211290647,2431.9735049637106v54.555954430936254h69.33198637031012v-54.555954430936254z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1310.4581938696847,2431.9735049637106v54.555954430936254h231.1066212343668v-54.555954430936254z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M433.0469611509618,2477.4440267890163v54.732918823965065h210.07376600916035v-54.732918823965065z\" fill=\"none\" stroke=\"#7aecec\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M689.8037862732689,2477.4440267890163v54.732918823965065h443.489061574894v-54.732918823965065z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1273.3420251876032,2477.4440267890163v54.732918823965065h93.36611822629334v-54.732918823965065z\" fill=\"none\" stroke=\"#feca74\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1436.7327320836166,2477.4440267890163v54.732918823965065h256.7568251223072v-54.732918823965065z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M783.1699044995623,2477.4440267890163v54.732918823965065h70.02458866972017v-54.732918823965065z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M469.9975944481337,2524.767380934495v49.25080393051985h191.72464505791456v-49.25080393051985z\" fill=\"none\" stroke=\"#bfeeb7\" stroke-opacity=\"1.0\" stroke-width=\"2\"/></svg>"
+        }
+      }
+    }
+  ]
+}

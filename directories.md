@@ -5,6 +5,9 @@ layout: mirador
   <script type="text/javascript">
     var mirador = Mirador.viewer({
       id: "viewer",
+      catalog: [
+         { manifestId: "/iiif/ark:/12148/bpt6k62929887/manifest.json"},
+       ],
       window: {
         sideBarPanel: "annotations",
         sideBarOpen: true,
@@ -14,7 +17,7 @@ layout: mirador
         },
       },
       windows: [{
-        loadedManifest: "/assets/Favre_et_Duchesne_1798.json",
+        loadedManifest: "/iiif/ark:/12148/bpt6k62929887/manifest.json",
         view: 'single',
         thumbnailNavigationPosition: 'far-bottom'
       }]
