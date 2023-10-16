@@ -54,7 +54,7 @@ Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoir
 
 [https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl)
 
-[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf) / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png) / [English programme](https://soduco.github.io/soduco_bnf_final_seminar) / [Annonce sur le carnet de recherche de la BnF](https://bnf.hypotheses.org/36249)
+**[Affiche et programme de la 4ème séance SoDUCo-BnF](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023.pdf)** / [Affiche en haute résolution](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_HR.png) / [English programme](https://soduco.github.io/soduco_bnf_final_seminar) / [Annonce sur le carnet de recherche de la BnF](https://bnf.hypotheses.org/36249)
 
 ![Séminaire SoDUCo-Bnf Séance 4](./public/images/Atelier_Soduco_Bnf_Programme_seance4_6-7Nov2023_BR.png)
 
@@ -70,9 +70,12 @@ Peut-on mesurer les effets d’une telle démarche sur nos objets et problémati
 ### Programme prévisionnel de la Matinée du Lundi 6 Novembre (9h30-12h00) 
 
 09h00. Accueil du public en salle 70 
+
 (**Attention !!!** : La BnF est fermée au public le lundi matin. Un accès particulier à la salle 70 est organisé par les services de la BnF via l'**ouverture de l'entrée Hall Est entre 8h30 et 10h00** sous réserve d'être [inscrit sur les liste des participants à la demi-journée](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl)).
 
-09h30. Ouverture de la journée : **SoDUCo team**, _Le programme de recherche SoDUCo. Bilan_
+09h30. **M. Carlin** (BnF DataLab), _Ouverture de la journée_
+
+09h35. **SoDUCo team**, _Le programme de recherche SoDUCo. Bilan_
 
 **10h00 - 12h15 Session Métadonnées, catalogage et diffusion de données**
 
@@ -80,22 +83,22 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 - 10h00. **SoDUCo team**, _Catalogage et diffusion des données dans le programme SoDUCo_. 
 - 10h30. Questions.
-- 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), Présentation du consortium [Allmaps](https://allmaps.org/).
-- 11h05. **M. Denel et al.** (Wikimedia France), _Science participative, science ouverte. L'expérience de Wikimedia France_**
-- 11h25. **Adeline Joffres** (Huma-num), Sous réserve.
-- 11h45. Questions.
-- 12h00. Discussion - Table ronde.
+- 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), _Présentation du consortium [Allmaps](https://allmaps.org/)_
+- 11h05. **M. Denel et al.** ([Wikimedia France](https://www.wikimedia.fr/)), _Science participative, science ouverte. L'expérience de Wikimedia France_
+- 11h25. **A. Joffres** ([Huma-num](https://www.huma-num.fr/)), _Données, outils et communautés pour la recherche en SHS_
+- 11h45. Questions
+- 12h00. Discussion - Table ronde
 
-12h00. Pause-déjeuner.
+12h00. Pause-déjeuner
 
 ### Programme provisionnel de l'après-Midi du Lundi 6 Novembre (13h30-17h30):
 
-13h45. Accueil du public en salle 70.
+13h45. Accueil du public en salle 70
 
 **14h00 - 14h45 - Keynote**
 
-- 14h00. **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) : _« Lois d'échelle » et dynamiques des activités urbaines dans une ville en croissance._
-- 14h35. Questions.
+- 14h00. **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) : _« Lois d'échelle » et dynamiques des activités urbaines dans une ville en croissance_
+- 14h35. Questions
 
 **14h45. Pause café**
 
@@ -103,16 +106,16 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 Cette demi-journée revient sur les questions d’analyse automatique de documents anciens semi-structurés, de la détection de leur mise en page à la structuration spatio-temporelle des informations qu’ils contiennent. Nous y présenterons les travaux réalisés dans le projet SoDUCo sur les annuaires du commerce parisien du XIXe siècle pour permettre le suivi spatio-temporel de chaque commerce recensé dans ces annuaires. Sur la base de ces expériences, il nous semble utile d’élargir les discussions sur deux aspects ouvrant encore de nombreuses perspectives de recherche : l’analyse automatique de documents anciens et la représentation de connaissances géohistoriques.
 
-- 15h00. **SoDUCo team**, _Extraction et structuration de données dans le programme SoDUCo_.
+- 15h00. **SoDUCo team**, _Extraction et structuration de données dans le programme SoDUCo_
 - 15h30. **C. Duvette et P. Kervegan** (Département des études et de la recherche - Institut national d'histoire de l'art, INHA), _Chapeliers, architectes, nouveautés : géo-analyse des activités visibles et invisibles d'un quartier_
-- 15h50. Questions.
-- 16h05. Pause - café.
-- 16h20. **N. Hernandez, W. Charles** (_Institut de Recherche en Informatique de Toulouse_ - IRIT, Université de Toulouse Jean Jaurès) et **S. Poublanc** (_France, Amérique, Espagne, Sociétés, Pouvoirs, Acteurs_- Framespa, Université de Toulouse Jean Jaurès, Framespa), _Représenter les territoires de la France moderne dans des graphes de connaissances : le projet OBARDI_.
-- 16h40. **C. Kermorvant** ([TEKLIA](https://teklia.com/fr/)), _Nouvelles approches pour l’extraction d’informations dans des documents numérisés_.
-- 17h00. Questions.
-- 17h15. Discussion finale.
+- 15h50. Questions
+- 16h05. Pause - café
+- 16h20. **W. Charles** (_Institut de Recherche en Informatique de Toulouse_ - IRIT, Université de Toulouse Jean Jaurès) et **S. Poublanc** (_France, Amérique, Espagne, Sociétés, Pouvoirs, Acteurs_- Framespa, Université de Toulouse Jean Jaurès, Framespa), _Représenter les territoires de la France moderne dans des graphes de connaissances : le projet OBARDI_
+- 16h40. **C. Kermorvant** ([TEKLIA](https://teklia.com/fr/)), _Nouvelles approches pour l’extraction d’informations dans des documents numérisés_
+- 17h00. Questions
+- 17h15. Discussion finale
 
-**17h30. Clôture de la journée.**
+**17h30. Clôture de la journée**
 
 ### Programme prévisionnel de la Matinée du Mardi 7 Novembre (9h30-12h00) 
 
@@ -123,14 +126,14 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 La matinée «Données historiques numériques» vise à confronter l’expérience de chercheurs qui construisent et analysent régulièrement des corpus de données numériques élaborés à partir de documents d’archives (texte et cartes). Dans un moment où l’on assiste à l’explosion de la production de données numériques ouvertes issues de sources anciennes, les questions classiques des conditions d’appropriation et de réutilisation de ces nouvelles « sources » par des tiers se posent de manière accrue.
 Cette matinée invite plus particulièrement à réfléchir à ces questions dans le cas où les corpus de gros volumes de données numériques sont produits à partir de processus entièrement automatisés d’extraction de documents et d’enrichissement. Partant des travaux réalisés dans le cadre du programme SoDUCo, notamment du corpus des _Annuaires historiques parisiens_ et de la _géolocalisation historique_ des entrées d’annuaires sur les plans anciens, nous souhaitons aborder les questions suivantes au cours de la matinée: Comment et à quelles conditions peut-on s’emparer efficacement de telles « sources numériques » ? Comment les comprendre, évaluer leur « qualité » et leur rapport avec les sources initiales ? Comment comparer ou rendre cumulable les travaux très divers qui peuvent être issus de l’exploitation de ces jeux de données ? Enfin, nous souhaitons discuter collectivement les perspectives d’analyse et d’exploitation du corpus des _Annuaires historiques parisiens_.
 
-- 09h30. **SoDUCo team**, _Les données géohistoriques produites au cours du programme SoDUCo. Evaluation d’une « source numérique »_. 
-- 10h00. **L. Kesztenbaum, G. Postel-Vinay (Institut national d'études démographiques, INED)**, _Construction de bases de données historiques: retours d'expérience_.
-- 10h30. Questions.
-- 10h45. Pause - café.
-- 11h00. **C. Lemercier (CNRS - Centre de sociologie des organisations - Sciences Po-Paris)**, _Histoire quantitative, données ouvertes en SHS_.
+- 09h30. **SoDUCo team**, _Les données géohistoriques produites au cours du programme SoDUCo. Evaluation d’une « source numérique »_ 
+- 10h00. **L. Kesztenbaum, G. Postel-Vinay (Institut national d'études démographiques, INED)**, _Construction de bases de données historiques: retours d'expérience_
+- 10h30. Questions
+- 10h45. Pause - café
+- 11h00. **C. Lemercier (CNRS - Centre de sociologie des organisations - Sciences Po-Paris)**, _Histoire quantitative, données ouvertes en SHS_
 - 11h30. Questions et discussion finale
 
-**12h00. Pause-déjeuner.**
+**12h00. Pause-déjeuner**
 
 ## Séance 4/4 suite : LES ATELIERS-FORMATION SODUCO – BNF DATALAB (accès limité)
 {: #ateliers_seance4 }
@@ -144,13 +147,13 @@ Ces ateliers-formations, accessibles sur invitation ou inscription, sont organis
 
 **BnF-DataLab, Bibliothèque nationale de France, Site François Mitterrand, Paris.**
 
-13h15. Accueil des stagiaires à partir de 13h15 dans le hall est de la BnF.
+13h15. Accueil des stagiaires à partir de 13h15 dans le Hall-Est de la BnF.
 
 **13h30**. Début des ateliers au DataLab : 
 
 **ATELIER N°1 – Exploration des données et cartographie grand public (Accès sur inscription et sélection par l'équipe SoDUCo)**
 
-Comment accéder aux données et travailler avec les ressources SoDUCo. **Cet atelier est ouvert au public, mais le nombre de places étant très limité, il est nécessaire de s'inscrire pour poser sa candidature. La sélection des candidatures aura lieu durant la semaine du 23/10)**
+Comment accéder aux données et travailler avec les ressources SoDUCo. **Cet atelier est ouvert au public, mais le nombre de places étant très limité, il est nécessaire de s'inscrire pour poser sa candidature (La sélection des candidatures aura lieu durant la semaine du 23/10)**
 
 Lien vers le formulaire de candidature pour participer à l'atelier 1: [https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka](https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka)
 
@@ -169,9 +172,9 @@ Org. N. Abadie & S. Tual & J. Gravier & C. Bernard [& Pascal Critsofoli] Salle 6
 
 16h30. Pause
 
-16h45. Bilan collectif et discussion des ateliers
+16h45. Bilan collectif et discussion des ateliers (Mezzanine du DataLab)
 
-17h30. Clôture de la journée.
+17h30. Clôture de la journée
 
 ***
 ***
