@@ -84,7 +84,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 - 10h00. **SoDUCo team**, _Catalogage et diffusion des données dans le programme SoDUCo_. 
 - 10h30. Questions.
 - 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), _Présentation du consortium [Allmaps](https://allmaps.org/)_
-- 11h05. **M. Denel et al.** ([Wikimedia France](https://www.wikimedia.fr/)), _Science participative, science ouverte. L'expérience de Wikimedia France_
+- 11h05. **N. Vigneron** ([Wikimedia France](https://www.wikimedia.fr/)), _Science participative, science ouverte. L'expérience de Wikimedia France_
 - 11h25. **A. Joffres** ([Huma-num](https://www.huma-num.fr/)), _Données, outils et communautés pour la recherche en SHS_
 - 11h45. Questions
 - 12h00. Discussion - Table ronde
@@ -127,7 +127,7 @@ La matinée «Données historiques numériques» vise à confronter l’expérie
 Cette matinée invite plus particulièrement à réfléchir à ces questions dans le cas où les corpus de gros volumes de données numériques sont produits à partir de processus entièrement automatisés d’extraction de documents et d’enrichissement. Partant des travaux réalisés dans le cadre du programme SoDUCo, notamment du corpus des _Annuaires historiques parisiens_ et de la _géolocalisation historique_ des entrées d’annuaires sur les plans anciens, nous souhaitons aborder les questions suivantes au cours de la matinée: Comment et à quelles conditions peut-on s’emparer efficacement de telles « sources numériques » ? Comment les comprendre, évaluer leur « qualité » et leur rapport avec les sources initiales ? Comment comparer ou rendre cumulable les travaux très divers qui peuvent être issus de l’exploitation de ces jeux de données ? Enfin, nous souhaitons discuter collectivement les perspectives d’analyse et d’exploitation du corpus des _Annuaires historiques parisiens_.
 
 - 09h30. **SoDUCo team**, _Les données géohistoriques produites au cours du programme SoDUCo. Evaluation d’une « source numérique »_ 
-- 10h00. **L. Kesztenbaum, G. Postel-Vinay (Institut national d'études démographiques, INED)**, _Construction de bases de données historiques: retours d'expérience_
+- 10h00. **L. Kesztenbaum et G. Postel-Vinay (Institut national d'études démographiques, INED)**, _Construction de bases de données historiques: retours d'expérience_
 - 10h30. Questions
 - 10h45. Pause - café
 - 11h00. **C. Lemercier (CNRS - Centre de sociologie des organisations - Sciences Po-Paris)**, _Histoire quantitative, données ouvertes en SHS_
