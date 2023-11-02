@@ -72,7 +72,7 @@ Peut-on mesurer les effets d’une telle démarche sur nos objets et problémati
 
 ### Programme prévisionnel de la Matinée du Lundi 6 Novembre (9h30-12h00) 
 
-09h00. Accueil du public en salle 70 
+09h00. Accueil du public en salle 70, hall Est à côté du petit auditorium 
 
 (**Attention !!!** : La BnF est fermée au public le lundi matin. Un accès particulier à la salle 70 est organisé par les services de la BnF via l'**ouverture de l'entrée Hall Est entre 8h30 et 10h00** sous réserve d'être [inscrit sur les liste des participants à la demi-journée](https://evento.renater.fr/survey/inscriptions-a-la-4eme-seance-soduco-bnf-6-et-7-novembre-2023-0j6blqtl)).
 
@@ -96,7 +96,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 ### Programme provisionnel de l'après-Midi du Lundi 6 Novembre (13h30-17h30):
 
-13h45. Accueil du public en salle 70
+13h45. Accueil du public en salle 70, hall Est à côté du petit auditorium
 
 **14h00 - 14h45 - Keynote**
 
@@ -122,7 +122,7 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 
 ### Programme prévisionnel de la Matinée du Mardi 7 Novembre (9h30-12h00) 
 
-09h15. Accueil du public en salle 70.
+09h15. Accueil du public en salle 70, hall Est à côté du petit auditorium
 
 **09h30 - 12h00 - Session Données historiques numériques - évaluations critiques et perspectives d'utilisations**
 
@@ -160,12 +160,12 @@ Comment accéder aux données et travailler avec les ressources SoDUCo. **Cet at
 
 Lien vers le formulaire de candidature pour participer à l'atelier 1: [https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka](https://evento.renater.fr/survey/candidatures-atelier-formation-soduco-1-92ilyhka)
 
-Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & P. Critsofoli, Salle 12 pers.
+Org. P.-A. Le Ny & M. Hersent & M. Fernandez & J. Perret & B. Dumenieu & P. Critsofoli, Salle 12 pers.
 
 
 **ATELIER N°2 – Utiliser la chaîne SoDUCo d’extraction et d’enrichissement de documents textuels numériques (fermé au public - accès sur invitation)**
 
-Org. : E. Carlinet & J. Chazalon & B. [& Nathalie Abadie] Salle 6 pers. (1)
+Org. : E. Carlinet & J. Chazalon & B. Dumenieu [& Nathalie Abadie] Salle 6 pers. (1)
 
 **ATELIER N°3 – Graphes de Connaissance Géohistoriques Professionnels (fermé au public - accès sur invitation)**
 
