@@ -62,8 +62,11 @@ Cette 4ème séance de l'Atelier est ouverte au public. **Inscription obligatoir
 ### Introduction à la 4ème séance de l'Atelier SoDUCo-BnF:
 
 La 4ème séance de l’Atelier SoDUCo-BnF propose de poursuivre les discussions engagées entre chercheurs et spécialistes de la conservation patrimoniale des documents. Pour rappel, les 3 précédentes séances concernaient : les procédures de conservation, de signalement et de diffusion des documents cartographiques (_Le circuit de traitements des documents cartographiques des XVIIIe et XIXe siècles à la BnF_, 23 mai 2023), les moyens de reconstituer l’histoire des atlas et plans de la ville et d’en proposer une édition critique numérique (_Paris, capitale géodésique. Atlas et plans à grande échelle: 1780–1950_, 10 avril 2022), la définition et l’exploitation du corpus des listes d’adresses des Annuaires commerciaux du XIXe siècle (_Res(t)ituer les adresses des almanachs et annuaires commerciaux parisiens du XIXe siècle. Un corpus de localisations urbaines à grande échelle_, 10 novembre 2022), et enfin un aperçu des analyses qui peuvent être mises en œuvre sur les données qui en sont extraites (_Analyses spatiales formalisées de données géo-historiques_, 23 mai 2023).
+
 Cette dernière séance de l’Atelier est organisée sur deux jours, les 6 et 7 novembre 2023. Elle fait office de séminaire de clôture du programme de recherche SoDUCo (_Dynamiques Sociales en contexte urbain: outils, modèles et données libres – Paris et ses banlieues, 1789-1950_). Elle s’attache à présenter un bref bilan de l'ensemble des réalisations, ainsi que les outils et données mis à la disposition du public.
+
 Lors de son montage, nous avions souhaité inscrire le projet SoDUCo dans une démarche de _Science ouverte_. Nous souhaitons discuter des implications de cette décision sur la nature, l’organisation et les choix techniques du projet. Une telle démarche est encore inégalement partagée et pratiquée dans la communauté scientifique et les travaux et ressources qui en relèvent prennent des formes très diverses, notamment dans le domaine des SHS. Appuyée sur le développement des technologies numériques et les collaborations interdisciplinaires, elle est désormais fortement encouragée et encadrée par les institutions et tutelles de la recherche notamment via la mise en place d’un écosystème sociotechnique dédié (infrastructures et outils, principes et méthodologies, spécialisations professionnelles, …).
+
 Il s’agit dans un premier temps de situer les réalisations du programme de recherche SoDUCo dans ce contexte. Le parti pris assumé de la reproductibilité, de l’ouverture des données et des outils a orienté la manière d’aborder l’_étude de la co-évolution sociale et spatiale de Paris au XIXe_. Il a aussi présidé à de nombreux choix tant techniques que méthodologiques. L’ensemble de ces principes et contraintes a sans aucun doute contribué à façonner procédures, résultats et productions. Il nous semble utile de faire le point sur ces aspects et de confronter l’expérience et les questionnements du consortium SoDUCo avec celles des acteurs et experts de différentes communautés et institutions intéressées par ces questions (_conservation patrimoniale, ingénierie des connaissances, analyse des documents, humanités numériques, recherche en sciences sociales, science participative_).
 Peut-on mesurer les effets d’une telle démarche sur nos objets et problématiques de recherche ? Quel est le statut des données numériques produites de manière automatique ? Comment et à quelles conditions est-il possible de les utiliser ? Comment les évaluer et améliorer les procédures de traitement ? Comment ré-utiliser les outils dans d’autres contextes et avec d’autres sources ? Peut-on parvenir à cumuler résultats et travaux issus de l’exploitation des corpus du projet ? Comment mettre à jour, enrichir ou encore pérenniser de telles objets et outils numériques ? Comment interagir avec l'écosystème actuel de la conservation patrimoniale et de la recherche et anticiper ses évolutions ?
 
@@ -89,7 +92,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 - 11h45. Questions
 - 12h00. Discussion - Table ronde
 
-12h00. Pause-déjeuner
+**12h00. Pause-déjeuner au Belvédère**
 
 ### Programme provisionnel de l'après-Midi du Lundi 6 Novembre (13h30-17h30):
 
@@ -115,7 +118,7 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 - 17h00. Questions
 - 17h15. Discussion finale
 
-**17h30. Clôture de la journée**
+**17h30. Clôture de la journée - Pot au foyer à coté de la salle 70**
 
 ### Programme prévisionnel de la Matinée du Mardi 7 Novembre (9h30-12h00) 
 
@@ -133,7 +136,7 @@ Cette matinée invite plus particulièrement à réfléchir à ces questions dan
 - 11h00. **C. Lemercier (CNRS - Centre de sociologie des organisations - Sciences Po-Paris)**, _Histoire quantitative, données ouvertes en SHS_
 - 11h30. Questions et discussion finale
 
-**12h00. Pause-déjeuner**
+**12h00. Pause-déjeuner au Belvédère**
 
 ## Séance 4/4 suite : LES ATELIERS-FORMATION SODUCO – BNF DATALAB (accès limité)
 {: #ateliers_seance4 }
