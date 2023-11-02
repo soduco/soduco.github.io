@@ -70,7 +70,7 @@ Lors de son montage, nous avions souhaité inscrire le projet SoDUCo dans une d�
 Il s’agit dans un premier temps de situer les réalisations du programme de recherche SoDUCo dans ce contexte. Le parti pris assumé de la reproductibilité, de l’ouverture des données et des outils a orienté la manière d’aborder l’_étude de la co-évolution sociale et spatiale de Paris au XIXe_. Il a aussi présidé à de nombreux choix tant techniques que méthodologiques. L’ensemble de ces principes et contraintes a sans aucun doute contribué à façonner procédures, résultats et productions. Il nous semble utile de faire le point sur ces aspects et de confronter l’expérience et les questionnements du consortium SoDUCo avec celles des acteurs et experts de différentes communautés et institutions intéressées par ces questions (_conservation patrimoniale, ingénierie des connaissances, analyse des documents, humanités numériques, recherche en sciences sociales, science participative_).
 Peut-on mesurer les effets d’une telle démarche sur nos objets et problématiques de recherche ? Quel est le statut des données numériques produites de manière automatique ? Comment et à quelles conditions est-il possible de les utiliser ? Comment les évaluer et améliorer les procédures de traitement ? Comment ré-utiliser les outils dans d’autres contextes et avec d’autres sources ? Peut-on parvenir à cumuler résultats et travaux issus de l’exploitation des corpus du projet ? Comment mettre à jour, enrichir ou encore pérenniser de telles objets et outils numériques ? Comment interagir avec l'écosystème actuel de la conservation patrimoniale et de la recherche et anticiper ses évolutions ?
 
-### Programme prévisionnel de la Matinée du Lundi 6 Novembre (9h30-12h00) 
+### Programme de la Matinée du Lundi 6 Novembre (9h30-12h00) 
 
 09h00. Accueil du public en salle 70, hall Est à côté du petit auditorium 
 
@@ -94,7 +94,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 **12h00. Pause-déjeuner au Belvédère**
 
-### Programme provisionnel de l'après-Midi du Lundi 6 Novembre (13h30-17h30):
+### Programme de l'après-Midi du Lundi 6 Novembre (13h30-17h30):
 
 13h45. Accueil du public en salle 70, hall Est à côté du petit auditorium
 
@@ -120,7 +120,7 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 
 **17h30. Clôture de la journée - Pot au foyer à coté de la salle 70**
 
-### Programme prévisionnel de la Matinée du Mardi 7 Novembre (9h30-12h00) 
+### Programme de la Matinée du Mardi 7 Novembre (9h30-12h00) 
 
 09h15. Accueil du public en salle 70, hall Est à côté du petit auditorium
 
@@ -146,7 +146,7 @@ Ces ateliers-formations, accessibles sur invitation ou inscription, sont organis
 
 [Affiche et programme des Ateliers-Formation BnF DataLab](https://soduco.github.io/public/images/Atelier_Soduco_BnF_Programme_seance4_ateliers7Nov2023.pdf)
 
-### Programme prévisionnel de l'aprés-midi du Mardi 7 Novembre (13h30-17h30) - (accès sur invitation ou sur inscription)
+### Programme des ateliers de l'aprés-midi du Mardi 7 Novembre (13h30-17h30) - (accès sur invitation ou sur inscription)
 
 **BnF-DataLab, Bibliothèque nationale de France, Site François Mitterrand, Paris.**
 
