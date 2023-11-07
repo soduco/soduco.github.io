@@ -84,9 +84,9 @@ Peut-on mesurer les effets d’une telle démarche sur nos objets et problémati
 
 Cette demi-journée revient sur les questions du catalogage, de la diffusion des données et des métadonnées pour les projets de recherche en humanités numériques impliqués dans une démarche de science ouverte. Nous présenterons le géo-catalogue développé dans le cadre de SoDUCo pour élaborer à partir de sources éparses des corpus de documents adaptés aux questions de recherche, puis conserver la trace des divers traitements qui leur sont appliqués ainsi que les états intermédiaires et finaux des données numériques qui en sont extraites. Nous discuterons notamment les notions de collections et de corpus, d’interopérabilité, de pérennité, de même que nous poursuivrons les réflexions engagées lors des précédentes journées sur rapports entre les catalogages patrimoniaux inter-institutionnels et le catalogage orienté vers l’usage de la recherche. Sur quelles bases chercheurs et spécialistes de la documentation peuvent-il collaborer ? Comment pouvons-nous nous organiser pour utiliser les acquis de SoDUCo et de l’atelier SoDUCo-BnF et créer les conditions d’une cumulativité à la fois du point de vue de la recherche et du point de vue des institutions patrimoniales. Quels principes, quels outils et quel modèle de travail pouvons-nous adopter pour aller plus loin ensemble sur d’autres sujets/objets et avec d’autres acteurs/publics.
 
-- 10h00. **SoDUCo team**, _Catalogage et diffusion des données dans le programme SoDUCo_. 
+- 10h00. **SoDUCo team**, [_Catalogage et diffusion des données dans le programme SoDUCo_](https://soduco.github.io/public/images/seminaire4/20231106-1_2_SoDUCo_Catalogage_diffusion_Dumenieu_Hersent.pdf)
 - 10h30. Questions.
-- 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), _Présentation du consortium [Allmaps](https://allmaps.org/)_
+- 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), _[Présentation du consortium Allmaps](https://allmaps.org/)_
 - 11h05. **N. Vigneron** ([Wikimedia France](https://www.wikimedia.fr/)), _Science participative, science ouverte. L'expérience de Wikimedia France_
 - 11h25. **A. Joffres** ([Huma-num](https://www.huma-num.fr/)), _Données, outils et communautés pour la recherche en SHS_
 - 11h45. Questions
@@ -100,7 +100,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 **14h00 - 14h45 - Keynote**
 
-- 14h00. **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) : _« Lois d'échelle » et dynamiques des activités urbaines dans une ville en croissance_
+- 14h00. **M. Barthelemy** (Institut de Physique Théorique, Commissariat à l'Energie Atomique et aux Energies Alternatives) et **J. Gravier** (Centre de recherches historiques - CRH et Centre d'analyse et de mathématique sociales - CAMS, Ecole des hautes études en sciences sociales) : [_« Lois d'échelle » et dynamiques des activités urbaines dans une ville en croissance_](https://soduco.github.io/public/images/seminaire4/20231106-2_1_SoDUCo_Dynamique_activites_urbaines_Barthelemy_Gravier.pdf)
 - 14h35. Questions
 
 **14h45. Pause café**
@@ -109,7 +109,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 Cette demi-journée revient sur les questions d’analyse automatique de documents anciens semi-structurés, de la détection de leur mise en page à la structuration spatio-temporelle des informations qu’ils contiennent. Nous y présenterons les travaux réalisés dans le projet SoDUCo sur les annuaires du commerce parisien du XIXe siècle pour permettre le suivi spatio-temporel de chaque commerce recensé dans ces annuaires. Sur la base de ces expériences, il nous semble utile d’élargir les discussions sur deux aspects ouvrant encore de nombreuses perspectives de recherche : l’analyse automatique de documents anciens et la représentation de connaissances géohistoriques.
 
-- 15h00. **SoDUCo team**, _Extraction de données. Approche du projet SoDUCo. De l’image d’annuaire du commerce ancien à la base de données interrogeable_
+- 15h00. **SoDUCo team**, [_Extraction de données. Approche du projet SoDUCo. De l’image d’annuaire du commerce ancien à la base de données interrogeable_](https://soduco.github.io/public/images/seminaire4/20231106-2_2_SoDUCo_Extraction et structuration_donnees_Chazalon_Dumenieu_Abadie.pdf)
 - 15h30. **C. Duvette et P. Kervegan** (Département des études et de la recherche - Institut national d'histoire de l'art, INHA), _Chapeliers, architectes, nouveautés : géo-analyse des activités visibles et invisibles d'un quartier_
 - 15h50. Questions
 - 16h05. Pause - café
@@ -129,7 +129,7 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 La matinée «Données historiques numériques» vise à confronter l’expérience de chercheurs qui construisent et analysent régulièrement des corpus de données numériques élaborés à partir de documents d’archives (texte et cartes). Dans un moment où l’on assiste à l’explosion de la production de données numériques ouvertes issues de sources anciennes, les questions classiques des conditions d’appropriation et de réutilisation de ces nouvelles « sources » par des tiers se posent de manière accrue.
 Cette matinée invite plus particulièrement à réfléchir à ces questions dans le cas où les corpus de gros volumes de données numériques sont produits à partir de processus entièrement automatisés d’extraction de documents et d’enrichissement. Partant des travaux réalisés dans le cadre du programme SoDUCo, notamment du corpus des _Annuaires historiques parisiens_ et de la _géolocalisation historique_ des entrées d’annuaires sur les plans anciens, nous souhaitons aborder les questions suivantes au cours de la matinée: Comment et à quelles conditions peut-on s’emparer efficacement de telles « sources numériques » ? Comment les comprendre, évaluer leur « qualité » et leur rapport avec les sources initiales ? Comment comparer ou rendre cumulable les travaux très divers qui peuvent être issus de l’exploitation de ces jeux de données ? Enfin, nous souhaitons discuter collectivement les perspectives d’analyse et d’exploitation du corpus des _Annuaires historiques parisiens_.
 
-- 09h30. **SoDUCo team**, _Les données géohistoriques produites au cours du programme SoDUCo. Evaluation d’une « source numérique »_ 
+- 09h30. **SoDUCo team**, [_Les données géohistoriques produites au cours du programme SoDUCo. Evaluation d’une « source numérique »_](https://soduco.github.io/public/images/seminaire4/20231107-3_1_SoDUCo_Evaluation_Gavier_Cristofoli.pdf) 
 - 10h00. **L. Kesztenbaum (Institut national d'études démographiques, INED) et G. Postel-Vinay (Paris School of Economics, PSE)**, _Construction de bases de données historiques: retours d'expérience_
 - 10h30. Questions
 - 10h45. Pause - café
