@@ -78,7 +78,7 @@ Peut-on mesurer les effets d’une telle démarche sur nos objets et problémati
 
 09h30. **M. Carlin** (BnF DataLab), _Ouverture de la journée_
 
-09h35. **SoDUCo team**, _Le programme de recherche SoDUCo. Bilan_
+09h35. **SoDUCo team**, [_Le programme de recherche SoDUCo. Bilan_](https://soduco.github.io/public/images/seminaire4/20231106-1_1_SoDUCo_presentation_seminaire_cloture_Perret.pdf)
 
 **10h00 - 12h15 Session Métadonnées, catalogage et diffusion de données**
 
