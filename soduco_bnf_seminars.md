@@ -109,7 +109,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 
 Cette demi-journée revient sur les questions d’analyse automatique de documents anciens semi-structurés, de la détection de leur mise en page à la structuration spatio-temporelle des informations qu’ils contiennent. Nous y présenterons les travaux réalisés dans le projet SoDUCo sur les annuaires du commerce parisien du XIXe siècle pour permettre le suivi spatio-temporel de chaque commerce recensé dans ces annuaires. Sur la base de ces expériences, il nous semble utile d’élargir les discussions sur deux aspects ouvrant encore de nombreuses perspectives de recherche : l’analyse automatique de documents anciens et la représentation de connaissances géohistoriques.
 
-- 15h00. **SoDUCo team**, [_Extraction de données. Approche du projet SoDUCo. De l’image d’annuaire du commerce ancien à la base de données interrogeable_](https://soduco.github.io/public/images/seminaire4/20231106-2_2_SoDUCo_Extraction et structuration_donnees_Chazalon_Dumenieu_Abadie.pdf)
+- 15h00. **SoDUCo team**, [_Extraction de données. Approche du projet SoDUCo. De l’image d’annuaire du commerce ancien à la base de données interrogeable_](https://soduco.github.io/public/images/seminaire4/20231106-2_2_SoDUCo_Extraction_et_structuration_donnees_Chazalon_Dumenieu_Abadie.pdf)
 - 15h30. **C. Duvette et P. Kervegan** (Département des études et de la recherche - Institut national d'histoire de l'art, INHA), _Chapeliers, architectes, nouveautés : géo-analyse des activités visibles et invisibles d'un quartier_
 - 15h50. Questions
 - 16h05. Pause - café
