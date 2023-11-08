@@ -24,11 +24,11 @@ The dataset is described in more detail and can be downloaded on [this Zenodo re
 
 ## Benchmark dataset for historical maps segmentation
 
-A benchmark dataset for historical maps segmentation has been created and used to organise a competition at the ICDAR 2021 conference: https://icdar21-mapseg.github.io/
+A benchmark dataset for historical maps segmentation has been created and used to organise a competition at the ICDAR 2021 conference: [https://icdar21-mapseg.github.io/](https://icdar21-mapseg.github.io/)
 
 ## Dataset "Annuaires historiques parisiens, 1798-1914"
 
-Réf. Annuaires historiques parisiens, 1798-1914. _Extraction structurée et géolocalisée à l’adresse des listes nominatives [par ordre alphabétique et par activité] dans les volumes numérisés_, SoDUCo Team, V.01 - mai 2023, Paris DataSet Nakala,  [https://nakala.fr/10.34847/nkl.98eem49t](https://nakala.fr/10.34847/nkl.98eem49t) 
+Réf. Annuaires historiques parisiens, 1798-1914. _Extraction structurée et géolocalisée à l’adresse des listes nominatives [par ordre alphabétique et par activité] dans les volumes numérisés_, SoDUCo Team, V.01 - mai 2023, Paris DataSet Nakala, [https://nakala.fr/10.34847/nkl.98eem49t](https://nakala.fr/10.34847/nkl.98eem49t) 
 
 For more information about this dataset, see the 2th Session of the SoDUCo-BnF seminar : _Relocating addresses from commerce directories, Paris, XIXth century. A corpus of urban locations at a large scale_, 10 novembre 2022, Paris, Bibliothèque nationale de France. cf. [Session Program](https://soduco.github.io/public/images/Atelier_Soduco_Bnf_Programme_Journee_10novembre.pdf) and [related presentations](https://soduco.github.io/soduco_bnf_seminars/#seance2)
 
@@ -49,6 +49,12 @@ It can also be downloaded from the [Github repository](https://github.com/soduco
 This knowledge graph was created automatically: it necessarily contains errors resulting from the various processes used to produce it (directory entries segmentation, OCR, NER, geocoding, linking, etc.).
 
 We plan to publish more data about other activities and business types by the end of the project.
+
+## Datasets "Population des quartiers de Paris (1801-1911)" and "Quartiers de Paris (1860-1919)"
+
+Two data sets designed to further contextualize the data contained in the directories. The first is the census of the population at the level of Paris districts (domiciled and de facto population), while the second is spatial data of districts.
+- Population on [https://doi.org/10.34847/nkl.e173c93p](https://doi.org/10.34847/nkl.e173c93p)
+- Districts on [https://doi.org/10.34847/nkl.a57506s3](https://doi.org/10.34847/nkl.a57506s3)
 
 ## Benchmark dataset for Nested NER models used on noisy OCR predictions
 
