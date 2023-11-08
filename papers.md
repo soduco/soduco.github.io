@@ -33,7 +33,14 @@ Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence 
 
 ## Invited talks
 
+Julie Gravier. Dynamique des activités dans la ville durant un siècle : Paris au XIXe s., *séminaire systèmes complexes en sciences sociales* organisé par Jean-Pierre Nadal, Henri Berestycki, Annick Vignes et Amandine Aftalion, EHESS, Paris, France, 16 June 2023.
+
+Julie Gravier. “Events on linear network”, un même formalisme initial pour répondre à des questions diverses, Journée L’analyse des réseaux spatiaux en archéologie organisé par Constance Thirouard, GT 3.3 Territoires culturels et circulations des sociétés anciennes du Labex DynamiTe, Paris, France, 1 June 2023.
+
 Bertrand Duménieu. Localiser les adresses anciennes ? Plans historiques & annuaires parisiens au XIXe. *Journée d'études scientifiques « Pour un traitement scientifique automatisé des cartes anciennes ». Festival Printemps des Cartes*. Montmorillon, France, 11-12 May 2023.
 
 Nathalie Abadie, Stéphane Baciocchi, Charly Bernard, Edwin Carlinet, Paul Chapron, Joseph Chazalon, Yizi Chen, Pascal Cristofoli, Bertrand Duménieu, Mathieu Fernandez, Julie Gravier, Melvin Hersent, Clément Mallet, Julien Perret, Juste Raimbault and Solenn Tual. SoDUCo: Croisement de sources géo-historiques pour l'étude de l'évolution de Paris de 1789 à 1950. Séminaire IXXI *Extraction, traitement et visualisation de données complexes en géographie (XVIIIe s. - XIXe s.)*. Lyon, France, 20 February 2023. Talk by Julien Perret et Joseph Chazalon. [Video and slides are available here](https://gitlab.liris.cnrs.fr/geode/seminaires-ixxi/-/tree/master/s%C3%A9minaires/session11_fev23).
 
+Julie Gravier. Logiques de localisation des activités dans l’espace urbain. Études de cas et discussion à partir des données fines et en masse des annuaires commerciaux de Paris au XIXe siècle, *séminaire enjeux & pratiques du numérique dans la recherche en histoire* organisé par Bertrand Duménieu, Pascal Cristofoli, Raphaël Morera, Nicolas Veysset et Jean-Damien Généro, EHESS, Paris, France, 13 February 2023.
+
+Julie Gravier. Des données fines et en masse de l’espace parisien au XIXe s. Analyse de l’évolution des activités urbaines au fil du siècle, *séminaire approches quantitatives et modélisation mathématiques en SHS* organisé par Jean-Pierre Nadal, Annick Vignes et Julien Randon-Furling, PSL-Ecole des Chartes, Paris, France, 23 November 2022.
