@@ -88,7 +88,7 @@ Cette demi-journée revient sur les questions du catalogage, de la diffusion des
 - 10h30. Questions.
 - 10h45. **J. Schoonman, B. Spaan & M. Claeys Bouuaert** ([Allmaps](https://allmaps.org/)), _[Présentation du consortium Allmaps](https://allmaps.org/)_
 - 11h05. **N. Vigneron** ([Wikimedia France](https://www.wikimedia.fr/)), _Science participative, science ouverte. L'expérience de Wikimedia France_
-- 11h25. **A. Joffres** ([Huma-num](https://www.huma-num.fr/)), _Données, outils et communautés pour la recherche en SHS_
+- 11h25. **A. Joffres** ([Huma-num](https://www.huma-num.fr/)), [_Données, outils et communautés pour la recherche en SHS_](https://soduco.github.io/public/images/seminaire4/20231106-1_5_Joffres_Huma-num.pdf)
 - 11h45. Questions
 - 12h00. Discussion - Table ronde
 
