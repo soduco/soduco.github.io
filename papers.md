@@ -51,3 +51,7 @@ Nathalie Abadie, Stéphane Baciocchi, Charly Bernard, Edwin Carlinet, Paul Chapr
 
 
 Julie Gravier. Des données fines et en masse de l’espace parisien au XIXe s. Analyse de l’évolution des activités urbaines au fil du siècle, *séminaire approches quantitatives et modélisation mathématiques en SHS* organisé par Jean-Pierre Nadal, Annick Vignes et Julien Randon-Furling, PSL-Ecole des Chartes, Paris, France, 23 November 2022.
+
+## PhD
+
+Yizi Chen. Modern vectorization and alignment of historical maps: An application to Paris Atlas (1789-1950). Computer Science [cs]. IGN (Institut National de l’Information Géographique et Forestière), 2023. English. ⟨NNT : ⟩. [![⟨tel-04106107](/assets/img/hal-logo-header.png){:.myicon}](https://theses.hal.science/tel-04106107 "Thesis on hal") [![pdf](/assets/img/file-pdf.svg){:.myicon}](https://theses.hal.science/tel-04106107v1/file/main.pdf "pdf")
