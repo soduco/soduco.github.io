@@ -314,7 +314,7 @@ Cette demi-journée revient sur les questions d’analyse automatique de documen
 - 15h50. Questions
 - 16h05. Pause - café
 - 16h20. **W. Charles** (_Institut de Recherche en Informatique de Toulouse_ - IRIT, Université de Toulouse Jean Jaurès) et **S. Poublanc** (_France, Amérique, Espagne, Sociétés, Pouvoirs, Acteurs_- Framespa, Université de Toulouse Jean Jaurès, Framespa), _Représenter les territoires de la France moderne dans des graphes de connaissances : le projet OBARDI_
-- 16h40. **C. Kermorvant** ([TEKLIA](https://teklia.com/fr/)), [_Nouvelles approches pour l’extraction d’informations dans des documents numérisés_ ![Slides of the presentation] (/assets/img/file-slides.svg){:.myicon}](https://soduco.github.io/public/images/seminaire4/20231106-2_5_Kermorvan_information_extraction.pdf)
+- 16h40. **C. Kermorvant** ([TEKLIA](https://teklia.com/fr/)), [_Nouvelles approches pour l’extraction d’informations dans des documents numérisés_ ![Slides of the presentation](/assets/img/file-slides.svg){:.myicon}](https://soduco.github.io/public/images/seminaire4/20231106-2_5_Kermorvan_information_extraction.pdf)
 - 17h00. Questions
 - 17h15. Discussion finale
 
