@@ -29,7 +29,7 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 
 ***
 
-<div <h1>SProgrammes des 4 séances de l'Atelier SoDUCo-BnF (Cliquer sur les titres pour afficher le détail)</h1></div>
+<div><h1>SProgrammes des 4 séances de l'Atelier SoDUCo-BnF (Cliquer sur les titres pour afficher le détail)</h1></div>
 
 <div class="collapsible" id="seance1"><h2>Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950</h2></div>
 
