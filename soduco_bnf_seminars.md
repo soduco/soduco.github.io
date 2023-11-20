@@ -29,6 +29,8 @@ En 2022-2023, l’équipe SoDUCo et la BnF organisent un séminaire commun, **l�
 
 ***
 
+<div <h1>SProgrammes des 4 séances de l'Atelier SoDUCo-BnF (Cliquer sur les titres pour afficher le détail)</h1></div>
+
 <div class="collapsible" id="seance1"><h2>Séance 1/4: Paris, capitale géodésique. Atlas et plans à grande échelle: 1780 - 1950</h2></div>
 
 <div class="collapsible-content" id="seance1data" markdown="1">
@@ -333,7 +335,7 @@ Cette matinée invite plus particulièrement à réfléchir à ces questions dan
 - 10h00. **L. Kesztenbaum (Institut national d'études démographiques, INED) et G. Postel-Vinay (Paris School of Economics, PSE)**, [_Construction de bases de données historiques: retours d'expérience_ ![Slides of the presentation](/assets/img/file-slides.svg){:.myicon}](https://soduco.github.io/public/images/seminaire4/20231107-3_2_PosteVinay_Kesztenbaum_Retour_experience.pdf)
 - 10h30. Questions
 - 10h45. Pause - café
-- 11h00. **C. Lemercier (CNRS - Centre de sociologie des organisations - Sciences Po-Paris)**, [_Histoire quantitative, données ouvertes en SHS_ ![Slides of the presentation](/assets/img/file-slides.svg){:.myicon}](https://soduco.github.io/public/images/seminaire4/20231107-3_3_Lemercier_Quanti_donnees_ouvertes.pdf)
+- 11h00. **C. Lemercier (CNRS - Centre de sociologie des organisations - Sciences Po-Paris)**, [_Histoire quantitative, données ouvertes en SHS_ ![Slides of the presentation](/assets/img/file-slides.svg){:.myicon}](https://soduco.github.io/public/images/seminaire4/20231107-3-3_Lemercier_Quanti_donnees_ouvertes.pdf)
 - 11h30. Questions et discussion finale
 
 **12h00. Pause-déjeuner au Belvédère**
