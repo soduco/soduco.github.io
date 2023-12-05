@@ -39,6 +39,9 @@ Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence 
 
 ## Invited talks
 
+Solenn Tual. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du XIXe siècle: application aux métiers de la photographie. *SemWeb.Pro: Journée de présentations et de rencontres
+dédiées au web sémantique dans le monde professionnel*. 14 novembre 2023, Paris. [Abstract available here](https://2023.semweb.pro/presentations/18269561/).
+
 Julie Gravier. Dynamique des activités dans la ville durant un siècle : Paris au XIXe s., *séminaire systèmes complexes en sciences sociales* organisé par Jean-Pierre Nadal, Henri Berestycki, Annick Vignes et Amandine Aftalion, EHESS, Paris, France, 16 June 2023.
 
 Julie Gravier. “Events on linear network”, un même formalisme initial pour répondre à des questions diverses, *Journée L’analyse des réseaux spatiaux en archéologie* organisé par Constance Thirouard, GT 3.3 Territoires culturels et circulations des sociétés anciennes du Labex DynamiTe, Paris, France, 1 June 2023.
