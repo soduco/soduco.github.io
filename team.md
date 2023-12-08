@@ -19,6 +19,7 @@ rank: 2
 
 **[Nathalie Abadie](https://www.umr-lastig.fr/nathalie-abadie/)**, Researcher:
 * Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
+* Geohistorical knowledge graphs creation,
 * Quality assessment in old maps,
 * Member of the [Verniquet Workshop](/verniquet_workshop/),
 * Co-supervision of Solenn Tual master internship.  
@@ -42,7 +43,7 @@ rank: 2
 
 **[Solenn Tual](https://www.umr-lastig.fr/solenn-tual/)**, Intern, Master 2 IGAST (ENSG - univ. Eiffel):
 *  Named Entity Recognition and Linking in 19<sup>th</sup> century directories,
-*  Spatio-temporal graph creation and analysis.
+*  Geohistorical knowledge graphs creation.
 
 
 ## School for Advanced Studies in the Social Sciences (École des Hautes Études en Sciences Sociales)
