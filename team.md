@@ -107,9 +107,9 @@ rank: 2
 **Julien Chadeyron**, Assistant-engineer in cartography, University of Clermont-Auvergne:
 * Member of the [Verniquet Workshop](/verniquet_workshop/).
 
-**Pierre-André Le Ny**, GIS Consultant - Expert in webmapping, cartography and data management - OpenSource, [Le Ny Conseil(https://www.lenyconseil.fr/):
+**Pierre-André Le Ny**, GIS Consultant - Expert in webmapping, cartography and data management - OpenSource, [Le Ny Conseil](https://www.lenyconseil.fr/):
 * SoDUCo Webmapping
-* Responsible for training in the tools developed within the framework of the SoDUCo Project
+* Training in the tools developed within the framework of the SoDUCo Project
 
 
 
