@@ -73,7 +73,12 @@ rank: 2
 **[Julie Gravier](http://cams.ehess.fr/doctorants-et-post-doctorants/)**, PostDoc Student:
 * Dynamics of co-evolution of the urban space and its social organisations modelling. 
 
-**Laureencia Morice**, Intern, Master 1 (EHESS):
+**[Mathieu Frenandez](http://crh.ehess.fr/index.php?8251)**, Research engineer:
+* Geomatics and documentation engineering manager.
+* Member of the [Verniquet Workshop](/verniquet_workshop/).
+* Research engineer in [The Paris Urbanism Agency (Apur)](https://www.apur.org/en)
+
+**Laureencia Morice**, Intern, Master 1 (EHESS) (2022):
 *  Manual annotation of named entities in a selection of directories,
 *  Feedback on annotation tool,
 *  Manual vectorisation of old maps.
@@ -101,6 +106,10 @@ rank: 2
 
 **Julien Chadeyron**, Assistant-engineer in cartography, University of Clermont-Auvergne:
 * Member of the [Verniquet Workshop](/verniquet_workshop/).
+
+**Pierre-André Le Ny**, GIS Consultant - Expert in webmapping, cartography and data management - OpenSource, [Le Ny Conseil(https://www.lenyconseil.fr/):
+* SoDUCo Webmapping
+* Responsible for training in the tools developed within the framework of the SoDUCo Project
 
 
 
