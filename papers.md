@@ -46,6 +46,8 @@ Bertrand Dumenieu, Julien Chadeyron, Pascal Cristofoli, Julien Perret, Laurence 
 
 ## Invited talks
 
+Julie Gravier. Analyse spatiale formalisée de données socio-historiques : almanachs et Annuaires commerciaux de la ville de Paris au XIXe siècle, *séminaire l’espace, catégorie de la pratique et analyseur du monde social* organisé par Isabelle Backouche et Christian Topalov, EHESS, Paris, France, 6 February 2024.
+
 Solenn Tual. Création d'un graphe de connaissances géohistorique à partir d'annuaires du commerce parisien du XIXe siècle: application aux métiers de la photographie. *SemWeb.Pro: Journée de présentations et de rencontres
 dédiées au web sémantique dans le monde professionnel*. FIAP, Paris, France, 14 November 2023. [Abstract available here](https://2023.semweb.pro/presentations/18269561/).
 
