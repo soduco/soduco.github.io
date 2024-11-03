@@ -18,6 +18,12 @@ rank: 10
 |:--:|
 | <b>[See it on the Allmaps viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fdataverse.harvard.edu%2Fapi%2Faccess%2Fdatafile%2F7002615)</b>|
 
+## The Atlas municipal [...] 1868 from BHdV (Ville de Paris) [link](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000261673)
+
+| ![Atlas municipal 1868](./public/images/Atlas_municipal_1868.png) |
+|:--:|
+| <b>[See it on the Allmaps viewer](https://viewer.allmaps.org/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsoduco%2Fallmaps_annotations%2Fmain%2Foutput%2Fbhdv_atlas_municipal_1868%2Fannotation_bhdv_atlas_municipal_1868.json)</b>|
+
 ## The Atlas municipal [...] 1878 from BHdV (Ville de Paris) [link](https://bibliotheques-specialisees.paris.fr/ark:/73873/pf0000935100)
 
 | ![Atlas municipal 1878](./public/images/Atlas_municipal_1878.png) |
