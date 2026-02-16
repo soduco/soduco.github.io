@@ -23,6 +23,10 @@ Yizi Chen, Edwin Carlinet, Joseph Chazalon, Clément Mallet, Bertrand Dumenieu, 
 Pierre-André Le Ny, Bertrand Duménieu. Social Dynamics in Urban Context (SoDUCo) : Open tools, models, and data – Paris and its suburbs, 1789-1950. *Free and Open Source Software for Geospatial Conference (FOSS4G 2019)*, held in Bucharest, Romania, 30 August 2019. [![⟨10.5446/43330⟩](/assets/img/DOI_logo.svg.png){:.myicon}](https://doi.org/10.5446/43330 "doi:10.5446/43330") [![Video of the presentation](/assets/img/play-circle.svg){:.myicon}](https://media.ccc.de/v/bucharest-415-social-dynamics-in-urban-context-soduco-open-tools-models-and-data-paris-and-its-suburbs-1789-1950 "Video of the presentation")
 
 ## International journals
+Julie Gravier, Stéphane Baciocchi, Pascal Cristofoli, Bertran Duménieu, Edwin Carlinet, Joseph Chazalon, Nathalie Abadie, Solenn Tual and Julien Perret, Evaluating and Understanding the Geocoding of City Directories of Paris (1787-1914): Data-Driven Geography of Urban Sprawl and Densification, *Digital Humanities Quarterly*, January 2026, 19(4), pp. 000814. [![⟨hal-05498176⟩](/assets/img/hal-logo-header.png){:.myicon}](https://hal.archives-ouvertes.fr/hal-05498176 "hal:hal-05498176")
+[![Code for the paper](/assets/img/file-code.svg){:.myicon}](https://doi.org/10.5281/zenodo.16994481 "Code for the paper")
+[![pdf](/assets/img/file-pdf.svg){:.myicon}](https://hal.science/hal-05498176v1/file/DHQ_Evaluating-and-Understanding-the-Geocoding-of-City-Directories-of-Paris(1787-1914).pdf "pdf")
+
 Julie Gravier and Marc Barthelemy, A typology of activities over a century of urban growth, *Nature Cities*, August 2024, 1(9), pp. 567–575. [![⟨10.1038/s44284-024-00108-7⟩](/assets/img/DOI_logo.svg.png){:.myicon}](https://doi.org/10.1038/s44284-024-00108-7 "doi:10.1038/s44284-024-00108-7")
 [![Code for the paper](/assets/img/file-code.svg){:.myicon}](https://doi.org/10.5281/zenodo.8388101 "Code for the paper")
 [![pdf](/assets/img/file-pdf.svg){:.myicon}](https://doi.org/10.48550/arXiv.2409.03263 "pdf")
